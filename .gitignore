@@ -1,0 +1,38 @@
+# ── Kimlik bilgileri — ASLA yüklenmez ──
+.env
+.env.local
+*.pem
+*.key
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+
+# ── Çalışma zamanı üretilen veri ──
+# Son bilinen filo anlık görüntüsü; her çalıştırmada yeniden oluşur.
+filo_anlik.json
+*.tmp
+
+# ── Sunum derleme artıkları ──
+# Tamamı yerel çalışma alanı: üretici betikler, ekran görüntüsü montajları,
+# node bağımlılıkları. 12 MB ve kodla ilgisi yok — sunum ayrı tutuluyor.
+.deck_build/
+*.pptx
+*.inspect.ndjson
+
+# ── İşletim sistemi ──
+.DS_Store
+__MACOSX/
+Thumbs.db
+desktop.ini
+
+# ── Calisma loglari ──
+*.log
+
+# ── Lisansi yeniden dagitima izin vermeyen varliklar ──
+# NT Josefine (Artem Nevsky, 2021) "Free for Personal use" — MIT ile dagitilamaz.
+static/fonts/

@@ -1,0 +1,2358 @@
+{
+  "surum": 2,
+  "kaynak": "İBB Açık Veri · Toplu Ulaşım GTFS Verisi",
+  "kaynak_url": "https://data.ibb.gov.tr/en/dataset/public-transport-gtfs-data",
+  "metadata_guncelleme": "2025-03-12T06:00:07.538249",
+  "not": "Planlı/statik raylı sistem verisidir; canlı araç konumu değildir.",
+  "hatlar": [
+    {
+      "id": "2047",
+      "kod": "F1",
+      "ad": "TAKSİM-KABATAŞ",
+      "isletmeci": "Metro İstanbul",
+      "mod": "funikuler",
+      "renk": "#163b65",
+      "siklik_dk": 10,
+      "istasyonlar": [
+        {
+          "id": "18954",
+          "ad": "Kabataş",
+          "lat": 41.034036,
+          "lon": 28.991938,
+          "erisilebilir": false,
+          "onceki_dk": null
+        },
+        {
+          "id": "18955",
+          "ad": "Taksim",
+          "lat": 41.036709,
+          "lon": 28.986802,
+          "erisilebilir": false,
+          "onceki_dk": 2.2
+        }
+      ]
+    },
+    {
+      "id": "2050",
+      "kod": "F2",
+      "ad": "KARAKÖY - BEYOĞLU",
+      "isletmeci": "Metro İstanbul",
+      "mod": "funikuler",
+      "renk": "#163b65",
+      "siklik_dk": 7,
+      "istasyonlar": [
+        {
+          "id": "18953",
+          "ad": "Beyoğlu",
+          "lat": 41.028327,
+          "lon": 28.974053,
+          "erisilebilir": false,
+          "onceki_dk": null
+        },
+        {
+          "id": "18956",
+          "ad": "Karaköy",
+          "lat": 41.022941,
+          "lon": 28.974033,
+          "erisilebilir": false,
+          "onceki_dk": 1.6
+        }
+      ]
+    },
+    {
+      "id": "7237",
+      "kod": "F3",
+      "ad": "SEYRANTEPE - VADİSTANBUL",
+      "isletmeci": "Metro İstanbul",
+      "mod": "funikuler",
+      "renk": "#163b65",
+      "siklik_dk": 3,
+      "istasyonlar": [
+        {
+          "id": "94833",
+          "ad": "Seyrantepe",
+          "lat": 41.103235,
+          "lon": 28.994429,
+          "erisilebilir": true,
+          "onceki_dk": null
+        },
+        {
+          "id": "94834",
+          "ad": "Vadistanbul",
+          "lat": 41.107512,
+          "lon": 28.988438,
+          "erisilebilir": true,
+          "onceki_dk": 3.0
+        }
+      ]
+    },
+    {
+      "id": "1296",
+      "kod": "M1A",
+      "ad": "YENİKAPI - ATATÜRK HAVALİMANI",
+      "isletmeci": "Metro İstanbul",
+      "mod": "metro",
+      "renk": "#163b65",
+      "siklik_dk": 10,
+      "istasyonlar": [
+        {
+          "id": "18962",
+          "ad": "Atatürk Havalimanı",
+          "lat": 40.979746,
+          "lon": 28.821102,
+          "erisilebilir": false,
+          "onceki_dk": null
+        },
+        {
+          "id": "18969",
+          "ad": "DTM - İstanbul Fuar Merkezi",
+          "lat": 40.986652,
+          "lon": 28.828532,
+          "erisilebilir": false,
+          "onceki_dk": 1.8
+        },
+        {
+          "id": "18973",
+          "ad": "Yenibosna",
+          "lat": 40.989334,
+          "lon": 28.836765,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "18974",
+          "ad": "Ataköy - Şirinevler",
+          "lat": 40.99136,
+          "lon": 28.846003,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "18965",
+          "ad": "Bahçelievler",
+          "lat": 40.995365,
+          "lon": 28.863445,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "18961",
+          "ad": "Bakırköy - İncirli",
+          "lat": 40.996616,
+          "lon": 28.875372,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "18959",
+          "ad": "Zeytinburnu",
+          "lat": 41.001708,
+          "lon": 28.889752,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "18960",
+          "ad": "Merter",
+          "lat": 41.007621,
+          "lon": 28.896162,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "18958",
+          "ad": "Davutpaşa - YTÜ",
+          "lat": 41.02046,
+          "lon": 28.900268,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "18972",
+          "ad": "Terazidere",
+          "lat": 41.030321,
+          "lon": 28.89796,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "18966",
+          "ad": "Otogar",
+          "lat": 41.040165,
+          "lon": 28.89454,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "18968",
+          "ad": "Kocatepe",
+          "lat": 41.048436,
+          "lon": 28.895379,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "18967",
+          "ad": "Sağmalcılar",
+          "lat": 41.040861,
+          "lon": 28.907216,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "18963",
+          "ad": "Bayrampaşa - Maltepe",
+          "lat": 41.034099,
+          "lon": 28.920222,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "18971",
+          "ad": "Topkapı - Ulubatlı",
+          "lat": 41.024274,
+          "lon": 28.930159,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "18964",
+          "ad": "Emniyet - Fatih",
+          "lat": 41.018088,
+          "lon": 28.939073,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "18957",
+          "ad": "Aksaray",
+          "lat": 41.011834,
+          "lon": 28.948014,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "18988",
+          "ad": "Yenikapı",
+          "lat": 41.005589,
+          "lon": 28.950476,
+          "erisilebilir": false,
+          "onceki_dk": 1.0
+        }
+      ]
+    },
+    {
+      "id": "1293",
+      "kod": "M1B",
+      "ad": "YENİKAPI - KİRAZLI",
+      "isletmeci": "Metro İstanbul",
+      "mod": "metro",
+      "renk": "#163b65",
+      "siklik_dk": 10,
+      "istasyonlar": [
+        {
+          "id": "94903",
+          "ad": "Kirazlı Bağcılar",
+          "lat": 41.032446,
+          "lon": 28.842428,
+          "erisilebilir": false,
+          "onceki_dk": null
+        },
+        {
+          "id": "19000",
+          "ad": "Bağcılar Meydan",
+          "lat": 41.034512,
+          "lon": 28.856104,
+          "erisilebilir": false,
+          "onceki_dk": 2.8
+        },
+        {
+          "id": "19020",
+          "ad": "Üçyüzlü",
+          "lat": 41.036716,
+          "lon": 28.87062,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "19013",
+          "ad": "Menderes",
+          "lat": 41.042772,
+          "lon": 28.878514,
+          "erisilebilir": false,
+          "onceki_dk": 1.5
+        },
+        {
+          "id": "18970",
+          "ad": "Esenler",
+          "lat": 41.037583,
+          "lon": 28.888449,
+          "erisilebilir": false,
+          "onceki_dk": 1.9
+        },
+        {
+          "id": "18966",
+          "ad": "Otogar",
+          "lat": 41.040165,
+          "lon": 28.89454,
+          "erisilebilir": false,
+          "onceki_dk": 1.3
+        },
+        {
+          "id": "18968",
+          "ad": "Kocatepe",
+          "lat": 41.048436,
+          "lon": 28.895379,
+          "erisilebilir": false,
+          "onceki_dk": 1.7
+        },
+        {
+          "id": "18967",
+          "ad": "Sağmalcılar",
+          "lat": 41.040861,
+          "lon": 28.907216,
+          "erisilebilir": false,
+          "onceki_dk": 2.4
+        },
+        {
+          "id": "18963",
+          "ad": "Bayrampaşa - Maltepe",
+          "lat": 41.034099,
+          "lon": 28.920222,
+          "erisilebilir": false,
+          "onceki_dk": 2.2
+        },
+        {
+          "id": "18971",
+          "ad": "Topkapı - Ulubatlı",
+          "lat": 41.024274,
+          "lon": 28.930159,
+          "erisilebilir": false,
+          "onceki_dk": 2.1
+        },
+        {
+          "id": "18964",
+          "ad": "Emniyet - Fatih",
+          "lat": 41.018088,
+          "lon": 28.939073,
+          "erisilebilir": false,
+          "onceki_dk": 1.6
+        },
+        {
+          "id": "18957",
+          "ad": "Aksaray",
+          "lat": 41.011834,
+          "lon": 28.948014,
+          "erisilebilir": false,
+          "onceki_dk": 1.6
+        },
+        {
+          "id": "18988",
+          "ad": "Yenikapı",
+          "lat": 41.005589,
+          "lon": 28.950476,
+          "erisilebilir": false,
+          "onceki_dk": 1.3
+        }
+      ]
+    },
+    {
+      "id": "1298",
+      "kod": "M2",
+      "ad": "YENİKAPI - HACIOSMAN",
+      "isletmeci": "Metro İstanbul",
+      "mod": "metro",
+      "renk": "#163b65",
+      "siklik_dk": 10,
+      "istasyonlar": [
+        {
+          "id": "19233",
+          "ad": "Yenikapı",
+          "lat": 41.005586,
+          "lon": 28.95142,
+          "erisilebilir": false,
+          "onceki_dk": null
+        },
+        {
+          "id": "94904",
+          "ad": "Vezneciler - İstanbul Ü.",
+          "lat": 41.012265,
+          "lon": 28.959835,
+          "erisilebilir": false,
+          "onceki_dk": 2.3
+        },
+        {
+          "id": "18989",
+          "ad": "Haliç",
+          "lat": 41.022435,
+          "lon": 28.966422,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "19005",
+          "ad": "Şişhane",
+          "lat": 41.028287,
+          "lon": 28.972843,
+          "erisilebilir": false,
+          "onceki_dk": 1.4
+        },
+        {
+          "id": "18996",
+          "ad": "Taksim",
+          "lat": 41.038169,
+          "lon": 28.985653,
+          "erisilebilir": false,
+          "onceki_dk": 2.4
+        },
+        {
+          "id": "19002",
+          "ad": "Osmanbey",
+          "lat": 41.053565,
+          "lon": 28.987284,
+          "erisilebilir": false,
+          "onceki_dk": 2.6
+        },
+        {
+          "id": "94908",
+          "ad": "Şişli - Mecidiyeköy",
+          "lat": 41.064912,
+          "lon": 28.993251,
+          "erisilebilir": false,
+          "onceki_dk": 2.2
+        },
+        {
+          "id": "19018",
+          "ad": "Gayrettepe",
+          "lat": 41.069084,
+          "lon": 29.01084,
+          "erisilebilir": false,
+          "onceki_dk": 2.4
+        },
+        {
+          "id": "18993",
+          "ad": "Levent",
+          "lat": 41.07647,
+          "lon": 29.014241,
+          "erisilebilir": false,
+          "onceki_dk": 1.7
+        },
+        {
+          "id": "19017",
+          "ad": "4. Levent",
+          "lat": 41.085796,
+          "lon": 29.006783,
+          "erisilebilir": false,
+          "onceki_dk": 1.9
+        },
+        {
+          "id": "18983",
+          "ad": "Sanayi Mahallesi",
+          "lat": 41.094249,
+          "lon": 29.005097,
+          "erisilebilir": false,
+          "onceki_dk": 1.5
+        },
+        {
+          "id": "94909",
+          "ad": "İTÜ - Ayazağa",
+          "lat": 41.108103,
+          "lon": 29.020804,
+          "erisilebilir": false,
+          "onceki_dk": 3.2
+        },
+        {
+          "id": "94905",
+          "ad": "Atatürk Oto Sanayi",
+          "lat": 41.117973,
+          "lon": 29.024195,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "94906",
+          "ad": "Darüşşafaka",
+          "lat": 41.129656,
+          "lon": 29.025036,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "19025",
+          "ad": "Hacıosman",
+          "lat": 41.139815,
+          "lon": 29.03054,
+          "erisilebilir": false,
+          "onceki_dk": 1.9
+        }
+      ]
+    },
+    {
+      "id": "2044",
+      "kod": "M2A",
+      "ad": "SANAYİ MAHALLESİ - SEYRANTEPE",
+      "isletmeci": "Metro İstanbul",
+      "mod": "metro",
+      "renk": "#163b65",
+      "siklik_dk": 10,
+      "istasyonlar": [
+        {
+          "id": "18992",
+          "ad": "Seyrantepe",
+          "lat": 41.100951,
+          "lon": 28.995685,
+          "erisilebilir": false,
+          "onceki_dk": null
+        },
+        {
+          "id": "18983",
+          "ad": "Sanayi Mahallesi",
+          "lat": 41.094249,
+          "lon": 29.005097,
+          "erisilebilir": false,
+          "onceki_dk": 1.5
+        }
+      ]
+    },
+    {
+      "id": "1297",
+      "kod": "M3",
+      "ad": "KİRAZLI - OLİMPİYAT - BAŞAKŞEHİR",
+      "isletmeci": "Metro İstanbul",
+      "mod": "metro",
+      "renk": "#163b65",
+      "siklik_dk": 10,
+      "istasyonlar": [
+        {
+          "id": "18986",
+          "ad": "Başakşehir - Metrokent",
+          "lat": 41.107588,
+          "lon": 28.801481,
+          "erisilebilir": false,
+          "onceki_dk": null
+        },
+        {
+          "id": "18998",
+          "ad": "Başak Konutları",
+          "lat": 41.097669,
+          "lon": 28.791287,
+          "erisilebilir": false,
+          "onceki_dk": 2.8
+        },
+        {
+          "id": "18985",
+          "ad": "Siteler",
+          "lat": 41.088201,
+          "lon": 28.796514,
+          "erisilebilir": false,
+          "onceki_dk": 1.9
+        },
+        {
+          "id": "19009",
+          "ad": "Turgut Özal",
+          "lat": 41.081184,
+          "lon": 28.797409,
+          "erisilebilir": false,
+          "onceki_dk": 1.3
+        },
+        {
+          "id": "18999",
+          "ad": "İkitelli Sanayi",
+          "lat": 41.07247,
+          "lon": 28.802437,
+          "erisilebilir": false,
+          "onceki_dk": 1.8
+        },
+        {
+          "id": "19011",
+          "ad": "İstoç",
+          "lat": 41.064998,
+          "lon": 28.825963,
+          "erisilebilir": false,
+          "onceki_dk": 3.4
+        },
+        {
+          "id": "18981",
+          "ad": "Mahmutbey",
+          "lat": 41.054843,
+          "lon": 28.830528,
+          "erisilebilir": false,
+          "onceki_dk": 1.9
+        },
+        {
+          "id": "94910",
+          "ad": "Yenimahalle",
+          "lat": 41.040355,
+          "lon": 28.835942,
+          "erisilebilir": false,
+          "onceki_dk": 2.6
+        },
+        {
+          "id": "94903",
+          "ad": "Kirazlı Bağcılar",
+          "lat": 41.032446,
+          "lon": 28.842428,
+          "erisilebilir": false,
+          "onceki_dk": 1.7
+        }
+      ]
+    },
+    {
+      "id": "2045",
+      "kod": "M3A",
+      "ad": "İKİTELLİ SANAYİ - OLİMPİYAT",
+      "isletmeci": "Metro İstanbul",
+      "mod": "metro",
+      "renk": "#163b65",
+      "siklik_dk": 10,
+      "istasyonlar": [
+        {
+          "id": "18990",
+          "ad": "Olimpiyat",
+          "lat": 41.07963,
+          "lon": 28.767263,
+          "erisilebilir": false,
+          "onceki_dk": null
+        },
+        {
+          "id": "19003",
+          "ad": "Ziya Gökalp Mah.",
+          "lat": 41.074482,
+          "lon": 28.78653,
+          "erisilebilir": false,
+          "onceki_dk": 1.8
+        },
+        {
+          "id": "18999",
+          "ad": "İkitelli Sanayi",
+          "lat": 41.07247,
+          "lon": 28.802437,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        }
+      ]
+    },
+    {
+      "id": "1294",
+      "kod": "M4",
+      "ad": "KADIKÖY - TAVŞANTEPE",
+      "isletmeci": "Metro İstanbul",
+      "mod": "metro",
+      "renk": "#163b65",
+      "siklik_dk": 10,
+      "istasyonlar": [
+        {
+          "id": "53122",
+          "ad": "Tavşantepe",
+          "lat": 40.882344,
+          "lon": 29.248541,
+          "erisilebilir": false,
+          "onceki_dk": null
+        },
+        {
+          "id": "53121",
+          "ad": "Pendik",
+          "lat": 40.888525,
+          "lon": 29.238997,
+          "erisilebilir": false,
+          "onceki_dk": 2.1
+        },
+        {
+          "id": "94913",
+          "ad": "Yakacık - Adnan Kahveci",
+          "lat": 40.895835,
+          "lon": 29.227779,
+          "erisilebilir": false,
+          "onceki_dk": 1.9
+        },
+        {
+          "id": "19012",
+          "ad": "Kartal",
+          "lat": 40.906624,
+          "lon": 29.211403,
+          "erisilebilir": false,
+          "onceki_dk": 2.7
+        },
+        {
+          "id": "19019",
+          "ad": "Soğanlık",
+          "lat": 40.913293,
+          "lon": 29.192394,
+          "erisilebilir": false,
+          "onceki_dk": 2.6
+        },
+        {
+          "id": "19001",
+          "ad": "Hastane - Adliye",
+          "lat": 40.916386,
+          "lon": 29.178127,
+          "erisilebilir": false,
+          "onceki_dk": 1.9
+        },
+        {
+          "id": "19016",
+          "ad": "Esenkent",
+          "lat": 40.920867,
+          "lon": 29.166378,
+          "erisilebilir": false,
+          "onceki_dk": 1.7
+        },
+        {
+          "id": "19021",
+          "ad": "Gülsuyu",
+          "lat": 40.92381,
+          "lon": 29.154637,
+          "erisilebilir": false,
+          "onceki_dk": 1.6
+        },
+        {
+          "id": "19022",
+          "ad": "Huzurevi",
+          "lat": 40.93003,
+          "lon": 29.14691,
+          "erisilebilir": false,
+          "onceki_dk": 1.5
+        },
+        {
+          "id": "19015",
+          "ad": "Maltepe",
+          "lat": 40.935803,
+          "lon": 29.139587,
+          "erisilebilir": false,
+          "onceki_dk": 1.4
+        },
+        {
+          "id": "18991",
+          "ad": "Küçükyalı",
+          "lat": 40.948934,
+          "lon": 29.122005,
+          "erisilebilir": false,
+          "onceki_dk": 3.0
+        },
+        {
+          "id": "18975",
+          "ad": "Bostancı",
+          "lat": 40.964673,
+          "lon": 29.105255,
+          "erisilebilir": false,
+          "onceki_dk": 3.2
+        },
+        {
+          "id": "18977",
+          "ad": "Kozyatağı",
+          "lat": 40.975291,
+          "lon": 29.099668,
+          "erisilebilir": false,
+          "onceki_dk": 1.9
+        },
+        {
+          "id": "18997",
+          "ad": "Yenisahra",
+          "lat": 40.984675,
+          "lon": 29.090462,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "18976",
+          "ad": "Göztepe",
+          "lat": 40.994038,
+          "lon": 29.070721,
+          "erisilebilir": false,
+          "onceki_dk": 2.9
+        },
+        {
+          "id": "18995",
+          "ad": "Ünalan",
+          "lat": 40.998159,
+          "lon": 29.059906,
+          "erisilebilir": false,
+          "onceki_dk": 1.6
+        },
+        {
+          "id": "19024",
+          "ad": "Acıbadem",
+          "lat": 41.002315,
+          "lon": 29.044479,
+          "erisilebilir": false,
+          "onceki_dk": 2.1
+        },
+        {
+          "id": "94911",
+          "ad": "Ayrılık Çeşmesi",
+          "lat": 41.000117,
+          "lon": 29.030324,
+          "erisilebilir": false,
+          "onceki_dk": 2.2
+        },
+        {
+          "id": "19007",
+          "ad": "Kadıköy",
+          "lat": 40.990489,
+          "lon": 29.022085,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        }
+      ]
+    },
+    {
+      "id": "7098",
+      "kod": "M5",
+      "ad": "ÜSKÜDAR - ÇEKMEKÖY",
+      "isletmeci": "Metro İstanbul",
+      "mod": "metro",
+      "renk": "#163b65",
+      "siklik_dk": 10,
+      "istasyonlar": [
+        {
+          "id": "94998",
+          "ad": "Çekmeköy",
+          "lat": 41.014508,
+          "lon": 29.189659,
+          "erisilebilir": true,
+          "onceki_dk": null
+        },
+        {
+          "id": "94997",
+          "ad": "Necip Fazıl",
+          "lat": 41.016157,
+          "lon": 29.178987,
+          "erisilebilir": true,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "94995",
+          "ad": "Dudullu",
+          "lat": 41.015265,
+          "lon": 29.162322,
+          "erisilebilir": true,
+          "onceki_dk": 2.2
+        },
+        {
+          "id": "94994",
+          "ad": "İmam Hatip",
+          "lat": 41.01595,
+          "lon": 29.151565,
+          "erisilebilir": true,
+          "onceki_dk": 1.5
+        },
+        {
+          "id": "94993",
+          "ad": "Altınşehir",
+          "lat": 41.016533,
+          "lon": 29.140555,
+          "erisilebilir": true,
+          "onceki_dk": 1.5
+        },
+        {
+          "id": "94992",
+          "ad": "Ihlamurkuyu",
+          "lat": 41.019758,
+          "lon": 29.130415,
+          "erisilebilir": true,
+          "onceki_dk": 1.5
+        },
+        {
+          "id": "94996",
+          "ad": "Çakmak",
+          "lat": 41.021563,
+          "lon": 29.118367,
+          "erisilebilir": true,
+          "onceki_dk": 1.7
+        },
+        {
+          "id": "87264",
+          "ad": "Yamanevler",
+          "lat": 41.024155,
+          "lon": 29.108778,
+          "erisilebilir": true,
+          "onceki_dk": 1.4
+        },
+        {
+          "id": "87263",
+          "ad": "Çarşı",
+          "lat": 41.025943,
+          "lon": 29.097319,
+          "erisilebilir": true,
+          "onceki_dk": 1.6
+        },
+        {
+          "id": "87262",
+          "ad": "Ümraniye",
+          "lat": 41.024624,
+          "lon": 29.084781,
+          "erisilebilir": true,
+          "onceki_dk": 1.7
+        },
+        {
+          "id": "87261",
+          "ad": "Bulgurlu",
+          "lat": 41.016344,
+          "lon": 29.076244,
+          "erisilebilir": true,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "87260",
+          "ad": "Kısıklı",
+          "lat": 41.022183,
+          "lon": 29.062083,
+          "erisilebilir": true,
+          "onceki_dk": 2.3
+        },
+        {
+          "id": "87259",
+          "ad": "Altunizade",
+          "lat": 41.021954,
+          "lon": 29.048291,
+          "erisilebilir": true,
+          "onceki_dk": 1.9
+        },
+        {
+          "id": "87258",
+          "ad": "Bağlarbaşı",
+          "lat": 41.021915,
+          "lon": 29.036414,
+          "erisilebilir": true,
+          "onceki_dk": 1.8
+        },
+        {
+          "id": "87257",
+          "ad": "Fıstık Ağacı",
+          "lat": 41.028254,
+          "lon": 29.028845,
+          "erisilebilir": true,
+          "onceki_dk": 1.7
+        },
+        {
+          "id": "87256",
+          "ad": "Üsküdar",
+          "lat": 41.025297,
+          "lon": 29.012816,
+          "erisilebilir": true,
+          "onceki_dk": 2.2
+        }
+      ]
+    },
+    {
+      "id": "3811",
+      "kod": "M6",
+      "ad": "LEVENT - BOĞAZİÇİ Ü./HİSARÜSTÜ",
+      "isletmeci": "Metro İstanbul",
+      "mod": "metro",
+      "renk": "#163b65",
+      "siklik_dk": 10,
+      "istasyonlar": [
+        {
+          "id": "40120",
+          "ad": "Boğaziçi Üniversitesi",
+          "lat": 41.085351,
+          "lon": 29.045571,
+          "erisilebilir": false,
+          "onceki_dk": null
+        },
+        {
+          "id": "40121",
+          "ad": "Etiler",
+          "lat": 41.082344,
+          "lon": 29.037541,
+          "erisilebilir": false,
+          "onceki_dk": 2.3
+        },
+        {
+          "id": "40122",
+          "ad": "Nispetiye",
+          "lat": 41.077311,
+          "lon": 29.024249,
+          "erisilebilir": false,
+          "onceki_dk": 2.3
+        },
+        {
+          "id": "40123",
+          "ad": "Levent",
+          "lat": 41.075509,
+          "lon": 29.014522,
+          "erisilebilir": false,
+          "onceki_dk": 2.3
+        }
+      ]
+    },
+    {
+      "id": "28189",
+      "kod": "M7",
+      "ad": "YILDIZ - MAHMUTBEY",
+      "isletmeci": "Metro İstanbul",
+      "mod": "metro",
+      "renk": "#163b65",
+      "siklik_dk": 8,
+      "istasyonlar": [
+        {
+          "id": "272167",
+          "ad": "Mahmutbey",
+          "lat": 41.054903,
+          "lon": 28.831501,
+          "erisilebilir": true,
+          "onceki_dk": null
+        },
+        {
+          "id": "272181",
+          "ad": "Göztepe Mah.",
+          "lat": 41.056837,
+          "lon": 28.848131,
+          "erisilebilir": true,
+          "onceki_dk": 2.7
+        },
+        {
+          "id": "272180",
+          "ad": "Oruç Reis - Yüzyıl",
+          "lat": 41.062847,
+          "lon": 28.85538,
+          "erisilebilir": true,
+          "onceki_dk": 1.6
+        },
+        {
+          "id": "272179",
+          "ad": "Tekstilkent - Giyimkent",
+          "lat": 41.07149,
+          "lon": 28.866978,
+          "erisilebilir": true,
+          "onceki_dk": 2.2
+        },
+        {
+          "id": "272178",
+          "ad": "Karadeniz Mah.",
+          "lat": 41.08119,
+          "lon": 28.875066,
+          "erisilebilir": true,
+          "onceki_dk": 1.9
+        },
+        {
+          "id": "272177",
+          "ad": "Yenimahalle",
+          "lat": 41.083855,
+          "lon": 28.892687,
+          "erisilebilir": true,
+          "onceki_dk": 2.6
+        },
+        {
+          "id": "272176",
+          "ad": "Kazım Karabekir",
+          "lat": 41.085374,
+          "lon": 28.908398,
+          "erisilebilir": true,
+          "onceki_dk": 2.2
+        },
+        {
+          "id": "272175",
+          "ad": "Yeşilpınar",
+          "lat": 41.082304,
+          "lon": 28.918313,
+          "erisilebilir": true,
+          "onceki_dk": 1.5
+        },
+        {
+          "id": "272174",
+          "ad": "Veysel Karani - Akşemsettin",
+          "lat": 41.079686,
+          "lon": 28.928102,
+          "erisilebilir": true,
+          "onceki_dk": 1.4
+        },
+        {
+          "id": "272173",
+          "ad": "Çırçır Mah.",
+          "lat": 41.080228,
+          "lon": 28.936225,
+          "erisilebilir": true,
+          "onceki_dk": 1.2
+        },
+        {
+          "id": "272172",
+          "ad": "Alibeyköy",
+          "lat": 41.079115,
+          "lon": 28.949633,
+          "erisilebilir": true,
+          "onceki_dk": 1.8
+        },
+        {
+          "id": "272171",
+          "ad": "Nurtepe",
+          "lat": 41.079765,
+          "lon": 28.963542,
+          "erisilebilir": true,
+          "onceki_dk": 1.9
+        },
+        {
+          "id": "272170",
+          "ad": "Kağıthane",
+          "lat": 41.079564,
+          "lon": 28.973301,
+          "erisilebilir": true,
+          "onceki_dk": 1.4
+        },
+        {
+          "id": "272169",
+          "ad": "Çağlayan",
+          "lat": 41.070657,
+          "lon": 28.980483,
+          "erisilebilir": true,
+          "onceki_dk": 1.9
+        },
+        {
+          "id": "272168",
+          "ad": "Mecidiyeköy",
+          "lat": 41.06523,
+          "lon": 28.995391,
+          "erisilebilir": true,
+          "onceki_dk": 2.2
+        },
+        {
+          "id": "272199",
+          "ad": "Fulya",
+          "lat": 41.061994,
+          "lon": 29.007413,
+          "erisilebilir": true,
+          "onceki_dk": 2.5
+        },
+        {
+          "id": "272200",
+          "ad": "Yıldız",
+          "lat": 41.05411,
+          "lon": 29.009678,
+          "erisilebilir": true,
+          "onceki_dk": 2.5
+        }
+      ]
+    },
+    {
+      "id": "28193",
+      "kod": "M8",
+      "ad": "BOSTANCI - DUDULLU",
+      "isletmeci": "Metro İstanbul",
+      "mod": "metro",
+      "renk": "#163b65",
+      "siklik_dk": 4,
+      "istasyonlar": [
+        {
+          "id": "272197",
+          "ad": "Parseller",
+          "lat": 41.031243,
+          "lon": 29.152667,
+          "erisilebilir": true,
+          "onceki_dk": null
+        },
+        {
+          "id": "272198",
+          "ad": "Huzur",
+          "lat": 41.022634,
+          "lon": 29.159551,
+          "erisilebilir": true,
+          "onceki_dk": 2.2
+        },
+        {
+          "id": "272196",
+          "ad": "Dudullu",
+          "lat": 41.015233,
+          "lon": 29.163287,
+          "erisilebilir": true,
+          "onceki_dk": 1.4
+        },
+        {
+          "id": "272195",
+          "ad": "Modoko - Keyap",
+          "lat": 41.007188,
+          "lon": 29.161855,
+          "erisilebilir": true,
+          "onceki_dk": 1.5
+        },
+        {
+          "id": "272194",
+          "ad": "İmes",
+          "lat": 41.000148,
+          "lon": 29.156212,
+          "erisilebilir": true,
+          "onceki_dk": 1.5
+        },
+        {
+          "id": "272193",
+          "ad": "Mevlana",
+          "lat": 40.992156,
+          "lon": 29.153357,
+          "erisilebilir": true,
+          "onceki_dk": 1.6
+        },
+        {
+          "id": "272192",
+          "ad": "Kayışdağı",
+          "lat": 40.98469,
+          "lon": 29.137731,
+          "erisilebilir": true,
+          "onceki_dk": 2.3
+        },
+        {
+          "id": "272191",
+          "ad": "İçerenköy",
+          "lat": 40.978985,
+          "lon": 29.126425,
+          "erisilebilir": true,
+          "onceki_dk": 1.9
+        },
+        {
+          "id": "272190",
+          "ad": "Küçükbakkalköy",
+          "lat": 40.978918,
+          "lon": 29.111741,
+          "erisilebilir": true,
+          "onceki_dk": 1.9
+        },
+        {
+          "id": "272189",
+          "ad": "Kozyatağı",
+          "lat": 40.977502,
+          "lon": 29.0999,
+          "erisilebilir": true,
+          "onceki_dk": 1.6
+        },
+        {
+          "id": "272188",
+          "ad": "Ayşe Kadın",
+          "lat": 40.966777,
+          "lon": 29.086718,
+          "erisilebilir": true,
+          "onceki_dk": 2.7
+        },
+        {
+          "id": "272187",
+          "ad": "Emin Ali Paşa",
+          "lat": 40.960547,
+          "lon": 29.093708,
+          "erisilebilir": true,
+          "onceki_dk": 1.5
+        },
+        {
+          "id": "272186",
+          "ad": "Bostancı",
+          "lat": 40.950887,
+          "lon": 29.097619,
+          "erisilebilir": true,
+          "onceki_dk": 1.9
+        }
+      ]
+    },
+    {
+      "id": "28190",
+      "kod": "M9",
+      "ad": "BAHARİYE - OLİMPİYAT",
+      "isletmeci": "Metro İstanbul",
+      "mod": "metro",
+      "renk": "#163b65",
+      "siklik_dk": 10,
+      "istasyonlar": [
+        {
+          "id": "18990",
+          "ad": "Olimpiyat",
+          "lat": 41.07963,
+          "lon": 28.767263,
+          "erisilebilir": false,
+          "onceki_dk": null
+        },
+        {
+          "id": "19003",
+          "ad": "Ziya Gökalp Mah.",
+          "lat": 41.074482,
+          "lon": 28.78653,
+          "erisilebilir": false,
+          "onceki_dk": 3.0
+        },
+        {
+          "id": "272184",
+          "ad": "İkitelli Sanayi",
+          "lat": 41.072388,
+          "lon": 28.80223,
+          "erisilebilir": true,
+          "onceki_dk": 3.0
+        },
+        {
+          "id": "272183",
+          "ad": "Masko",
+          "lat": 41.064064,
+          "lon": 28.803998,
+          "erisilebilir": true,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "272182",
+          "ad": "Bahariye",
+          "lat": 41.058395,
+          "lon": 28.799374,
+          "erisilebilir": true,
+          "onceki_dk": 2.0
+        }
+      ]
+    },
+    {
+      "id": "26615",
+      "kod": "Marmaray",
+      "ad": "GEBZE-HALKALI",
+      "isletmeci": "Marmaray",
+      "mod": "marmaray",
+      "renk": "#7b1f3a",
+      "siklik_dk": 15,
+      "istasyonlar": [
+        {
+          "id": "214354",
+          "ad": "Halkalı",
+          "lat": 41.017843,
+          "lon": 28.766438,
+          "erisilebilir": true,
+          "onceki_dk": null
+        },
+        {
+          "id": "214355",
+          "ad": "Mustafa Kemal",
+          "lat": 41.006279,
+          "lon": 28.77395,
+          "erisilebilir": true,
+          "onceki_dk": 2.9
+        },
+        {
+          "id": "214356",
+          "ad": "Küçükçekmece",
+          "lat": 40.98853,
+          "lon": 28.772954,
+          "erisilebilir": true,
+          "onceki_dk": 3.3
+        },
+        {
+          "id": "214357",
+          "ad": "Florya",
+          "lat": 40.972963,
+          "lon": 28.787477,
+          "erisilebilir": true,
+          "onceki_dk": 3.5
+        },
+        {
+          "id": "214358",
+          "ad": "Florya Akvaryum",
+          "lat": 40.967772,
+          "lon": 28.797046,
+          "erisilebilir": true,
+          "onceki_dk": 1.6
+        },
+        {
+          "id": "214359",
+          "ad": "Yeşilköy",
+          "lat": 40.962658,
+          "lon": 28.824883,
+          "erisilebilir": true,
+          "onceki_dk": 3.6
+        },
+        {
+          "id": "214360",
+          "ad": "Yeşilyurt",
+          "lat": 40.965476,
+          "lon": 28.837282,
+          "erisilebilir": true,
+          "onceki_dk": 1.8
+        },
+        {
+          "id": "214361",
+          "ad": "Ataköy",
+          "lat": 40.980217,
+          "lon": 28.856225,
+          "erisilebilir": true,
+          "onceki_dk": 3.6
+        },
+        {
+          "id": "214362",
+          "ad": "Bakırköy",
+          "lat": 40.980266,
+          "lon": 28.872319,
+          "erisilebilir": true,
+          "onceki_dk": 2.1
+        },
+        {
+          "id": "214363",
+          "ad": "Yenimahalle",
+          "lat": 40.981739,
+          "lon": 28.881051,
+          "erisilebilir": true,
+          "onceki_dk": 1.2
+        },
+        {
+          "id": "214364",
+          "ad": "Zeytinburnu",
+          "lat": 40.985875,
+          "lon": 28.905446,
+          "erisilebilir": true,
+          "onceki_dk": 3.2
+        },
+        {
+          "id": "12262",
+          "ad": "Kazlıçeşme",
+          "lat": 40.992687,
+          "lon": 28.916883,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "12261",
+          "ad": "Yenikapı",
+          "lat": 41.004779,
+          "lon": 28.94958,
+          "erisilebilir": false,
+          "onceki_dk": 4.7
+        },
+        {
+          "id": "12260",
+          "ad": "Sirkeci",
+          "lat": 41.013546,
+          "lon": 28.977054,
+          "erisilebilir": false,
+          "onceki_dk": 3.7
+        },
+        {
+          "id": "12259",
+          "ad": "Üsküdar",
+          "lat": 41.025757,
+          "lon": 29.013793,
+          "erisilebilir": false,
+          "onceki_dk": 4.8
+        },
+        {
+          "id": "12258",
+          "ad": "Ayrılıkçeşme",
+          "lat": 41.000143,
+          "lon": 29.030141,
+          "erisilebilir": false,
+          "onceki_dk": 5.4
+        },
+        {
+          "id": "214370",
+          "ad": "Söğütlüçeşme",
+          "lat": 40.990902,
+          "lon": 29.037628,
+          "erisilebilir": true,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "214371",
+          "ad": "Feneryolu",
+          "lat": 40.978696,
+          "lon": 29.049008,
+          "erisilebilir": true,
+          "onceki_dk": 2.5
+        },
+        {
+          "id": "214372",
+          "ad": "Göztepe",
+          "lat": 40.979165,
+          "lon": 29.062559,
+          "erisilebilir": true,
+          "onceki_dk": 1.8
+        },
+        {
+          "id": "214373",
+          "ad": "Erenköy",
+          "lat": 40.971409,
+          "lon": 29.076473,
+          "erisilebilir": true,
+          "onceki_dk": 2.3
+        },
+        {
+          "id": "214374",
+          "ad": "Suadiye",
+          "lat": 40.960475,
+          "lon": 29.084419,
+          "erisilebilir": true,
+          "onceki_dk": 2.4
+        },
+        {
+          "id": "214375",
+          "ad": "Bostancı",
+          "lat": 40.9538,
+          "lon": 29.095059,
+          "erisilebilir": true,
+          "onceki_dk": 1.9
+        },
+        {
+          "id": "214376",
+          "ad": "Küçükyalı",
+          "lat": 40.946257,
+          "lon": 29.106822,
+          "erisilebilir": true,
+          "onceki_dk": 2.1
+        },
+        {
+          "id": "214377",
+          "ad": "İdealtepe",
+          "lat": 40.937807,
+          "lon": 29.114256,
+          "erisilebilir": true,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "214378",
+          "ad": "Süreyya Plajı",
+          "lat": 40.92683,
+          "lon": 29.124205,
+          "erisilebilir": true,
+          "onceki_dk": 2.2
+        },
+        {
+          "id": "214379",
+          "ad": "Maltepe",
+          "lat": 40.920646,
+          "lon": 29.133526,
+          "erisilebilir": true,
+          "onceki_dk": 1.7
+        },
+        {
+          "id": "214380",
+          "ad": "Cevizli",
+          "lat": 40.910015,
+          "lon": 29.156045,
+          "erisilebilir": true,
+          "onceki_dk": 3.2
+        },
+        {
+          "id": "214381",
+          "ad": "Atalar",
+          "lat": 40.898588,
+          "lon": 29.169454,
+          "erisilebilir": true,
+          "onceki_dk": 2.5
+        },
+        {
+          "id": "214382",
+          "ad": "Başak",
+          "lat": 40.890559,
+          "lon": 29.177353,
+          "erisilebilir": true,
+          "onceki_dk": 1.8
+        },
+        {
+          "id": "214383",
+          "ad": "Kartal",
+          "lat": 40.888613,
+          "lon": 29.19119,
+          "erisilebilir": true,
+          "onceki_dk": 2.2
+        },
+        {
+          "id": "214384",
+          "ad": "Yunus",
+          "lat": 40.884505,
+          "lon": 29.210535,
+          "erisilebilir": true,
+          "onceki_dk": 2.6
+        },
+        {
+          "id": "214385",
+          "ad": "Pendik",
+          "lat": 40.880207,
+          "lon": 29.231672,
+          "erisilebilir": true,
+          "onceki_dk": 2.8
+        },
+        {
+          "id": "214386",
+          "ad": "Kaynarca",
+          "lat": 40.871303,
+          "lon": 29.256034,
+          "erisilebilir": true,
+          "onceki_dk": 3.4
+        },
+        {
+          "id": "214387",
+          "ad": "Tersane",
+          "lat": 40.860977,
+          "lon": 29.273364,
+          "erisilebilir": true,
+          "onceki_dk": 2.8
+        },
+        {
+          "id": "214388",
+          "ad": "Güzelyalı",
+          "lat": 40.856855,
+          "lon": 29.283496,
+          "erisilebilir": true,
+          "onceki_dk": 1.6
+        },
+        {
+          "id": "214389",
+          "ad": "Aydıntepe",
+          "lat": 40.852289,
+          "lon": 29.293166,
+          "erisilebilir": true,
+          "onceki_dk": 1.6
+        },
+        {
+          "id": "214390",
+          "ad": "İçmeler",
+          "lat": 40.845651,
+          "lon": 29.300061,
+          "erisilebilir": true,
+          "onceki_dk": 1.5
+        },
+        {
+          "id": "214391",
+          "ad": "Tuzla",
+          "lat": 40.829952,
+          "lon": 29.32236,
+          "erisilebilir": true,
+          "onceki_dk": 3.7
+        },
+        {
+          "id": "214369",
+          "ad": "Çayırova",
+          "lat": 40.810498,
+          "lon": 29.347513,
+          "erisilebilir": true,
+          "onceki_dk": 4.5
+        },
+        {
+          "id": "214368",
+          "ad": "Fatih",
+          "lat": 40.807626,
+          "lon": 29.363926,
+          "erisilebilir": true,
+          "onceki_dk": 2.1
+        },
+        {
+          "id": "214367",
+          "ad": "Osmangazi",
+          "lat": 40.799272,
+          "lon": 29.380014,
+          "erisilebilir": true,
+          "onceki_dk": 2.5
+        },
+        {
+          "id": "214366",
+          "ad": "Darıca",
+          "lat": 40.791419,
+          "lon": 29.391838,
+          "erisilebilir": true,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "214365",
+          "ad": "Gebze",
+          "lat": 40.784249,
+          "lon": 29.409563,
+          "erisilebilir": true,
+          "onceki_dk": 2.5
+        }
+      ]
+    },
+    {
+      "id": "26727",
+      "kod": "Marmaray",
+      "ad": "SÖĞÜTLÜÇEŞME - ZEYTİNBURNU",
+      "isletmeci": "Marmaray",
+      "mod": "marmaray",
+      "renk": "#7b1f3a",
+      "siklik_dk": 8,
+      "istasyonlar": [
+        {
+          "id": "214364",
+          "ad": "Zeytinburnu",
+          "lat": 40.985875,
+          "lon": 28.905446,
+          "erisilebilir": true,
+          "onceki_dk": null
+        },
+        {
+          "id": "12262",
+          "ad": "Kazlıçeşme",
+          "lat": 40.992687,
+          "lon": 28.916883,
+          "erisilebilir": false,
+          "onceki_dk": 4.0
+        },
+        {
+          "id": "12261",
+          "ad": "Yenikapı",
+          "lat": 41.004779,
+          "lon": 28.94958,
+          "erisilebilir": false,
+          "onceki_dk": 4.0
+        },
+        {
+          "id": "12260",
+          "ad": "Sirkeci",
+          "lat": 41.013546,
+          "lon": 28.977054,
+          "erisilebilir": false,
+          "onceki_dk": 3.0
+        },
+        {
+          "id": "12259",
+          "ad": "Üsküdar",
+          "lat": 41.025757,
+          "lon": 29.013793,
+          "erisilebilir": false,
+          "onceki_dk": 4.0
+        },
+        {
+          "id": "12258",
+          "ad": "Ayrılıkçeşme",
+          "lat": 41.000143,
+          "lon": 29.030141,
+          "erisilebilir": false,
+          "onceki_dk": 4.0
+        },
+        {
+          "id": "214370",
+          "ad": "Söğütlüçeşme",
+          "lat": 40.990902,
+          "lon": 29.037628,
+          "erisilebilir": true,
+          "onceki_dk": 5.0
+        }
+      ]
+    },
+    {
+      "id": "28188",
+      "kod": "Marmaray",
+      "ad": "HALKALI - BAHÇEŞEHİR",
+      "isletmeci": "Marmaray",
+      "mod": "marmaray",
+      "renk": "#7b1f3a",
+      "siklik_dk": 8,
+      "istasyonlar": [
+        {
+          "id": "272166",
+          "ad": "Bahçeşehir",
+          "lat": 41.08419,
+          "lon": 28.679335,
+          "erisilebilir": true,
+          "onceki_dk": null
+        },
+        {
+          "id": "272165",
+          "ad": "Ispartakule",
+          "lat": 41.063343,
+          "lon": 28.699285,
+          "erisilebilir": true,
+          "onceki_dk": 4.6
+        },
+        {
+          "id": "272164",
+          "ad": "Altınşehir",
+          "lat": 41.047911,
+          "lon": 28.747891,
+          "erisilebilir": true,
+          "onceki_dk": 9.2
+        },
+        {
+          "id": "272163",
+          "ad": "Konut Birlik",
+          "lat": 41.034726,
+          "lon": 28.763268,
+          "erisilebilir": true,
+          "onceki_dk": 3.0
+        },
+        {
+          "id": "214354",
+          "ad": "Halkalı",
+          "lat": 41.017843,
+          "lon": 28.766438,
+          "erisilebilir": true,
+          "onceki_dk": 2.8
+        }
+      ]
+    },
+    {
+      "id": "4065",
+      "kod": "T1",
+      "ad": "BAĞCILAR - KABATAŞ",
+      "isletmeci": "Metro İstanbul",
+      "mod": "tramvay",
+      "renk": "#163b65",
+      "siklik_dk": 10,
+      "istasyonlar": [
+        {
+          "id": "19069",
+          "ad": "Kabataş",
+          "lat": 41.034441,
+          "lon": 28.992683,
+          "erisilebilir": false,
+          "onceki_dk": null
+        },
+        {
+          "id": "94902",
+          "ad": "Fındıklı - Mimar Sinan Ü.",
+          "lat": 41.031457,
+          "lon": 28.989446,
+          "erisilebilir": false,
+          "onceki_dk": 2.2
+        },
+        {
+          "id": "19079",
+          "ad": "Tophane",
+          "lat": 41.026975,
+          "lon": 28.980779,
+          "erisilebilir": false,
+          "onceki_dk": 3.3
+        },
+        {
+          "id": "19093",
+          "ad": "Karaköy",
+          "lat": 41.022135,
+          "lon": 28.974693,
+          "erisilebilir": false,
+          "onceki_dk": 2.8
+        },
+        {
+          "id": "19092",
+          "ad": "Eminönü",
+          "lat": 41.017489,
+          "lon": 28.973178,
+          "erisilebilir": false,
+          "onceki_dk": 2.4
+        },
+        {
+          "id": "19077",
+          "ad": "Sirkeci",
+          "lat": 41.015186,
+          "lon": 28.975898,
+          "erisilebilir": false,
+          "onceki_dk": 1.7
+        },
+        {
+          "id": "19062",
+          "ad": "Gülhane",
+          "lat": 41.012011,
+          "lon": 28.978389,
+          "erisilebilir": false,
+          "onceki_dk": 1.7
+        },
+        {
+          "id": "19098",
+          "ad": "Sultanahmet",
+          "lat": 41.008081,
+          "lon": 28.975636,
+          "erisilebilir": false,
+          "onceki_dk": 2.5
+        },
+        {
+          "id": "19074",
+          "ad": "Çemberlitaş",
+          "lat": 41.008433,
+          "lon": 28.971218,
+          "erisilebilir": false,
+          "onceki_dk": 1.5
+        },
+        {
+          "id": "94901",
+          "ad": "Beyazıt - Kapalıçarşı",
+          "lat": 41.00903,
+          "lon": 28.966654,
+          "erisilebilir": false,
+          "onceki_dk": 1.6
+        },
+        {
+          "id": "94900",
+          "ad": "Laleli - İstanbul Ü.",
+          "lat": 41.009596,
+          "lon": 28.959786,
+          "erisilebilir": false,
+          "onceki_dk": 2.2
+        },
+        {
+          "id": "19073",
+          "ad": "Aksaray",
+          "lat": 41.009606,
+          "lon": 28.953945,
+          "erisilebilir": false,
+          "onceki_dk": 1.9
+        },
+        {
+          "id": "19058",
+          "ad": "Yusufpaşa",
+          "lat": 41.009966,
+          "lon": 28.947248,
+          "erisilebilir": false,
+          "onceki_dk": 2.1
+        },
+        {
+          "id": "19084",
+          "ad": "Haseki",
+          "lat": 41.011033,
+          "lon": 28.943053,
+          "erisilebilir": false,
+          "onceki_dk": 1.5
+        },
+        {
+          "id": "19089",
+          "ad": "Fındıkzade",
+          "lat": 41.012312,
+          "lon": 28.939226,
+          "erisilebilir": false,
+          "onceki_dk": 1.4
+        },
+        {
+          "id": "19052",
+          "ad": "Çapa - Şehremini",
+          "lat": 41.015702,
+          "lon": 28.932443,
+          "erisilebilir": false,
+          "onceki_dk": 2.5
+        },
+        {
+          "id": "19078",
+          "ad": "Pazartekke",
+          "lat": 41.018269,
+          "lon": 28.927103,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "19091",
+          "ad": "Topkapı",
+          "lat": 41.019212,
+          "lon": 28.919429,
+          "erisilebilir": false,
+          "onceki_dk": 2.5
+        },
+        {
+          "id": "19065",
+          "ad": "Cevizlibağ - AÖY",
+          "lat": 41.01597,
+          "lon": 28.911607,
+          "erisilebilir": false,
+          "onceki_dk": 2.8
+        },
+        {
+          "id": "94899",
+          "ad": "Merkezefendi",
+          "lat": 41.010365,
+          "lon": 28.909499,
+          "erisilebilir": false,
+          "onceki_dk": 2.5
+        },
+        {
+          "id": "94898",
+          "ad": "Seyitnizam - Akşemsettin",
+          "lat": 41.004211,
+          "lon": 28.907532,
+          "erisilebilir": false,
+          "onceki_dk": 3.1
+        },
+        {
+          "id": "19088",
+          "ad": "Mithatpaşa",
+          "lat": 41.003369,
+          "lon": 28.899855,
+          "erisilebilir": false,
+          "onceki_dk": 2.4
+        },
+        {
+          "id": "19080",
+          "ad": "Zeytinburnu",
+          "lat": 41.001449,
+          "lon": 28.890144,
+          "erisilebilir": false,
+          "onceki_dk": 3.1
+        },
+        {
+          "id": "19066",
+          "ad": "Mehmet Akif",
+          "lat": 41.005839,
+          "lon": 28.881651,
+          "erisilebilir": false,
+          "onceki_dk": 3.6
+        },
+        {
+          "id": "94897",
+          "ad": "Merter Teks. Mrk.",
+          "lat": 41.011489,
+          "lon": 28.880777,
+          "erisilebilir": true,
+          "onceki_dk": 2.4
+        },
+        {
+          "id": "19053",
+          "ad": "Güngören",
+          "lat": 41.015264,
+          "lon": 28.877447,
+          "erisilebilir": false,
+          "onceki_dk": 2.1
+        },
+        {
+          "id": "19072",
+          "ad": "Akıncılar",
+          "lat": 41.017333,
+          "lon": 28.871021,
+          "erisilebilir": false,
+          "onceki_dk": 2.4
+        },
+        {
+          "id": "19064",
+          "ad": "Soğanlı",
+          "lat": 41.020542,
+          "lon": 28.867598,
+          "erisilebilir": false,
+          "onceki_dk": 1.8
+        },
+        {
+          "id": "19086",
+          "ad": "Yavuz Selim",
+          "lat": 41.024056,
+          "lon": 28.863329,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "19094",
+          "ad": "Güneştepe",
+          "lat": 41.028976,
+          "lon": 28.860952,
+          "erisilebilir": false,
+          "onceki_dk": 2.2
+        },
+        {
+          "id": "19054",
+          "ad": "Bağcılar",
+          "lat": 41.033092,
+          "lon": 28.860679,
+          "erisilebilir": false,
+          "onceki_dk": 1.8
+        }
+      ]
+    },
+    {
+      "id": "2048",
+      "kod": "T3",
+      "ad": "KADIKÖY - MODA",
+      "isletmeci": "Metro İstanbul",
+      "mod": "tramvay",
+      "renk": "#163b65",
+      "siklik_dk": 6,
+      "istasyonlar": [
+        {
+          "id": "19037",
+          "ad": "İskele Cami",
+          "lat": 40.989987,
+          "lon": 29.022143,
+          "erisilebilir": false,
+          "onceki_dk": null
+        },
+        {
+          "id": "19035",
+          "ad": "Çarşı",
+          "lat": 40.991124,
+          "lon": 29.025467,
+          "erisilebilir": false,
+          "onceki_dk": 1.9
+        },
+        {
+          "id": "19040",
+          "ad": "Altıyol",
+          "lat": 40.989782,
+          "lon": 29.028967,
+          "erisilebilir": false,
+          "onceki_dk": 1.5
+        },
+        {
+          "id": "19036",
+          "ad": "Bahariye",
+          "lat": 40.987856,
+          "lon": 29.028567,
+          "erisilebilir": false,
+          "onceki_dk": 1.0
+        },
+        {
+          "id": "19038",
+          "ad": "Kilise",
+          "lat": 40.986066,
+          "lon": 29.027901,
+          "erisilebilir": false,
+          "onceki_dk": 0.9
+        },
+        {
+          "id": "19034",
+          "ad": "Moda İlkokulu",
+          "lat": 40.9843,
+          "lon": 29.026894,
+          "erisilebilir": false,
+          "onceki_dk": 1.1
+        },
+        {
+          "id": "19033",
+          "ad": "Moda",
+          "lat": 40.98392,
+          "lon": 29.024824,
+          "erisilebilir": false,
+          "onceki_dk": 1.0
+        },
+        {
+          "id": "19032",
+          "ad": "Mühürdar",
+          "lat": 40.985205,
+          "lon": 29.021334,
+          "erisilebilir": false,
+          "onceki_dk": 1.3
+        },
+        {
+          "id": "19039",
+          "ad": "Damga Sokak",
+          "lat": 40.987054,
+          "lon": 29.021529,
+          "erisilebilir": false,
+          "onceki_dk": 1.0
+        },
+        {
+          "id": "19031",
+          "ad": "Kadıköy İDO",
+          "lat": 40.989006,
+          "lon": 29.020623,
+          "erisilebilir": false,
+          "onceki_dk": 1.0
+        }
+      ]
+    },
+    {
+      "id": "1289",
+      "kod": "T4",
+      "ad": "TOPKAPI - MESCİD-İ SELAM",
+      "isletmeci": "Metro İstanbul",
+      "mod": "tramvay",
+      "renk": "#163b65",
+      "siklik_dk": 10,
+      "istasyonlar": [
+        {
+          "id": "19096",
+          "ad": "Mescid-i Selam",
+          "lat": 41.116238,
+          "lon": 28.851231,
+          "erisilebilir": false,
+          "onceki_dk": null
+        },
+        {
+          "id": "19082",
+          "ad": "Cebeci",
+          "lat": 41.11193,
+          "lon": 28.857802,
+          "erisilebilir": false,
+          "onceki_dk": 3.3
+        },
+        {
+          "id": "19067",
+          "ad": "Sultançiftliği",
+          "lat": 41.106257,
+          "lon": 28.860564,
+          "erisilebilir": false,
+          "onceki_dk": 2.5
+        },
+        {
+          "id": "94894",
+          "ad": "Yenimahalle",
+          "lat": 41.099823,
+          "lon": 28.862969,
+          "erisilebilir": false,
+          "onceki_dk": 2.8
+        },
+        {
+          "id": "19049",
+          "ad": "Hacı Şükrü",
+          "lat": 41.092859,
+          "lon": 28.864,
+          "erisilebilir": false,
+          "onceki_dk": 2.9
+        },
+        {
+          "id": "19087",
+          "ad": "50. Yıl - Baştabya",
+          "lat": 41.087997,
+          "lon": 28.866594,
+          "erisilebilir": false,
+          "onceki_dk": 2.3
+        },
+        {
+          "id": "94896",
+          "ad": "Cumhuriyet Mahallesi",
+          "lat": 41.083899,
+          "lon": 28.872235,
+          "erisilebilir": false,
+          "onceki_dk": 2.5
+        },
+        {
+          "id": "94895",
+          "ad": "KİPTAŞ Venezia",
+          "lat": 41.080475,
+          "lon": 28.875394,
+          "erisilebilir": false,
+          "onceki_dk": 1.8
+        },
+        {
+          "id": "19046",
+          "ad": "Karadeniz",
+          "lat": 41.075253,
+          "lon": 28.882343,
+          "erisilebilir": false,
+          "onceki_dk": 3.0
+        },
+        {
+          "id": "19055",
+          "ad": "Taşköprü",
+          "lat": 41.072773,
+          "lon": 28.887469,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "19083",
+          "ad": "Ali Fuat Başgil",
+          "lat": 41.068544,
+          "lon": 28.895516,
+          "erisilebilir": false,
+          "onceki_dk": 3.0
+        },
+        {
+          "id": "19047",
+          "ad": "Bosna - Çukurçeşme",
+          "lat": 41.061885,
+          "lon": 28.902057,
+          "erisilebilir": false,
+          "onceki_dk": 3.4
+        },
+        {
+          "id": "19095",
+          "ad": "Sağmalcılar",
+          "lat": 41.057313,
+          "lon": 28.906898,
+          "erisilebilir": false,
+          "onceki_dk": 2.5
+        },
+        {
+          "id": "19075",
+          "ad": "Uluyol - Bereç",
+          "lat": 41.054147,
+          "lon": 28.910255,
+          "erisilebilir": false,
+          "onceki_dk": 1.8
+        },
+        {
+          "id": "19059",
+          "ad": "Rami",
+          "lat": 41.046573,
+          "lon": 28.915579,
+          "erisilebilir": false,
+          "onceki_dk": 3.5
+        },
+        {
+          "id": "19070",
+          "ad": "Topçular",
+          "lat": 41.041632,
+          "lon": 28.91952,
+          "erisilebilir": false,
+          "onceki_dk": 2.4
+        },
+        {
+          "id": "19056",
+          "ad": "Demirkapı",
+          "lat": 41.037043,
+          "lon": 28.923348,
+          "erisilebilir": false,
+          "onceki_dk": 2.3
+        },
+        {
+          "id": "19050",
+          "ad": "Şehitlik",
+          "lat": 41.034186,
+          "lon": 28.928241,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "19076",
+          "ad": "Edirnekapı",
+          "lat": 41.03148,
+          "lon": 28.934019,
+          "erisilebilir": false,
+          "onceki_dk": 2.2
+        },
+        {
+          "id": "19063",
+          "ad": "Vatan",
+          "lat": 41.025551,
+          "lon": 28.929248,
+          "erisilebilir": false,
+          "onceki_dk": 3.0
+        },
+        {
+          "id": "19071",
+          "ad": "Fetihkapı",
+          "lat": 41.021808,
+          "lon": 28.925308,
+          "erisilebilir": false,
+          "onceki_dk": 2.0
+        },
+        {
+          "id": "19045",
+          "ad": "Topkapı",
+          "lat": 41.019695,
+          "lon": 28.920142,
+          "erisilebilir": false,
+          "onceki_dk": 1.9
+        }
+      ]
+    },
+    {
+      "id": "1290",
+      "kod": "TF1",
+      "ad": "MAÇKA - TAŞKIŞLA",
+      "isletmeci": "Metro İstanbul",
+      "mod": "teleferik",
+      "renk": "#163b65",
+      "siklik_dk": 10,
+      "istasyonlar": [
+        {
+          "id": "19041",
+          "ad": "Maçka",
+          "lat": 41.044728,
+          "lon": 28.993932,
+          "erisilebilir": false,
+          "onceki_dk": null
+        },
+        {
+          "id": "19044",
+          "ad": "Taşkışla",
+          "lat": 41.043512,
+          "lon": 28.990364,
+          "erisilebilir": false,
+          "onceki_dk": 3.5
+        }
+      ]
+    },
+    {
+      "id": "1291",
+      "kod": "TF2",
+      "ad": "EYÜP - PİYERLOTİ TELEFERİĞİ",
+      "isletmeci": "Metro İstanbul",
+      "mod": "teleferik",
+      "renk": "#163b65",
+      "siklik_dk": 10,
+      "istasyonlar": [
+        {
+          "id": "19042",
+          "ad": "Eyüp",
+          "lat": 41.049848,
+          "lon": 28.934396,
+          "erisilebilir": false,
+          "onceki_dk": null
+        },
+        {
+          "id": "19043",
+          "ad": "Piyerloti",
+          "lat": 41.053317,
+          "lon": 28.933379,
+          "erisilebilir": false,
+          "onceki_dk": 2.8
+        }
+      ]
+    }
+  ]
+}

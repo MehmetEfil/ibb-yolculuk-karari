@@ -1,0 +1,13 @@
+# Satır sonlarını normalize et — depo LF tutar, Windows'ta CRLF'e açılır.
+# Bu dosya olmadan Windows'ta çalışan herkesin diff'i satır sonu
+# değişiklikleriyle doluyor.
+* text=auto eol=lf
+
+# İkili dosyalar dokunulmadan kalsın
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.webp binary
+*.otf  binary
+*.ttf  binary
+*.pptx binary

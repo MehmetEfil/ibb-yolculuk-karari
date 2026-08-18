@@ -1,0 +1,6690 @@
+[
+ {
+  "HATKODU": "1",
+  "hatadi": "KİRAZLITEPE - ACIBADEM - KADIKÖY",
+  "hatuzunluk": 11456,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "10",
+  "hatadi": "Ü.EĞT.ARŞ.HASTANESİ - ATAŞEHİR / BOSTANCI",
+  "hatuzunluk": 19029,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "10A",
+  "hatadi": "ESATPAŞA - YEDİTEPE ÜNİVERSİTESİ / FERHATPAŞA",
+  "hatuzunluk": 19121,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "10B",
+  "hatadi": "BOSTANCI - KADIKÖY",
+  "hatuzunluk": 13547,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Kadıköy"
+ },
+ {
+  "HATKODU": "10E",
+  "hatadi": "ESATPAŞA - KADIKÖY",
+  "hatuzunluk": 12026,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "10EK",
+  "hatadi": "ESATPAŞA / ATAŞEHİR - KOZYATAĞI METRO",
+  "hatuzunluk": 10277,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "10G",
+  "hatadi": "ÜMRANİYE / ESATPAŞA -  KADIKÖY",
+  "hatuzunluk": 17326,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "11",
+  "hatadi": "YENİDOĞAN - ALTUNİZADE METROBÜS",
+  "hatuzunluk": 21463,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "11A",
+  "hatadi": "ÖZYEĞİN ÜNİVERSİTESİ / ALEMDAĞ - ALTUNİZADE METROBÜS",
+  "hatuzunluk": 28216,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "11BE",
+  "hatadi": "BURHANİYE MAHALLESİ - ÜSKÜDAR",
+  "hatuzunluk": 12080,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "11C",
+  "hatadi": "BURHANİYE MAHALLESİ - ÜSKÜDAR MARMARAY",
+  "hatuzunluk": 7764,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "11CÜ",
+  "hatadi": "BURHANİYE MAHALLESİ - ÜMRANİYE METRO/RİNG",
+  "hatuzunluk": 18654,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "11D",
+  "hatadi": "İNKILAP MAHALLESİ - ÜMRANİYE METRO",
+  "hatuzunluk": 13367,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "11E",
+  "hatadi": "ESATPAŞA - ÜSKÜDAR",
+  "hatuzunluk": 14999,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "11ES",
+  "hatadi": "ESENEVLER - ACIBADEM METROBÜS / ÜSKÜDAR",
+  "hatuzunluk": 13323,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "11G",
+  "hatadi": "YENİDOĞAN - NECİP FAZIL METRO",
+  "hatuzunluk": 13566,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "11H",
+  "hatadi": "ORTAÇEŞME - ÜMRANİYE",
+  "hatuzunluk": 27022,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "11K",
+  "hatadi": "KAZIM KARABEKİR MAHALLESİ - ÜMRANİYE METRO",
+  "hatuzunluk": 13055,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "11L",
+  "hatadi": "ESATPAŞA / BULGURLU - ÜSKÜDAR",
+  "hatuzunluk": 12421,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "11M",
+  "hatadi": "EVTAŞ BLOKLARI - BULGURLU METRO",
+  "hatuzunluk": 20032,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "11P",
+  "hatadi": "EMEK MAHALLESİ - ÜSKÜDAR",
+  "hatuzunluk": 27358,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "11R",
+  "hatadi": "REŞADİYE - NECİP FAZIL METRO",
+  "hatuzunluk": 17985,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "11SA",
+  "hatadi": "UĞUR MUMCU / SAMANDIRA - YENİDOĞAN PERONLAR",
+  "hatuzunluk": 15638,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "11ST",
+  "hatadi": "DUMLUPINAR - ÜMRANIYE METRO",
+  "hatuzunluk": 13396,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "11T",
+  "hatadi": "ACARLAR SİTESİ - HAREM",
+  "hatuzunluk": 22404,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "11Y",
+  "hatadi": "YAVUZTÜRK MAHALLESİ - ÜSKÜDAR",
+  "hatuzunluk": 9089,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "11ÇB",
+  "hatadi": "KAVACIK / ÇAVUŞBAŞI - ÜMRANİYE",
+  "hatuzunluk": 27273,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "11Ü",
+  "hatadi": "ESATPAŞA / ÜNALAN - ÜSKÜDAR",
+  "hatuzunluk": 14298,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "11ÜS",
+  "hatadi": "SULTANBEYLİ - ÜSKÜDAR",
+  "hatuzunluk": 34056,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "12",
+  "hatadi": "KADIKÖY - ÜSKÜDAR",
+  "hatuzunluk": 5432,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Kadıköy"
+ },
+ {
+  "HATKODU": "121A",
+  "hatadi": "BEYKOZ - MECİDİYEKÖY",
+  "hatuzunluk": 24951,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "121B",
+  "hatadi": "KAVACIK - MECİDİYEKÖY",
+  "hatuzunluk": 12632,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "121BS",
+  "hatadi": "SULTANİYE / SOĞUKSU MAHALLESİ - MECİDİYEKÖY",
+  "hatuzunluk": 19893,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "122C",
+  "hatadi": "TEPEÜSTÜ - MECİDİYEKÖY",
+  "hatuzunluk": 20081,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "122D",
+  "hatadi": "ATATÜRK MAHALLESİ - MECİDİYEKÖY",
+  "hatuzunluk": 31956,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "122H",
+  "hatadi": "S.GÖKÇEN HAVALİMANI / YENİŞEHİR - 4.LEVENT METRO",
+  "hatuzunluk": 49209,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "122M",
+  "hatadi": "ŞAHİNBEY - MECİDİYEKÖY",
+  "hatuzunluk": 28398,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "122V",
+  "hatadi": "VEYSEL KARANİ - 4.LEVENT METRO",
+  "hatuzunluk": 36485,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "122Y",
+  "hatadi": "ÇEKMEKÖY - MECİDİYEKÖY",
+  "hatuzunluk": 32405,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "122ÇK",
+  "hatadi": "ŞAHİNBEY - KAVACIK",
+  "hatuzunluk": 18319,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "129L",
+  "hatadi": "KOZYATAĞI - 4.LEVENT METRO",
+  "hatuzunluk": 23324,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "129T",
+  "hatadi": "BOSTANCI - TAKSİM",
+  "hatuzunluk": 23562,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Kadıköy"
+ },
+ {
+  "HATKODU": "12A",
+  "hatadi": "KADIKÖY - ÜSKÜDAR",
+  "hatuzunluk": 8101,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Kadıköy"
+ },
+ {
+  "HATKODU": "12C",
+  "hatadi": "ÜSKÜDAR DEVLET HASTANESİ - ÜSKÜDAR",
+  "hatuzunluk": 5709,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "13",
+  "hatadi": "ATAŞEHİR / ÇAKMAK MAHALLESİ - KADIKÖY",
+  "hatuzunluk": 23316,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "130A",
+  "hatadi": "DENİZ HARP OKULU - KADIKÖY",
+  "hatuzunluk": 42426,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "130E",
+  "hatadi": "TUZLA / EVORA KONUTLARI - KARTAL METRO / CEVİZLİ",
+  "hatuzunluk": 34975,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "130H",
+  "hatadi": "DENİZ HARP OKULU - SABİHA GÖKÇEN HAVALİMANI",
+  "hatuzunluk": 35953,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "130T",
+  "hatadi": "AYDINLI TOKİ KONUTLARI - TUZLA",
+  "hatuzunluk": 18196,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "130Ş",
+  "hatadi": "ŞİFA MAHALLESİ - KADIKÖY",
+  "hatuzunluk": 42387,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Çayırova"
+ },
+ {
+  "HATKODU": "130ŞT",
+  "hatadi": "ŞİFA MAHALLESİ - TAVŞANTEPE METRO",
+  "hatuzunluk": 16528,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "131",
+  "hatadi": "SULTANBEYLİ - ÜMRANİYE",
+  "hatuzunluk": 26168,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "131A",
+  "hatadi": "AHMET YESEVİ MAHALLESİ - ÜMRANİYE",
+  "hatuzunluk": 23898,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "131B",
+  "hatadi": "MİMAR SİNAN MAHALLESİ - ÜMRANİYE",
+  "hatuzunluk": 26708,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "131H",
+  "hatadi": "HİLAL KONUTLARI - TEPEÜSTÜ",
+  "hatuzunluk": 25441,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "131K",
+  "hatadi": "YEŞİLTEPE / ŞAHİNBEY - KARTAL",
+  "hatuzunluk": 28754,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "131SB",
+  "hatadi": "SULTANBEYLİ MERKEZ-SULTANBEYLİ YENİ DEVLET HAST.",
+  "hatuzunluk": 18641,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "131T",
+  "hatadi": "ATATÜRK MAH./ TAŞDELEN - İMES/ ÜMRANİYE",
+  "hatuzunluk": 22983,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "131V",
+  "hatadi": "VEYSEL KARANİ - YAKACIK / KARTAL",
+  "hatuzunluk": 24010,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "131Y",
+  "hatadi": "ÇEKMEKÖY/SAMANDIRA-KARTAL",
+  "hatuzunluk": 26545,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "131YS",
+  "hatadi": "SULTANBEYLİ DEVLET HASTANESİ - YENİDOĞAN - ÜMRANİYE",
+  "hatuzunluk": 24658,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "131Ü",
+  "hatadi": "SULTANBEYLİ ORMAN CADDESİ - ÜMRANİYE",
+  "hatuzunluk": 26370,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "132",
+  "hatadi": "AKFIRAT / TEPEÖREN - KARTAL",
+  "hatuzunluk": 27904,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "132A",
+  "hatadi": "ÇAMLIK MAHALLESİ - KARTAL",
+  "hatuzunluk": 19161,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "132B",
+  "hatadi": "AKFIRAT EVLERİ - KARTAL METRO",
+  "hatuzunluk": 32728,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "132C",
+  "hatadi": "SULTANBEYLİ GÖLET - KARTAL",
+  "hatuzunluk": 23819,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "132D",
+  "hatadi": "KURTDOĞMUŞ / BALLICA - KARTAL",
+  "hatuzunluk": 38198,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "132E",
+  "hatadi": "EMİRLİ / KURNAKÖY - KARTAL",
+  "hatuzunluk": 28336,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "132F",
+  "hatadi": "ESENLER - TAVŞANTEPE METRO/ KARTAL",
+  "hatuzunluk": 15539,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "132G",
+  "hatadi": "GÖZDAĞI - PENDİK YHT/PENDİK",
+  "hatuzunluk": 8414,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "132H",
+  "hatadi": "PENDİK/PENDİK YHT - SABİHA GÖKÇEN HAVALİMANI",
+  "hatuzunluk": 17385,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "132K",
+  "hatadi": "YENİŞEHİR - KARTAL",
+  "hatuzunluk": 25970,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "132M",
+  "hatadi": "SULTANBEYLİ MİMARSİNAN - KARTAL METRO / CEVİZLİ",
+  "hatuzunluk": 29670,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "132N",
+  "hatadi": "ÖZYEĞİN ÜNİ./NİŞANTEPE/BÜYÜKBAKKALKÖY-KARTAL",
+  "hatuzunluk": 33092,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "132P",
+  "hatadi": "VEYSEL KARANİ / SULTANBEYLİ - KARTAL",
+  "hatuzunluk": 29479,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "132S",
+  "hatadi": "YENİDOĞAN - KARTAL",
+  "hatuzunluk": 24469,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "132SB",
+  "hatadi": "SULTANBEYLİ DEVLET HAST.- MARMARA ÜNİV. BAŞIBÜYÜK KAMPÜSÜ",
+  "hatuzunluk": 27827,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "132T",
+  "hatadi": "TEPEÖREN - KARTAL METRO",
+  "hatuzunluk": 22938,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "132V",
+  "hatadi": "YENİDOĞAN / SULTANBEYLİ DEVLET HAST. - PENDİK YHT",
+  "hatuzunluk": 34168,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "132Y",
+  "hatadi": "HİLAL KONUTLARI / YAYALAR - KARTAL METRO",
+  "hatuzunluk": 15842,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "132YB",
+  "hatadi": "YENİDOĞAN - MARMARA ÜNİVERSİTESİ BAŞIBÜYÜK KAMPÜSÜ",
+  "hatuzunluk": 25335,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "132YM",
+  "hatadi": "YEŞİLTEPE-MARMARA EĞİTİM KÖYÜ",
+  "hatuzunluk": 25047,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "132Z",
+  "hatadi": "SULTANBEYLİ UZUNDERE - KARTAL",
+  "hatuzunluk": 25772,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "132ÇK",
+  "hatadi": "ÇEKMEKÖY - KARTAL",
+  "hatuzunluk": 33991,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "133A",
+  "hatadi": "AYDINLI BAHÇELER - KARTAL",
+  "hatuzunluk": 23204,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "133AK",
+  "hatadi": "TEPEÖREN - KARTAL",
+  "hatuzunluk": 24332,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "133F",
+  "hatadi": "ACARLAR SİTESİ - MALTEPE / CEVİZLİ PERONLAR",
+  "hatuzunluk": 21290,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "133G",
+  "hatadi": "GÜLENSU MAHALLESİ - KARTAL",
+  "hatuzunluk": 14428,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Maltepe"
+ },
+ {
+  "HATKODU": "133GP",
+  "hatadi": "GÖÇBEYLİ - KARTAL",
+  "hatuzunluk": 35020,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "133K",
+  "hatadi": "KURTKÖY SANAYİ MAHALLESİ / KAVAKPINAR - KARTAL",
+  "hatuzunluk": 20890,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "133KT",
+  "hatadi": "AYDINLI TOKİ KONUTLARI - KARTAL",
+  "hatuzunluk": 19164,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "133M",
+  "hatadi": "TUZLA ORGANİZE SANAYİ - KAFKALE TUZLA SAHİL",
+  "hatuzunluk": 29464,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "133N",
+  "hatadi": "MALTEPE ÜNİVERSİTESİ - MALTEPE METRO / KARTAL",
+  "hatuzunluk": 19763,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Maltepe"
+ },
+ {
+  "HATKODU": "133P",
+  "hatadi": "TEPEÖREN - TUZLA",
+  "hatuzunluk": 22555,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "133T",
+  "hatadi": "DENİZ HARP OKULU-MALTEPE PERONLAR",
+  "hatuzunluk": 30232,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "133TM",
+  "hatadi": "AYDINLI TOKİ/MİMARSİNAN MAHALLESİ - TUZLA",
+  "hatuzunluk": 25604,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "133Ü",
+  "hatadi": "GAZİ BULVARI/ ORHANLI - PENDİK METRO/YHT/PENDİK",
+  "hatuzunluk": 34279,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "133Ş",
+  "hatadi": "ÇAĞDAŞKENT/ ŞEKERPINAR MAH. - KARTAL",
+  "hatuzunluk": 32963,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Çayırova"
+ },
+ {
+  "HATKODU": "134",
+  "hatadi": "VIAPORT / HİLAL KONUTLARI - KARTAL",
+  "hatuzunluk": 22419,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "134CK",
+  "hatadi": "ŞEYHLİ MEZARLIK/CEZAEVİ - KARTAL",
+  "hatuzunluk": 14055,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "134GK",
+  "hatadi": "UĞURMUMCU/ GÜMÜŞPINAR - KARTAL",
+  "hatuzunluk": 10650,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Kartal"
+ },
+ {
+  "HATKODU": "134UK",
+  "hatadi": "UĞURMUMCU - KARTAL",
+  "hatuzunluk": 16138,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Kartal"
+ },
+ {
+  "HATKODU": "134YK",
+  "hatadi": "UĞURMUMCU - YAKACIK - KARTAL",
+  "hatuzunluk": 16773,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Kartal"
+ },
+ {
+  "HATKODU": "135",
+  "hatadi": "POYRAZKÖY - SULTANİYE",
+  "hatuzunluk": 16613,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "135A",
+  "hatadi": "ACARKENT / GÖRELE MAHALLESİ - KAVACIK",
+  "hatuzunluk": 23441,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "135G",
+  "hatadi": "TOKATKÖY - ÇAVUŞBAŞI",
+  "hatuzunluk": 24856,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "135K",
+  "hatadi": "KARLITEPE - ORTAÇEŞME",
+  "hatuzunluk": 13425,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "135T",
+  "hatadi": "ARKBOYU - TOKATKÖY",
+  "hatuzunluk": 16891,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "136",
+  "hatadi": "DEĞİRMENDERE - SULTANİYE",
+  "hatuzunluk": 28288,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "136B",
+  "hatadi": "TÜRK ALMAN ÜNİVERSİTESİ - KAVACIK/HEKİMBAŞI",
+  "hatuzunluk": 21448,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "136R",
+  "hatadi": "RİVA - KAVACIK",
+  "hatuzunluk": 28497,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "136Z",
+  "hatadi": "ALİ BAHADIR / ZERZEVAT - SULTANİYE",
+  "hatuzunluk": 21932,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "137",
+  "hatadi": "CUMHURİYET KÖYÜ / RİVA - BEYKOZ / SULTANİYE",
+  "hatuzunluk": 54044,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "138",
+  "hatadi": "CUMHURİYET KÖYÜ / ÖMERLİ - ÜMRANİYE",
+  "hatuzunluk": 42574,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "138B",
+  "hatadi": "GÖLLÜ/ÖMERLİ-ÜMRANİYE",
+  "hatuzunluk": 50608,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "139",
+  "hatadi": "ÜSKÜDAR - ŞİLE",
+  "hatuzunluk": 66624,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "139A",
+  "hatadi": "ÜSKÜDAR - ŞİLE / AĞVA",
+  "hatuzunluk": 99427,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "139D",
+  "hatadi": "NECİP FAZIL METRO-DARLIK",
+  "hatuzunluk": 53624,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "139S",
+  "hatadi": "NECİP FAZIL METRO-SOFULAR KÖYÜ",
+  "hatuzunluk": 56283,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "139T",
+  "hatadi": "TEPEÜSTÜ - ŞİLE",
+  "hatuzunluk": 56695,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "13AB",
+  "hatadi": "KISIKLI - ATAŞEHİR / BOSTANCI",
+  "hatuzunluk": 18600,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Kadıköy"
+ },
+ {
+  "HATKODU": "13B",
+  "hatadi": "YENİŞEHİR - KADIKÖY",
+  "hatuzunluk": 17380,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "13FY",
+  "hatadi": "BATI ATAŞEHİR / FİNANS MERKEZİ - MEVLANA METRO / FERHATPAŞA",
+  "hatuzunluk": 11574,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "13H",
+  "hatadi": "EVTAŞ BLOKLARI - ÜMRANİYE METRO / Ü.EĞT.ARŞ.HASTANESİ",
+  "hatuzunluk": 10504,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "13M",
+  "hatadi": "ŞERİFALİ - ÜSKÜDAR",
+  "hatuzunluk": 22301,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "13Y",
+  "hatadi": "ÇAKMAK MAHALLESİ / YENİSAHRA - KADIKÖY",
+  "hatuzunluk": 21189,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "14",
+  "hatadi": "YENİDOĞAN/ ÜMRANİYE - KADIKÖY",
+  "hatuzunluk": 27438,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "141A",
+  "hatadi": "ATAKENT - K.S.S. HASTANESİ",
+  "hatuzunluk": 23072,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "141K",
+  "hatadi": "K.S.S. HASTANESİ - MAHMUTBEY METRO",
+  "hatuzunluk": 16699,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "141M",
+  "hatadi": "K.S.S. HASTANESİ - MECİDİYEKÖY",
+  "hatuzunluk": 32443,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "142",
+  "hatadi": "BOĞAZKÖY - AVCILAR METROBÜS",
+  "hatuzunluk": 18323,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "142A",
+  "hatadi": "BOĞAZKÖY - AVCILAR METROBÜS",
+  "hatuzunluk": 22667,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "142B",
+  "hatadi": "K.S.S. HASTANESİ - BÜYÜKÇEKMECE",
+  "hatuzunluk": 33719,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "142E",
+  "hatadi": "ESENYURT KİPTAŞ 4. ETAP - AKSARAY",
+  "hatuzunluk": 35272,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Esenyurt"
+ },
+ {
+  "HATKODU": "142ES",
+  "hatadi": "İ.Ü.CERRAHPAŞA KAMPÜS - AVCILAR METROBÜS",
+  "hatuzunluk": 26655,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Büyükçekmece"
+ },
+ {
+  "HATKODU": "142F",
+  "hatadi": "YEŞİLKENT - AVCILAR METROBÜS",
+  "hatuzunluk": 10686,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Avcılar"
+ },
+ {
+  "HATKODU": "142K",
+  "hatadi": "ESENYURT KİPTAŞ 4.ETAP - AVCILAR METROBÜS",
+  "hatuzunluk": 7745,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Esenyurt"
+ },
+ {
+  "HATKODU": "142T",
+  "hatadi": "TÜYAP METROBÜS-K.S.S HASTANESİ",
+  "hatuzunluk": 21753,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Büyükçekmece"
+ },
+ {
+  "HATKODU": "143",
+  "hatadi": "KÜÇÜKÇEKMECE - İSTOÇ",
+  "hatuzunluk": 24396,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "144",
+  "hatadi": "BOĞAZKÖY/BAHÇEKENT-HARAMİDERE",
+  "hatuzunluk": 22740,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "144A",
+  "hatadi": "DELİKLİKAYA - AVCILAR METROBÜS",
+  "hatuzunluk": 23583,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "144B",
+  "hatadi": "DELİKLİKAYA - YEŞİLBAYIR KÖYÜ - SU ÜRÜNLERİ HALİ",
+  "hatuzunluk": 33720,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "144H",
+  "hatadi": "HEYBETLİ SOK./DELİKLİKAYA - HARAMİDERE",
+  "hatuzunluk": 23238,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "144K",
+  "hatadi": "ÖMERLİ KİPTAŞ-ESENKENT",
+  "hatuzunluk": 15662,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "144M",
+  "hatadi": "DELİKLİKAYA-MAHMUTBEY METRO",
+  "hatuzunluk": 29611,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "145",
+  "hatadi": "İHLAS MARMARA EVLERİ - KÜÇÜKÇEKMECE MARMARAY",
+  "hatuzunluk": 17553,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Beylikdüzü"
+ },
+ {
+  "HATKODU": "145M",
+  "hatadi": "BEYKENT - TAKSİM",
+  "hatuzunluk": 46149,
+  "hatcinsi": "ÖÇK",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Beylikdüzü"
+ },
+ {
+  "HATKODU": "145T",
+  "hatadi": "BEYLİKDÜZÜ - TAKSİM",
+  "hatuzunluk": 46228,
+  "hatcinsi": "ÖÇK",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Beylikdüzü"
+ },
+ {
+  "HATKODU": "146",
+  "hatadi": "BOĞAZKÖY / BAHÇEŞEHİR - BAKIRKÖY",
+  "hatuzunluk": 30863,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "146A",
+  "hatadi": "ESENKENT - BİRLİK MAHALLESİ",
+  "hatuzunluk": 24744,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Esenyurt"
+ },
+ {
+  "HATKODU": "146B",
+  "hatadi": "METROKENT-EMİNÖNÜ",
+  "hatuzunluk": 32326,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "146F",
+  "hatadi": "ŞEHİR HASTANESİ/ ESENKENT - ESENYURT DEVLET HASTANESİ",
+  "hatuzunluk": 24734,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "146K",
+  "hatadi": "FENERTEPE PERON - BİRLİK MAHALLESİ",
+  "hatuzunluk": 25780,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "146M",
+  "hatadi": "METROKENT - MECİDİYEKÖY",
+  "hatuzunluk": 32879,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "146T",
+  "hatadi": "BOĞAZKÖY / BAHÇEŞEHİR - YENİKAPI",
+  "hatuzunluk": 37766,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "147",
+  "hatadi": "ŞAHİNTEPE İGTOT - AVCILAR CİHANGİR MAHALLESİ",
+  "hatuzunluk": 27615,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "14A",
+  "hatadi": "ÖZYEĞİN ÜNİVERSİTESİ / ALEMDAĞ - KADIKÖY",
+  "hatuzunluk": 32067,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "14AK",
+  "hatadi": "ÖZYEĞİN ÜNİ. / ALEMDAĞ - ZİVERBEY / KADIKÖY",
+  "hatuzunluk": 30975,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "14B",
+  "hatadi": "ADEM YAVUZ MAHALLESİ - KADIKÖY",
+  "hatuzunluk": 20735,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "14BK",
+  "hatadi": "ÇEKMEKÖY/PARSELLER MAH-KADIKÖY",
+  "hatuzunluk": 21346,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "14C",
+  "hatadi": "ÜSKÜDAR DEVLET HASTANESİ - KADIKÖY",
+  "hatuzunluk": 5420,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "14CE",
+  "hatadi": "ÇEKMEKÖY - KADIKÖY",
+  "hatuzunluk": 26060,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "14D",
+  "hatadi": "DUMLUPINAR / KAZIMKARABEKİR - KADIKÖY",
+  "hatuzunluk": 16305,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "14DK",
+  "hatadi": "İNKILAP MAHALLESİ - LİBADİYE CADDESİ / KADIKÖY",
+  "hatuzunluk": 16413,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "14E",
+  "hatadi": "KAZIM KARABEKİR - KADIKÖY",
+  "hatuzunluk": 15867,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "14ES",
+  "hatadi": "ESENŞEHİR - KADIKÖY",
+  "hatuzunluk": 26311,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "14F",
+  "hatadi": "KÜPLÜCE - KADIKÖY",
+  "hatuzunluk": 12125,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "14FD",
+  "hatadi": "FERAH MAHALLESİ - ÜSKÜDAR DEVLET HASTANESİ",
+  "hatuzunluk": 9721,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "14K",
+  "hatadi": "KAZIM KARABEKİR - KADIKÖY",
+  "hatuzunluk": 12835,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "14KS",
+  "hatadi": "SULTANBEYLİ GÖLET - KOZYATAĞI METRO",
+  "hatuzunluk": 27475,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "14M",
+  "hatadi": "KAVACIK YENİ CAMİ - KADIKÖY",
+  "hatuzunluk": 20302,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "14R",
+  "hatadi": "RASATHANE - KADIKÖY",
+  "hatuzunluk": 16182,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "14S",
+  "hatadi": "SULTANBEYLİ - KOZYATAĞI METRO",
+  "hatuzunluk": 28661,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "14T",
+  "hatadi": "ATATÜRK MAH./ TAŞDELEN - KOZYATAĞI METRO",
+  "hatuzunluk": 25506,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "14TM",
+  "hatadi": "TEPEÜSTÜ-MALTEPE METRO/CEVİZLİ PERONLAR",
+  "hatuzunluk": 23474,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "14Y",
+  "hatadi": "YAVUZTÜRK MAHALLESİ - KADIKÖY",
+  "hatuzunluk": 11263,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "14YE",
+  "hatadi": "YAVUZTÜRK MAHALLESİ / ÜMRANİYE - EMEK MAHALLESİ",
+  "hatuzunluk": 17990,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "14YK",
+  "hatadi": "YENİDOĞAN / ŞİLE YOLU - AYRILIKÇEŞME",
+  "hatuzunluk": 29024,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "14ÇK",
+  "hatadi": "ŞAHİNBEY - KADIKÖY",
+  "hatuzunluk": 23348,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "14ŞB",
+  "hatadi": "ŞAHİNBEY - KADIKÖY",
+  "hatuzunluk": 24897,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "15",
+  "hatadi": "BEYKOZ - ÜSKÜDAR",
+  "hatuzunluk": 20712,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "150",
+  "hatadi": "HACIOSMAN METRO - RUMELİFENERİ",
+  "hatuzunluk": 21089,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "151",
+  "hatadi": "HACIOSMAN METRO - KİLYOS / DEMİRCİKÖY",
+  "hatuzunluk": 19709,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "152",
+  "hatadi": "HACIOSMAN METRO - ZEKERİYAKÖY / KISIRKAYA",
+  "hatuzunluk": 23653,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "153",
+  "hatadi": "BAHÇEKÖY - SARIYER",
+  "hatuzunluk": 9630,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "154",
+  "hatadi": "HACIOSMAN METRO - KOÇ ÜNİVERSİTESİ",
+  "hatuzunluk": 13126,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "15A",
+  "hatadi": "ANADOLUKAVAĞI - KAVACIK",
+  "hatuzunluk": 20105,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15B",
+  "hatadi": "TOPAĞACI MAHALLESİ / GÜZELTEPE - ÜSKÜDAR",
+  "hatuzunluk": 13438,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "15BK",
+  "hatadi": "DERESEKİ / BEYKOZ - KADIKÖY",
+  "hatuzunluk": 35076,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15C",
+  "hatadi": "BÜYÜK ÇAMLICA CAMİİ/FERAH MAHALLESİ - ÜSKÜDAR",
+  "hatuzunluk": 9723,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "15CA",
+  "hatadi": "BÜYÜK ÇAMLICA CAMİİ / BULGURLU METRO - GÖZTEPE KÖPRÜSÜ",
+  "hatuzunluk": 5540,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "15D",
+  "hatadi": "ANADOLUFENERİ /KAYNARCA / DERESEKİ - SULTANİYE",
+  "hatuzunluk": 17842,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15E",
+  "hatadi": "TEKKE MEVKİİ - ÜSKÜDAR",
+  "hatuzunluk": 16424,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15F",
+  "hatadi": "BEYKOZ - KADIKÖY",
+  "hatuzunluk": 27169,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15H",
+  "hatadi": "HEKİMBAŞI - ÜSKÜDAR",
+  "hatuzunluk": 13151,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15K",
+  "hatadi": "KİRAZLITEPE - ÜSKÜDAR",
+  "hatuzunluk": 6458,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "15KB",
+  "hatadi": "KAVACIK - KOZYATAĞI METRO",
+  "hatuzunluk": 18028,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15KÇ",
+  "hatadi": "KARANLIKDERE / ÇAVUŞBAŞI - ÜSKÜDAR",
+  "hatuzunluk": 28219,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15M",
+  "hatadi": "KAVACIK YENİ CAMİ - ÜSKÜDAR",
+  "hatuzunluk": 15191,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15N",
+  "hatadi": "ARKBOYU - ÜSKÜDAR",
+  "hatuzunluk": 12492,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15P",
+  "hatadi": "SOĞUKSU MAHALLESİ - ÜSKÜDAR",
+  "hatuzunluk": 20436,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15R",
+  "hatadi": "RASATHANE - ÜSKÜDAR",
+  "hatuzunluk": 9517,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "15S",
+  "hatadi": "SULTANMURAT - ÜSKÜDAR",
+  "hatuzunluk": 8280,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "15SD",
+  "hatadi": "ORTAÇEŞME/SULTANİYE-DUDULLU İMES",
+  "hatuzunluk": 26424,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15SK",
+  "hatadi": "SULTANMURAT - KADIKÖY",
+  "hatuzunluk": 15005,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "15T",
+  "hatadi": "TOKATKÖY - ÜSKÜDAR",
+  "hatuzunluk": 21501,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15TA",
+  "hatadi": "TÜRK ALMAN ÜNİVERSİTESİ-KAVACIK",
+  "hatuzunluk": 9265,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15TK",
+  "hatadi": "TOKATKÖY-KADIKÖY",
+  "hatuzunluk": 34294,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15TY",
+  "hatadi": "TOKATKÖY / BEYKOZ - YENİMAHALLE",
+  "hatuzunluk": 19689,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15U",
+  "hatadi": "TUFAN - ÜSKÜDAR",
+  "hatuzunluk": 8656,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "15Y",
+  "hatadi": "YENİMAHALLE - ÜSKÜDAR",
+  "hatuzunluk": 13118,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15YK",
+  "hatadi": "YENİMAHALLE - KADIKÖY",
+  "hatuzunluk": 26308,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15Z",
+  "hatadi": "GÜZELTEPE - ÜSKÜDAR",
+  "hatuzunluk": 8633,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "15ÇB",
+  "hatadi": "KAVACIK - ÇAVUŞBAŞI / ÇENGELDERE",
+  "hatuzunluk": 22441,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "15ÇK",
+  "hatadi": "GÜZELTEPE - KADIKÖY",
+  "hatuzunluk": 20560,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "15ŞN",
+  "hatadi": "ŞENEVLER - ÜSKÜDAR",
+  "hatuzunluk": 15183,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "16",
+  "hatadi": "PENDİK - KADIKÖY",
+  "hatuzunluk": 28588,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "16A",
+  "hatadi": "PENDİK - ÜSKÜDAR",
+  "hatuzunluk": 34947,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "16D",
+  "hatadi": "ALTKAYNARCA / PENDİK - KADIKÖY",
+  "hatuzunluk": 29370,
+  "hatcinsi": "ÖÇK",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "16F",
+  "hatadi": "FINDIKLI MAHALLESİ - HAREM",
+  "hatuzunluk": 20318,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Maltepe"
+ },
+ {
+  "HATKODU": "16KH",
+  "hatadi": "YENİŞEHİR / MARMARA ÜNİV. HASTANESİ - KADIKÖY",
+  "hatuzunluk": 39733,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "16M",
+  "hatadi": "ACARLAR SİTESİ / ATAŞEHİR - ÜSKÜDAR",
+  "hatuzunluk": 20012,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "16S",
+  "hatadi": "S. G. HAVALİMANI - UZUNÇAYIR METROBÜS/HAREM PERONLAR",
+  "hatuzunluk": 39891,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "16U",
+  "hatadi": "UĞURMUMCU - ÜSKÜDAR",
+  "hatuzunluk": 33796,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Kartal"
+ },
+ {
+  "HATKODU": "16YK",
+  "hatadi": "Y.TEPE ÜNİV. / FINDIKLI MAHALLESİ - KOZYATAĞI METRO",
+  "hatuzunluk": 7439,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Maltepe"
+ },
+ {
+  "HATKODU": "17",
+  "hatadi": "PENDİK - KADIKÖY",
+  "hatuzunluk": 26814,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "17L",
+  "hatadi": "KÜÇÜKYALI LOJMANLARI / MARMARA ÜNİV. - BOSTANCI",
+  "hatuzunluk": 9142,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Maltepe"
+ },
+ {
+  "HATKODU": "17S",
+  "hatadi": "UĞURMUMCU - BOSTANCI",
+  "hatuzunluk": 21768,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Kartal"
+ },
+ {
+  "HATKODU": "18",
+  "hatadi": "SULTANBEYLİ - UZUNÇAYIR METROBÜS/ ÜSKÜDAR",
+  "hatuzunluk": 36388,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "18A",
+  "hatadi": "SULTANBEYLİ - ACIBADEM METRO/HAREM",
+  "hatuzunluk": 32167,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "18D",
+  "hatadi": "SULTANBEYLİ - KADIKÖY",
+  "hatuzunluk": 32347,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "18E",
+  "hatadi": "YENİDOĞAN / SAMANDIRA - KADIKÖY",
+  "hatuzunluk": 32149,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "18F",
+  "hatadi": "VEYSEL KARANİ / FATİH MAH. - KADIKÖY",
+  "hatuzunluk": 36498,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "18K",
+  "hatadi": "SULTANBEYLİ - KADIKÖY",
+  "hatuzunluk": 32347,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "18M",
+  "hatadi": "SULTANBEYLİ MİMARSİNAN - UZUNÇAYIR METROBÜS/HAREM",
+  "hatuzunluk": 32541,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "18UK",
+  "hatadi": "UZUNDERE-KOZYATAĞI",
+  "hatuzunluk": 28117,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "18V",
+  "hatadi": "VEYSEL KARANİ / SAMANDIRA - KADIKÖY",
+  "hatuzunluk": 29297,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "18Y",
+  "hatadi": "YENİDOĞAN / SAMANDIRA - ÜSKÜDAR",
+  "hatuzunluk": 44874,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "18YS",
+  "hatadi": "YENİDOĞAN-SULTANBEYLİ",
+  "hatuzunluk": 25015,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "18Ü",
+  "hatadi": "SULTANBEYLİ - ÜSKÜDAR",
+  "hatuzunluk": 39311,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "19",
+  "hatadi": "FERHATPAŞA / YEDİTEPE ÜNİVERSİTESİ - KADIKÖY",
+  "hatuzunluk": 20303,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "19A",
+  "hatadi": "YENİDOĞAN - AYRILIKÇEŞME",
+  "hatuzunluk": 27910,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "19D",
+  "hatadi": "ÜMRANİYE - BOSTANCI",
+  "hatuzunluk": 20108,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "19E",
+  "hatadi": "YENİDOĞAN/ ATAŞEHİR - KOZYATAĞI METRO",
+  "hatuzunluk": 19769,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "19EK",
+  "hatadi": "YENİDOĞAN/ ATAŞEHİR - KADIKÖY",
+  "hatuzunluk": 29742,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "19ES",
+  "hatadi": "ESENŞEHİR - KADIKÖY",
+  "hatuzunluk": 22030,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "19F",
+  "hatadi": "YEDİTEPE ÜNİV. / FINDIKLI MAHALLESİ - KADIKÖY",
+  "hatuzunluk": 14850,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Maltepe"
+ },
+ {
+  "HATKODU": "19FB",
+  "hatadi": "FINDIKLI MAHALLESİ - BOSTANCI",
+  "hatuzunluk": 14968,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "19FS",
+  "hatadi": "FERHATPAŞA - SOYAK YENİŞEHİR",
+  "hatuzunluk": 20327,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "19K",
+  "hatadi": "ACARLAR SİTESİ / KAYIŞDAĞI - KADIKÖY",
+  "hatuzunluk": 15147,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "19M",
+  "hatadi": "ACARLAR SİTESİ / ATAŞEHİR - KADIKÖY",
+  "hatuzunluk": 15336,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "19S",
+  "hatadi": "YENİDOĞAN / SARIGAZİ - KADIKÖY",
+  "hatuzunluk": 28615,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "19SK",
+  "hatadi": "YENIDOĞAN/SARIGAZI-KOZYATAĞI METRO",
+  "hatuzunluk": 20450,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "19T",
+  "hatadi": "FERHATPAŞA - KADIKÖY",
+  "hatuzunluk": 19042,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "19V",
+  "hatadi": "VEYSEL KARANİ / SAMANDIRA - KOZYATAĞI METRO",
+  "hatuzunluk": 23917,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "19Y",
+  "hatadi": "FERHATPAŞA - KADIKÖY",
+  "hatuzunluk": 17903,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "19YK",
+  "hatadi": "YENİDOĞAN-KAYIŞDAĞI",
+  "hatuzunluk": 18919,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "2",
+  "hatadi": "BOSTANCI - HAREM",
+  "hatuzunluk": 19272,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Kadıköy"
+ },
+ {
+  "HATKODU": "20",
+  "hatadi": "ORTAÇEŞME / KAVACIK - Ü.EĞT.ARŞ.HASTANESİ",
+  "hatuzunluk": 32250,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "20D",
+  "hatadi": "SARIGAZİ/YENİŞEHİR-KADIKÖY",
+  "hatuzunluk": 22792,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "20E",
+  "hatadi": "ESATPAŞA - KADIKÖY",
+  "hatuzunluk": 12151,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "20K",
+  "hatadi": "KAZIM KARABEKİR - KADIKÖY",
+  "hatuzunluk": 16100,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "20Ü",
+  "hatadi": "ÜMRANİYE TEPEÜSTÜ - KADIKÖY",
+  "hatuzunluk": 15967,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "22",
+  "hatadi": "İSTİNYE DEREİÇİ - KABATAŞ",
+  "hatuzunluk": 17126,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "22B",
+  "hatadi": "BEBEK - KABATAŞ",
+  "hatuzunluk": 7963,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "22RE",
+  "hatadi": "FATİH SULTAN MEHMET - BEŞİKTAŞ",
+  "hatuzunluk": 17474,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "25",
+  "hatadi": "HACIOSMAN METRO - HAVANTEPE",
+  "hatuzunluk": 7149,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "251",
+  "hatadi": "PENDİK - MECİDİYEKÖY",
+  "hatuzunluk": 36774,
+  "hatcinsi": "ÖÇK",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "256",
+  "hatadi": "YEDİTEPE ÜNİVERSİTESİ / ATAŞEHİR - TAKSİM",
+  "hatuzunluk": 30038,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Maltepe"
+ },
+ {
+  "HATKODU": "25A",
+  "hatadi": "RUMELİKAVAĞI - HACIOSMAN METRO",
+  "hatuzunluk": 10984,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "25C",
+  "hatadi": "TARABYAÜSTÜ / FERAHEVLER - İSTİNYE",
+  "hatuzunluk": 8649,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "25E",
+  "hatadi": "SARIYER - BALTALİMANI",
+  "hatuzunluk": 15571,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "25G",
+  "hatadi": "SARIYER - TAKSİM",
+  "hatuzunluk": 22794,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "25S1",
+  "hatadi": "HACIOSMAN METRO-SARIYER",
+  "hatuzunluk": 12229,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "25S2",
+  "hatadi": "HACIOSMAN METRO-SARIYER",
+  "hatuzunluk": 12390,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "25Y",
+  "hatadi": "HACIOSMAN METRO - YENİ UYUM SİTESİ",
+  "hatuzunluk": 11824,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "26",
+  "hatadi": "DİKİLİTAŞ - EMİNÖNÜ",
+  "hatuzunluk": 12082,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "26A",
+  "hatadi": "FULYA MAHALLESİ - EMİNÖNÜ",
+  "hatuzunluk": 11742,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Şişli"
+ },
+ {
+  "HATKODU": "26B",
+  "hatadi": "FULYA MAHALLESİ - KABATAŞ",
+  "hatuzunluk": 12725,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "27E",
+  "hatadi": "ŞİRİNTEPE - KABATAŞ",
+  "hatuzunluk": 9625,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "27SE",
+  "hatadi": "SEYRANTEPE - KABATAŞ",
+  "hatuzunluk": 13472,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "27T",
+  "hatadi": "ŞİRİNTEPE - ŞİŞLİ",
+  "hatuzunluk": 7545,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "28",
+  "hatadi": "TOPKAPI / EDİRNEKAPI - BEŞİKTAŞ",
+  "hatuzunluk": 12028,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "28T",
+  "hatadi": "TOPKAPI - BEŞİKTAŞ",
+  "hatuzunluk": 12164,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "29",
+  "hatadi": "İSTİNYE DEREİÇİ - ZİNCİRLİKUYU METROBÜS",
+  "hatuzunluk": 8774,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "29A",
+  "hatadi": "DERBENT MAHALLESİ - BEŞİKTAŞ",
+  "hatuzunluk": 11884,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "29B",
+  "hatadi": "FATİH SULTAN MEHMET - 4.LEVENT METRO",
+  "hatuzunluk": 10019,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "29C",
+  "hatadi": "TARABYAÜSTÜ - KABATAŞ",
+  "hatuzunluk": 18023,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "29D",
+  "hatadi": "FERAHEVLER - KABATAŞ",
+  "hatuzunluk": 18222,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "29E",
+  "hatadi": "MASLAK GAZETECİLER SİTESİ - BEŞİKTAŞ",
+  "hatuzunluk": 12958,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "29GM",
+  "hatadi": "MASLAK GAZETECİLER SİTESİ - 4.LEVENT METRO",
+  "hatuzunluk": 6917,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "29M1",
+  "hatadi": "HACIOSMAN METRO - FERAHEVLER / İSTİNYE",
+  "hatuzunluk": 12729,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "29M2",
+  "hatadi": "HACIOSMAN METRO - İSTİNYE / FERAHEVLER",
+  "hatuzunluk": 13760,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "29P",
+  "hatadi": "POLİGON MAHALLESİ - ZİNCİRLİKUYU METROBÜS",
+  "hatuzunluk": 7800,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "29T",
+  "hatadi": "TARABYAÜSTÜ / DARÜŞŞAFAKA - İSTİNYE",
+  "hatuzunluk": 9502,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "29Ş",
+  "hatadi": "İSTİNYE DEREİÇİ - ŞİŞLİ",
+  "hatuzunluk": 14064,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "3",
+  "hatadi": "BURHANİYE MAHALLESİ - KADIKÖY",
+  "hatuzunluk": 9886,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "300",
+  "hatadi": "SİLİVRİ-TÜYAP",
+  "hatuzunluk": 37954,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Büyükçekmece"
+ },
+ {
+  "HATKODU": "300B",
+  "hatadi": "SİLİVRİ BÜYÜKÇAVUŞLU-TÜYAP",
+  "hatuzunluk": 70751,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Silivri"
+ },
+ {
+  "HATKODU": "300C",
+  "hatadi": "SİLİVRİ ÇANTA/SANCAKTEPE-TÜYAP",
+  "hatuzunluk": 52672,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Silivri"
+ },
+ {
+  "HATKODU": "300D",
+  "hatadi": "SİLİVRİ DEĞİRMENKÖY-TÜYAP",
+  "hatuzunluk": 58881,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Silivri"
+ },
+ {
+  "HATKODU": "300G",
+  "hatadi": "SİLİVRİ GÜMÜŞYAKA-TÜYAP",
+  "hatuzunluk": 53125,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Silivri"
+ },
+ {
+  "HATKODU": "300M",
+  "hatadi": "SİLİVRİ MİMARSİNAN/KAVAKLI-TÜYAP",
+  "hatuzunluk": 45159,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Silivri"
+ },
+ {
+  "HATKODU": "300S",
+  "hatadi": "MARMARA CEZAEVİ-TÜYAP",
+  "hatuzunluk": 54233,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Silivri"
+ },
+ {
+  "HATKODU": "303A",
+  "hatadi": "SİLİVRİ - AVCILAR METROBÜS",
+  "hatuzunluk": 48085,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Silivri"
+ },
+ {
+  "HATKODU": "303B",
+  "hatadi": "MARMARA CEZAEVİ - OTOGAR",
+  "hatuzunluk": 87336,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Silivri"
+ },
+ {
+  "HATKODU": "30A",
+  "hatadi": "BEŞİKTAŞ - MECİDİYEKÖY",
+  "hatuzunluk": 11322,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "30D",
+  "hatadi": "ORTAKÖY DEREBOYU - YENİKAPI",
+  "hatuzunluk": 11680,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "30M",
+  "hatadi": "BEŞİKTAŞ - MECİDİYEKÖY",
+  "hatuzunluk": 8466,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "31",
+  "hatadi": "KUYUMCUKENT - YENİKAPI",
+  "hatuzunluk": 18654,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bahçelievler"
+ },
+ {
+  "HATKODU": "319",
+  "hatadi": "KAYIŞDAĞI - KADIKÖY",
+  "hatuzunluk": 18143,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "31E",
+  "hatadi": "KUYUMCUKENT - EMİNÖNÜ",
+  "hatuzunluk": 21852,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bahçelievler"
+ },
+ {
+  "HATKODU": "31Y",
+  "hatadi": "TOKİ AYAZMA - YENİKAPI",
+  "hatuzunluk": 24496,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "32",
+  "hatadi": "CEVATPAŞA - EMİNÖNÜ",
+  "hatuzunluk": 16388,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Bayrampaşa"
+ },
+ {
+  "HATKODU": "320",
+  "hatadi": "FERHATPAŞA - ÜMRANİYE METRO/ÇAMLICA CAMİİ",
+  "hatuzunluk": 17310,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "320A",
+  "hatadi": "SULTANBEYLİ MİMARSİNAN / SAMANDIRA - ÜSKÜDAR",
+  "hatuzunluk": 35111,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "320Y",
+  "hatadi": "YENİDOĞAN - KOZYATAĞI METRO",
+  "hatuzunluk": 22959,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "32A",
+  "hatadi": "CEVATPAŞA - AKSARAY",
+  "hatuzunluk": 11297,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Bayrampaşa"
+ },
+ {
+  "HATKODU": "32M",
+  "hatadi": "CEVATPAŞA - MECİDİYEKÖY",
+  "hatuzunluk": 15794,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Bayrampaşa"
+ },
+ {
+  "HATKODU": "32T",
+  "hatadi": "CEVATPAŞA - TAKSİM",
+  "hatuzunluk": 17973,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Bayrampaşa"
+ },
+ {
+  "HATKODU": "33",
+  "hatadi": "GİYİMKENT / TURGUTREİS - EMİNÖNÜ",
+  "hatuzunluk": 20578,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Esenler"
+ },
+ {
+  "HATKODU": "336",
+  "hatadi": "ARNAVUTKÖY - EMİNÖNÜ",
+  "hatuzunluk": 34439,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "336A",
+  "hatadi": "BALABAN KÖYÜ - MESCİDİ SELAM",
+  "hatuzunluk": 41411,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "336E",
+  "hatadi": "SULTANÇİFTLİĞİ - EMİNÖNÜ",
+  "hatuzunluk": 20312,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "336G",
+  "hatadi": "TAŞOLUK PERON - TEKSTİLKENT METRO",
+  "hatuzunluk": 24147,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "336H",
+  "hatadi": "HADIMKÖY - MESCİDİ SELAM",
+  "hatuzunluk": 34549,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "336K",
+  "hatadi": "YENİKÖY / KARABURUN - MESCİDİ SELAM",
+  "hatuzunluk": 45849,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "336M",
+  "hatadi": "ARNAVUTKÖY - MECİDİYEKÖY",
+  "hatuzunluk": 37426,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "336MC",
+  "hatadi": "BOLLUCA / İMRAHOR - CEBECİ",
+  "hatuzunluk": 27644,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "336T",
+  "hatadi": "TAŞOLUK MAHALLESİ- CEBECİ",
+  "hatuzunluk": 27472,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "336Y",
+  "hatadi": "CEBECİ - YENİKAPI MARMARAY",
+  "hatuzunluk": 20592,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "33B",
+  "hatadi": "GİYİMKENT / BİRLİK MAHALLESİ - EMİNÖNÜ",
+  "hatuzunluk": 22424,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Esenler"
+ },
+ {
+  "HATKODU": "33E",
+  "hatadi": "ÇİFTE DUTLAR - EMİNÖNÜ",
+  "hatuzunluk": 14611,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Esenler"
+ },
+ {
+  "HATKODU": "33ES",
+  "hatadi": "GİYİMKENT - EMİNÖNÜ",
+  "hatuzunluk": 17229,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Esenler"
+ },
+ {
+  "HATKODU": "33M",
+  "hatadi": "GİYİMKENT - MECİDİYEKÖY",
+  "hatuzunluk": 21091,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Esenler"
+ },
+ {
+  "HATKODU": "33TE",
+  "hatadi": "ESENLER TURGUTREİS - EMİNÖNÜ",
+  "hatuzunluk": 17384,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Esenler"
+ },
+ {
+  "HATKODU": "33TM",
+  "hatadi": "GİYİMKENT / TURGUTREİS - MECİDİYEKÖY",
+  "hatuzunluk": 17742,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Esenler"
+ },
+ {
+  "HATKODU": "33Y",
+  "hatadi": "GİYİMKENT / YÜZYIL MAHALLESİ - EMİNÖNÜ",
+  "hatuzunluk": 21448,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Esenler"
+ },
+ {
+  "HATKODU": "34",
+  "hatadi": "AVCILAR-ZİNCİRLİKUYU",
+  "hatuzunluk": 13856,
+  "hatcinsi": "METROBÜS",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "34A",
+  "hatadi": "CEVİZLİBAĞ - SÖĞÜTLÜÇEŞME",
+  "hatuzunluk": 14086,
+  "hatcinsi": "METROBÜS",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "34AS",
+  "hatadi": "AVCILAR - SÖĞÜTLÜÇEŞME",
+  "hatuzunluk": 21331,
+  "hatcinsi": "METROBÜS",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "34B",
+  "hatadi": "BEYLİKDÜZÜ-AVCILAR",
+  "hatuzunluk": 9884,
+  "hatcinsi": "METROBÜS",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "34BZ",
+  "hatadi": "BEYLİKDÜZÜ - ZİNCİRLİKUYU",
+  "hatuzunluk": 23740,
+  "hatcinsi": "METROBÜS",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "34C",
+  "hatadi": "BEYLİKDÜZÜ-CEVİZLİBAĞ",
+  "hatuzunluk": 16527,
+  "hatcinsi": "METROBÜS",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "34G",
+  "hatadi": "BEYLİKDÜZÜ-SÖĞÜTLÜÇEŞME",
+  "hatuzunluk": 31215,
+  "hatcinsi": "METROBÜS",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "34Z",
+  "hatadi": "ZİNCİRLİKUYU-SÖĞÜTLÜÇEŞME",
+  "hatuzunluk": 6872,
+  "hatcinsi": "METROBÜS",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "35",
+  "hatadi": "KOCAMUSTAFAPAŞA - EMİNÖNÜ",
+  "hatuzunluk": 6431,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "35C",
+  "hatadi": "KOCAMUSTAFAPAŞA - TAKSİM",
+  "hatuzunluk": 8146,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "35D",
+  "hatadi": "KOCAMUSTAFAPAŞA - BALAT",
+  "hatuzunluk": 9755,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "36",
+  "hatadi": "YENİ MAHALLE METRO - AKSARAY RİNG",
+  "hatuzunluk": 14331,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Gaziosmanpaşa"
+ },
+ {
+  "HATKODU": "36A",
+  "hatadi": "CEBECİ - VEZNECİLER",
+  "hatuzunluk": 17433,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "36AS",
+  "hatadi": "TAŞOLUK PERON - SEFAKÖY METROBÜS",
+  "hatuzunluk": 40038,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "36AY",
+  "hatadi": "ARNAVUTKÖY - YENİBOSNA METRO",
+  "hatuzunluk": 36943,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "36B",
+  "hatadi": "BOLLUCA / BOĞAZKÖY - CEBECİ",
+  "hatuzunluk": 24267,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "36C",
+  "hatadi": "ARNAVUTKÖY-CEBECI",
+  "hatuzunluk": 18970,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "36CB",
+  "hatadi": "CEBECİ KÖYÜ - HABİPLER",
+  "hatuzunluk": 13325,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "36CY",
+  "hatadi": "CEBECİ - YENİBOSNA METRO",
+  "hatuzunluk": 26518,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "36D",
+  "hatadi": "ARNAVUTKÖY - DELİKLİKAYA",
+  "hatuzunluk": 34927,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "36ES",
+  "hatadi": "SULTANGAZİ PERON - AKSARAY",
+  "hatuzunluk": 18098,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "36F",
+  "hatadi": "CEBECİ - FENERTEPE/OLİMPİYATKÖY METRO",
+  "hatuzunluk": 25039,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "36G",
+  "hatadi": "SULTANGAZİ PERON-BEŞİKTAŞ",
+  "hatuzunluk": 19974,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "36HT",
+  "hatadi": "FATİH MAHALLESİ- HARAÇÇI - CEBECİ",
+  "hatuzunluk": 30228,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "36KE",
+  "hatadi": "YENİ MAHALLE METRO - EMİNÖNÜ",
+  "hatuzunluk": 17036,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Gaziosmanpaşa"
+ },
+ {
+  "HATKODU": "36L",
+  "hatadi": "MESCİD-İ SELAM - 4.LEVENT METRO",
+  "hatuzunluk": 20447,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "36M",
+  "hatadi": "CEBECİ - MECİDİYEKÖY",
+  "hatuzunluk": 22324,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "36S",
+  "hatadi": "HABİPLER - YENİMAHALLE METRO",
+  "hatuzunluk": 18339,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "36T",
+  "hatadi": "CEBECİ - TAKSİM",
+  "hatuzunluk": 27427,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "36TC",
+  "hatadi": "TAŞOLUK PERON- CEBECİ",
+  "hatuzunluk": 26744,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "36V",
+  "hatadi": "YAYLA MAHALLESİ - VEZNECİLER",
+  "hatuzunluk": 23495,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "36Y",
+  "hatadi": "TAŞOLUK PERON - MAHMUTBEY METRO",
+  "hatuzunluk": 25818,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "36YS",
+  "hatadi": "YASSIÖREN - ARNAVUTKÖY",
+  "hatuzunluk": 33233,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "36Z",
+  "hatadi": "CEBECİ-ZİNCİRLİKUYU",
+  "hatuzunluk": 17648,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "37M",
+  "hatadi": "ÇIRÇIR METRO - MECİDİYEKÖY",
+  "hatuzunluk": 16533,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "37T",
+  "hatadi": "ÇIRÇIR METRO - TAKSİM",
+  "hatuzunluk": 15764,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "37Y",
+  "hatadi": "ÇIRÇIR METRO - VEZNECİLER",
+  "hatuzunluk": 14179,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "38",
+  "hatadi": "SULTANGAZİ PERON-AKSARAY",
+  "hatuzunluk": 17513,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "38B",
+  "hatadi": "SULTANGAZİ PERON-VEZNECİLER",
+  "hatuzunluk": 16555,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "38E",
+  "hatadi": "G.O.P. DEVLET HASTANESİ - EMİNÖNÜ",
+  "hatuzunluk": 15809,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Gaziosmanpaşa"
+ },
+ {
+  "HATKODU": "38G",
+  "hatadi": "G.O.P. DEVLET HASTANESİ - MECİDİYEKÖY",
+  "hatuzunluk": 16683,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Gaziosmanpaşa"
+ },
+ {
+  "HATKODU": "38H",
+  "hatadi": "ZÜBEYDE HANIM MAHALLESİ - HABİBLER",
+  "hatuzunluk": 13733,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "38Z",
+  "hatadi": "ZÜBEYDE HANIM MAHALLESİ - AKSARAY",
+  "hatuzunluk": 15560,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "3A",
+  "hatadi": "KADIKÖY - ÜNALAN MAHALLESİ",
+  "hatuzunluk": 14248,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Kadıköy"
+ },
+ {
+  "HATKODU": "3B",
+  "hatadi": "KADIKÖY - ÜNALAN MAHALLESİ",
+  "hatuzunluk": 16012,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Kadıköy"
+ },
+ {
+  "HATKODU": "4",
+  "hatadi": "MALTEPE SAHİL - KADIKÖY",
+  "hatuzunluk": 26608,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Maltepe"
+ },
+ {
+  "HATKODU": "40",
+  "hatadi": "RUMELİFENERİ / GARİPÇE - TAKSİM",
+  "hatuzunluk": 39930,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "400A",
+  "hatadi": "BEYKENT - HARAMİDERE",
+  "hatuzunluk": 9677,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Beylikdüzü"
+ },
+ {
+  "HATKODU": "401",
+  "hatadi": "ÇATALCA - AVCILAR METROBÜS",
+  "hatuzunluk": 34091,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Çatalca"
+ },
+ {
+  "HATKODU": "401T",
+  "hatadi": "AREL ÜNİVERSİTESİ -TEPEKENT - HARAMİDERE",
+  "hatuzunluk": 23862,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Büyükçekmece"
+ },
+ {
+  "HATKODU": "402",
+  "hatadi": "BİNKILIÇ - ÇATALCA",
+  "hatuzunluk": 51926,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Çatalca"
+ },
+ {
+  "HATKODU": "403",
+  "hatadi": "ÇİFTLİKKÖY - ÇATALCA",
+  "hatuzunluk": 33312,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Çatalca"
+ },
+ {
+  "HATKODU": "404",
+  "hatadi": "YALIKÖY / KARACAKÖY - ÇATALCA",
+  "hatuzunluk": 60603,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Çatalca"
+ },
+ {
+  "HATKODU": "40B",
+  "hatadi": "SARIYER - BEŞİKTAŞ",
+  "hatuzunluk": 22869,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "40T",
+  "hatadi": "İSTİNYE DEREİÇİ - TAKSİM",
+  "hatuzunluk": 17127,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "41",
+  "hatadi": "SİNPAŞ SİTESİ - 4.LEVENT METRO",
+  "hatuzunluk": 16142,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "418",
+  "hatadi": "HADIMKÖY - HARAMİDERE",
+  "hatuzunluk": 31107,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "41A",
+  "hatadi": "AYAZAĞA - 4. LEVENT METRO",
+  "hatuzunluk": 6661,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "41AT",
+  "hatadi": "AYAZAĞA - DAVUTPAŞA Y.T.Ü",
+  "hatuzunluk": 25945,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "41C",
+  "hatadi": "AYAZAĞA - SARIYER",
+  "hatuzunluk": 19286,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "41E",
+  "hatadi": "AYAZAĞA - KABATAŞ",
+  "hatuzunluk": 13983,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "41N",
+  "hatadi": "NİŞANTAŞI ÜNİVERSİTESİ - MASLAK",
+  "hatuzunluk": 7448,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "41SF",
+  "hatadi": "SARIYER - FATİH SULTAN MEHMET",
+  "hatuzunluk": 20378,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "41SM",
+  "hatadi": "YENİ AYAZAĞA MEZARLIĞI- 4.LEVENT METRO",
+  "hatuzunluk": 9785,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "41ST",
+  "hatadi": "SEYRANTEPE - TOPKAPI",
+  "hatuzunluk": 23183,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "42",
+  "hatadi": "BAHÇEKÖY / FERAHEVLER - ZİNCİRLİKUYU METROBÜS",
+  "hatuzunluk": 21552,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "429A",
+  "hatadi": "KIRAÇ - AVCILAR METROBÜS",
+  "hatuzunluk": 21207,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Esenyurt"
+ },
+ {
+  "HATKODU": "42HM",
+  "hatadi": "BAHÇEKÖY - HACIOSMAN METRO",
+  "hatuzunluk": 8165,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "42K",
+  "hatadi": "SARIYER - KAZIM KARABEKİR",
+  "hatuzunluk": 13019,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "42KT",
+  "hatadi": "SARIYER - KOCATAŞ",
+  "hatuzunluk": 7149,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "42M",
+  "hatadi": "BAHÇEKÖY - ZİNCİRLİKUYU METROBÜS",
+  "hatuzunluk": 17212,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "42T",
+  "hatadi": "BAHÇEKÖY - BALTALİMANI",
+  "hatuzunluk": 17788,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "42Z",
+  "hatadi": "HACIOSMAN METRO - KAZIM KARABEKİR",
+  "hatuzunluk": 10715,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "43R",
+  "hatadi": "RUMELİ HİSARÜSTÜ - KABATAŞ",
+  "hatuzunluk": 9778,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "448",
+  "hatadi": "GÜZELCE - HARAMİDERE",
+  "hatuzunluk": 19191,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Büyükçekmece"
+ },
+ {
+  "HATKODU": "458",
+  "hatadi": "GÜRPINAR - AVCILAR METROBÜS",
+  "hatuzunluk": 24525,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Beylikdüzü"
+ },
+ {
+  "HATKODU": "46KT",
+  "hatadi": "KUŞTEPE - ŞİŞLİ",
+  "hatuzunluk": 3085,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Şişli"
+ },
+ {
+  "HATKODU": "46T",
+  "hatadi": "ÇAĞLAYAN - TOPKAPI",
+  "hatuzunluk": 15634,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "46Ç",
+  "hatadi": "KAĞITHANE - EMİNÖNÜ",
+  "hatuzunluk": 12156,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "47L",
+  "hatadi": "BİNEVLER -  HACIOSMAN METRO",
+  "hatuzunluk": 22015,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "48",
+  "hatadi": "GÖKTÜRK - MECİDİYEKÖY",
+  "hatuzunluk": 22660,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "48A",
+  "hatadi": "GÖKTÜRK - KAZLIÇEŞME",
+  "hatuzunluk": 30039,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "48C",
+  "hatadi": "KEMERBURGAZ - ÇİFTALAN KÖYÜ",
+  "hatuzunluk": 14105,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "48D",
+  "hatadi": "GÖKTÜRK - HACIOSMAN METRO",
+  "hatuzunluk": 21952,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "48G",
+  "hatadi": "GÖKTÜRK- MESCİDİ SELAM",
+  "hatuzunluk": 21010,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "48H",
+  "hatadi": "HAMİDİYE MAHALLESİ - ŞİŞLİ",
+  "hatuzunluk": 8493,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "48K",
+  "hatadi": "KEMERBURGAZ - AĞAÇLI KÖYÜ",
+  "hatuzunluk": 23517,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "48KA",
+  "hatadi": "KEMERBURGAZ - ARNAVUTKÖY",
+  "hatuzunluk": 29926,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "48L",
+  "hatadi": "GÖKTÜRK - 4.LEVENT METRO",
+  "hatuzunluk": 23055,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "48M",
+  "hatadi": "AKPINAR KÖYÜ-ARNAVUTKÖY",
+  "hatuzunluk": 19357,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "48N",
+  "hatadi": "EMNİYETTEPE - TAKSİM",
+  "hatuzunluk": 11178,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "48P",
+  "hatadi": "KEMERBURGAZ - AKPINAR KÖYÜ",
+  "hatuzunluk": 21355,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "48S",
+  "hatadi": "SADABAT EVLERİ - ŞİŞLİ",
+  "hatuzunluk": 6767,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "48T",
+  "hatadi": "HAMİDİYE MAHALLESİ - TAKSİM",
+  "hatuzunluk": 15002,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "48U",
+  "hatadi": "KENT ORMAN - KEMERBURGAZ",
+  "hatuzunluk": 4793,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "49G",
+  "hatadi": "SULTANGAZİ PERON - KÜÇÜKKÖY - ŞİŞLİ",
+  "hatuzunluk": 19807,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "49GB",
+  "hatadi": "SULTANGAZİ PERON/BARAJ YOLU - ŞİŞLİ",
+  "hatuzunluk": 18217,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "49Z",
+  "hatadi": "YEŞİLPINAR - ZİNCİRLİKUYU METROBÜS",
+  "hatuzunluk": 17919,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "5",
+  "hatadi": "VALİEVLERİ - ÜSKÜDAR",
+  "hatuzunluk": 11994,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "500L",
+  "hatadi": "CEVİZLİBAĞ - 4.LEVENT METRO",
+  "hatuzunluk": 17557,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Zeytinburnu"
+ },
+ {
+  "HATKODU": "500T",
+  "hatadi": "TUZLA ŞİFA MAHALLESİ - 4. LEVENT METRO",
+  "hatuzunluk": 56930,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Çayırova"
+ },
+ {
+  "HATKODU": "50A",
+  "hatadi": "ALİBEYKÖY - EDİRNEKAPI METROBÜS",
+  "hatuzunluk": 9802,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "50AT",
+  "hatadi": "CEBECİ - GAZİ - ALİBEYKÖY",
+  "hatuzunluk": 18800,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "50B",
+  "hatadi": "ALİBEYKÖY - BAKIRKÖY",
+  "hatuzunluk": 17725,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "50C",
+  "hatadi": "ALİBEYKÖY - ŞİŞLİ",
+  "hatuzunluk": 8497,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "50D",
+  "hatadi": "AYAZAĞA - ALİBEYKÖY",
+  "hatuzunluk": 12736,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "50E",
+  "hatadi": "ALİBEYKÖY - EMİNÖNÜ",
+  "hatuzunluk": 10721,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "50F",
+  "hatadi": "ALİBEYKÖY - 4.LEVENT METRO",
+  "hatuzunluk": 14157,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "50G",
+  "hatadi": "GÖKTÜRK - TAKSİM",
+  "hatuzunluk": 28437,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "50H",
+  "hatadi": "ALİBEYKÖY - HACIOSMAN METRO",
+  "hatuzunluk": 16333,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "50K",
+  "hatadi": "ALİBEYKÖY - KAZLIÇEŞME",
+  "hatuzunluk": 14125,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "50L",
+  "hatadi": "ALİBEYKÖY - BEŞİKTAŞ",
+  "hatuzunluk": 9546,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "50M",
+  "hatadi": "ALİBEYKÖY-MECİDİYEKÖY",
+  "hatuzunluk": 11327,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "50N",
+  "hatadi": "ALİBEYKÖY - TAKSİM",
+  "hatuzunluk": 11943,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "50P",
+  "hatadi": "ÇIRÇIR METRO - EMİNÖNÜ",
+  "hatuzunluk": 17122,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "50R",
+  "hatadi": "ALİBEYKÖY - OTOGAR",
+  "hatuzunluk": 10404,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "50S",
+  "hatadi": "ALİBEYKÖY - ŞİŞLİ",
+  "hatuzunluk": 8752,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "50T",
+  "hatadi": "ALİBEYKÖY - TAKSİM",
+  "hatuzunluk": 10382,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "50V",
+  "hatadi": "ALİBEYKÖY - VEZNECİLER",
+  "hatuzunluk": 12253,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "50Y",
+  "hatadi": "ALİBEYKÖY - YENİKAPI",
+  "hatuzunluk": 14647,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "50Z",
+  "hatadi": "ALİBEYKÖY - ZİNCİRLİKUYU",
+  "hatuzunluk": 13403,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "522",
+  "hatadi": "ÖZYEĞİN ÜNİVERSİTESİ / ALEMDAĞ - MECİDİYEKÖY",
+  "hatuzunluk": 32143,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "522B",
+  "hatadi": "YENİDOĞAN - MECİDİYEKÖY MEZARLIK",
+  "hatuzunluk": 33249,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "522ST",
+  "hatadi": "SULTANBEYLİ - MECİDİYEKÖY",
+  "hatuzunluk": 42488,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "54E",
+  "hatadi": "OKMEYDANI - EMİNÖNÜ",
+  "hatuzunluk": 10433,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Şişli"
+ },
+ {
+  "HATKODU": "54HT",
+  "hatadi": "HASKÖY - TAKSİM",
+  "hatuzunluk": 7141,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Beyoğlu"
+ },
+ {
+  "HATKODU": "54HŞ",
+  "hatadi": "HASKÖY - ŞİŞLİ",
+  "hatuzunluk": 10234,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Beyoğlu"
+ },
+ {
+  "HATKODU": "54K",
+  "hatadi": "HASKÖY - KULAKSIZ - TAKSİM",
+  "hatuzunluk": 10120,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Beyoğlu"
+ },
+ {
+  "HATKODU": "54KT",
+  "hatadi": "KAPTANPAŞA - DOLAPDERE / TAKSİM",
+  "hatuzunluk": 11348,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Beyoğlu"
+ },
+ {
+  "HATKODU": "54P",
+  "hatadi": "PİYALEPAŞA MAHALLESİ - TAKSİM",
+  "hatuzunluk": 7084,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Beyoğlu"
+ },
+ {
+  "HATKODU": "54T",
+  "hatadi": "SADABAT EVLERİ / TALATPAŞA - TAKSİM",
+  "hatuzunluk": 9830,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "54TE",
+  "hatadi": "SADABAT EVLERİ / TALATPAŞA - EMİNÖNÜ",
+  "hatuzunluk": 12626,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "54Ç",
+  "hatadi": "ÇIKSALIN - TAKSİM",
+  "hatuzunluk": 7528,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Beyoğlu"
+ },
+ {
+  "HATKODU": "54ÖR",
+  "hatadi": "ÖRNEKTEPE - TAKSİM",
+  "hatuzunluk": 7547,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "55",
+  "hatadi": "GAZİOSMANPAŞA - ŞİŞLİ",
+  "hatuzunluk": 11200,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Gaziosmanpaşa"
+ },
+ {
+  "HATKODU": "559C",
+  "hatadi": "RUMELİ HİSARÜSTÜ - TAKSİM",
+  "hatuzunluk": 9758,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "55B",
+  "hatadi": "GAZİOSMANPAŞA - BEŞİKTAŞ",
+  "hatuzunluk": 12048,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Gaziosmanpaşa"
+ },
+ {
+  "HATKODU": "55ET",
+  "hatadi": "GAZİOSMANPAŞA - BEŞİKTAŞ",
+  "hatuzunluk": 15951,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Gaziosmanpaşa"
+ },
+ {
+  "HATKODU": "55T",
+  "hatadi": "GAZİOSMANPAŞA - TAKSİM",
+  "hatuzunluk": 10449,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Gaziosmanpaşa"
+ },
+ {
+  "HATKODU": "55Y",
+  "hatadi": "KAĞITHANE GARAJI - YENİBOSNA METRO",
+  "hatuzunluk": 28549,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "57UL",
+  "hatadi": "BEŞİKTAŞ - KURUÇEŞMEÜSTÜ",
+  "hatuzunluk": 5064,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "58A",
+  "hatadi": "POLİGON MAHALLESİ- KABATAŞ",
+  "hatuzunluk": 15797,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "58N",
+  "hatadi": "FATİH SULTAN MEHMET - KABATAŞ",
+  "hatuzunluk": 10147,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "58S",
+  "hatadi": "LEVAZIM MAHALLESİ - KABATAŞ",
+  "hatuzunluk": 8166,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "58UL",
+  "hatadi": "ULUS MAHALLESİ - KABATAŞ",
+  "hatuzunluk": 8861,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "59A",
+  "hatadi": "İSTİNYE DEREİÇİ - ŞİŞLİ",
+  "hatuzunluk": 15265,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "59CH",
+  "hatadi": "ARNAVUTKÖY - MECİDİYEKÖY",
+  "hatuzunluk": 7173,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "59HS",
+  "hatadi": "HACIOSMAN METRO - SARITEPE KAMPÜSÜ",
+  "hatuzunluk": 19772,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "59K",
+  "hatadi": "KARAYOLLARI / ETİLER - ŞİŞLİ",
+  "hatuzunluk": 9996,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "59N",
+  "hatadi": "FATİH SULTAN MEHMET - ŞİŞLİ",
+  "hatuzunluk": 8080,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "59R",
+  "hatadi": "RUMELİ HİSARÜSTÜ - ŞİŞLİ",
+  "hatuzunluk": 7691,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "59RH",
+  "hatadi": "RUMELİ HİSARÜSTÜ - HACIOSMAN METRO",
+  "hatuzunluk": 10241,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "59RK",
+  "hatadi": "RUMELİ HİSARÜSTÜ - SARITEPE KAMPÜSÜ",
+  "hatuzunluk": 34808,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "59RS",
+  "hatadi": "SARIYER - RUMELİ HİSARÜSTÜ",
+  "hatuzunluk": 19270,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "6",
+  "hatadi": "ESATPAŞA / KÜÇÜKÇAMLICA - HAREM",
+  "hatuzunluk": 13619,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "62",
+  "hatadi": "KAĞITHANE / GÜLTEPE - KABATAŞ",
+  "hatuzunluk": 11991,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "622",
+  "hatadi": "YENİDOĞAN - MECİDİYEKÖY",
+  "hatuzunluk": 35284,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "62G",
+  "hatadi": "EMNİYETTEPE /  HAMİDİYE - BEŞİKTAŞ",
+  "hatuzunluk": 15121,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "62H",
+  "hatadi": "EMNİYETTEPE - HACIOSMAN METRO",
+  "hatuzunluk": 17883,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "63",
+  "hatadi": "KAĞITHANE / ÇELİKTEPE - KABATAŞ",
+  "hatuzunluk": 11296,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "64Ç",
+  "hatadi": "EMNİYETTEPE/ÇELİKTEPE-ŞİŞLİ",
+  "hatuzunluk": 15283,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "65A",
+  "hatadi": "SEYRANTEPE - KAĞITHANE GARAJI",
+  "hatuzunluk": 18609,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "65G",
+  "hatadi": "KAĞITHANE / GÜLTEPE - ŞİŞLİ",
+  "hatuzunluk": 9444,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "66",
+  "hatadi": "GÜLBAĞ - EMİNÖNÜ",
+  "hatuzunluk": 9325,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Şişli"
+ },
+ {
+  "HATKODU": "66Z",
+  "hatadi": "ZİNCİRLİDERE - ŞİŞLİ",
+  "hatuzunluk": 5354,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "7",
+  "hatadi": "TOPAĞACI MAHALLESİ / ÜMRANİYE - RASATHANE",
+  "hatuzunluk": 9718,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "70D",
+  "hatadi": "KURTULUŞ / DOLAPDERE - EMİNÖNÜ",
+  "hatuzunluk": 7857,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Şişli"
+ },
+ {
+  "HATKODU": "70FE",
+  "hatadi": "FERİKÖY - EMİNÖNÜ",
+  "hatuzunluk": 8101,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Şişli"
+ },
+ {
+  "HATKODU": "70FY",
+  "hatadi": "FERİKÖY - YENİKAPI",
+  "hatuzunluk": 10363,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Şişli"
+ },
+ {
+  "HATKODU": "70KE",
+  "hatadi": "KURTULUŞ - EMİNÖNÜ",
+  "hatuzunluk": 8510,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Şişli"
+ },
+ {
+  "HATKODU": "70KY",
+  "hatadi": "KURTULUŞ - YENİKAPI",
+  "hatuzunluk": 9154,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Şişli"
+ },
+ {
+  "HATKODU": "71T",
+  "hatadi": "ATAKÖY - TAKSİM",
+  "hatuzunluk": 20118,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bakırköy"
+ },
+ {
+  "HATKODU": "72T",
+  "hatadi": "YEŞİLKÖY - TAKSİM",
+  "hatuzunluk": 24324,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bakırköy"
+ },
+ {
+  "HATKODU": "72YT",
+  "hatadi": "CERRAHPAŞA TIP FAK. MURAT DİLMENER ACİL DURUM HASTANESİ-YENİKAPI",
+  "hatuzunluk": 16196,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bakırköy"
+ },
+ {
+  "HATKODU": "73",
+  "hatadi": "YENİBOSNA METRO- TAKSİM",
+  "hatuzunluk": 16972,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bakırköy"
+ },
+ {
+  "HATKODU": "73B",
+  "hatadi": "FLORYA - BAKIRKÖY",
+  "hatuzunluk": 14703,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bakırköy"
+ },
+ {
+  "HATKODU": "73F",
+  "hatadi": "FLORYA - TAKSİM",
+  "hatuzunluk": 26438,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bakırköy"
+ },
+ {
+  "HATKODU": "73H",
+  "hatadi": "CERRAHPAŞA MURAT DİLMENER HASTANESİ - YENİBOSNA METRO",
+  "hatuzunluk": 9754,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bakırköy"
+ },
+ {
+  "HATKODU": "73Y",
+  "hatadi": "KUYUMCUKENT - YEŞİLKÖY / AKVARYUM",
+  "hatuzunluk": 15919,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bakırköy"
+ },
+ {
+  "HATKODU": "74",
+  "hatadi": "HİLTON SİTESİ - EMİNÖNÜ",
+  "hatuzunluk": 9672,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Şişli"
+ },
+ {
+  "HATKODU": "74A",
+  "hatadi": "GAYRETTEPE - EMİNÖNÜ",
+  "hatuzunluk": 8980,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "75O",
+  "hatadi": "OTOGAR - MECİDİYEKÖY",
+  "hatuzunluk": 20146,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Bayrampaşa"
+ },
+ {
+  "HATKODU": "76",
+  "hatadi": "BEYLİKDÜZÜ - BAKIRKÖY",
+  "hatuzunluk": 26201,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Beylikdüzü"
+ },
+ {
+  "HATKODU": "76A",
+  "hatadi": "KİPTAŞ VADİTEPE - YENİKAPI",
+  "hatuzunluk": 30908,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Avcılar"
+ },
+ {
+  "HATKODU": "76B",
+  "hatadi": "AVCILAR CİHANGİR MAHALLESİ - AVCILAR METROBÜS",
+  "hatuzunluk": 4576,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Avcılar"
+ },
+ {
+  "HATKODU": "76BA",
+  "hatadi": "BÜYÜKÇEKMECE - AVCILAR METROBÜS",
+  "hatuzunluk": 16021,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Büyükçekmece"
+ },
+ {
+  "HATKODU": "76C",
+  "hatadi": "BÜYÜKÇEKMECE - BAKIRKÖY",
+  "hatuzunluk": 26530,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Büyükçekmece"
+ },
+ {
+  "HATKODU": "76D",
+  "hatadi": "BAHÇEŞEHİR / ESENKENT - TAKSİM",
+  "hatuzunluk": 39337,
+  "hatcinsi": "ÖÇK",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "76G",
+  "hatadi": "GÜRPINAR - AVCILAR METROBÜS",
+  "hatuzunluk": 20416,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Beylikdüzü"
+ },
+ {
+  "HATKODU": "76GM",
+  "hatadi": "GÜRPINAR-BEYKENT METROBÜS",
+  "hatuzunluk": 11048,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Beylikdüzü"
+ },
+ {
+  "HATKODU": "76O",
+  "hatadi": "AVCILAR CİHANGİR MAHALLESİ - OTOGAR",
+  "hatuzunluk": 33260,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Avcılar"
+ },
+ {
+  "HATKODU": "76TM",
+  "hatadi": "TEPEKENT - HARAMİDERE",
+  "hatuzunluk": 27123,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Büyükçekmece"
+ },
+ {
+  "HATKODU": "76V",
+  "hatadi": "KİPTAŞ VADİTEPE - BAKIRKÖY",
+  "hatuzunluk": 35992,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "77",
+  "hatadi": "YENİKAPI-ŞİŞLİ",
+  "hatuzunluk": 12568,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "77A",
+  "hatadi": "VEZNECİLER-ŞİŞLİ",
+  "hatuzunluk": 10216,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "77Ç",
+  "hatadi": "ÇIKSALIN - EMİNÖNÜ",
+  "hatuzunluk": 7246,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Beyoğlu"
+ },
+ {
+  "HATKODU": "78",
+  "hatadi": "METROKENT - EMİNÖNÜ",
+  "hatuzunluk": 33444,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "78B",
+  "hatadi": "FENERTEPE PERON/BAŞAKŞEHİR - YENİBOSNA METRO",
+  "hatuzunluk": 27107,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "78C",
+  "hatadi": "YUNUS EMRE MAHALLESİ - FENERTEPE",
+  "hatuzunluk": 28081,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "78E",
+  "hatadi": "FENERTEPE PERON/BAŞAKŞEHİR - KAYABAŞI KİPTAŞ",
+  "hatuzunluk": 30423,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "78F",
+  "hatadi": "FENERTEPE - BAŞAKŞEHİR - METROKENT",
+  "hatuzunluk": 37600,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "78G",
+  "hatadi": "FENERTEPE PERON/BAŞAKŞEHİR - KAYAŞEHİR",
+  "hatuzunluk": 31687,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "78H",
+  "hatadi": "FENERTEPE PERON/BAŞAKŞEHİR - EMİNÖNÜ",
+  "hatuzunluk": 35451,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "78K",
+  "hatadi": "FENERTEPE PERON/BAŞAKŞEHIR-K.S.S. HASTANESİ",
+  "hatuzunluk": 25686,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "78ZB",
+  "hatadi": "FENERTEPE PERON/BAŞAKŞEHİR - ZEYTİNBURNU",
+  "hatuzunluk": 37713,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "78Ş",
+  "hatadi": "FENERTEPE PERON/BAŞAKŞEHİR - ŞAHİNTEPE İGTOT",
+  "hatuzunluk": 29493,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "79B",
+  "hatadi": "KAYAŞEHİR - BAKIRKÖY",
+  "hatuzunluk": 38251,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "79C",
+  "hatadi": "KAYAŞEHİR - CEBECİ MAHALLESİ",
+  "hatuzunluk": 26575,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "79E",
+  "hatadi": "KAYABAŞI KİPTAŞ / KAYAŞEHİR - EMİNÖNÜ",
+  "hatuzunluk": 42262,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "79F",
+  "hatadi": "KAYAŞEHİR - YENİBOSNA METRO",
+  "hatuzunluk": 37055,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "79FY",
+  "hatadi": "FENERTEPE-YENİBOSNA METRO",
+  "hatuzunluk": 30268,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "79G",
+  "hatadi": "KAYAŞEHİR - ZEYTİNBURNU",
+  "hatuzunluk": 30732,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "79GE",
+  "hatadi": "GÜVERCİNTEPE/FENERTEPE-EMİNÖNÜ",
+  "hatuzunluk": 39231,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "79K",
+  "hatadi": "KAYAŞEHİR - YENİBOSNA METRO",
+  "hatuzunluk": 29266,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "79KM",
+  "hatadi": "KAYAŞEHİR - MECİDİYEKÖY",
+  "hatuzunluk": 39883,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "79KT",
+  "hatadi": "KAYABAŞI KİPTAŞ - TEKSTİLKENT METRO",
+  "hatuzunluk": 25163,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "79T",
+  "hatadi": "KAYABAŞI KİPTAŞ - TAKSİM",
+  "hatuzunluk": 43037,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "79Y",
+  "hatadi": "KAYABAŞI KİPTAŞ / KAYAŞEHİR - YENİBOSNA METRO",
+  "hatuzunluk": 26673,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "79Ş",
+  "hatadi": "ŞAHİNTEPE İGTOT - İKİTELLİ OSB",
+  "hatuzunluk": 17477,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "8",
+  "hatadi": "VALİEVLERİ - KADIKÖY",
+  "hatuzunluk": 3513,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "80",
+  "hatadi": "KAZLIÇEŞME - EMİNÖNÜ",
+  "hatuzunluk": 9328,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Zeytinburnu"
+ },
+ {
+  "HATKODU": "80T",
+  "hatadi": "KAZLIÇEŞME - TAKSİM",
+  "hatuzunluk": 12021,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Zeytinburnu"
+ },
+ {
+  "HATKODU": "82",
+  "hatadi": "KUYUMCUKENT - EMİNÖNÜ",
+  "hatuzunluk": 18903,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bakırköy"
+ },
+ {
+  "HATKODU": "85C",
+  "hatadi": "DAVUTPAŞA YTÜ - KAZLIÇEŞME",
+  "hatuzunluk": 10313,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Güngören"
+ },
+ {
+  "HATKODU": "85T",
+  "hatadi": "ESENLER METRO - TAKSİM",
+  "hatuzunluk": 21687,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Esenler"
+ },
+ {
+  "HATKODU": "86V",
+  "hatadi": "EYÜPSULTAN - VEZNECİLER",
+  "hatuzunluk": 7951,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "87",
+  "hatadi": "TOPKAPI / EDİRNEKAPI - TAKSİM",
+  "hatuzunluk": 9988,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "88",
+  "hatadi": "SULTANGAZİ PERON - TOPKAPI",
+  "hatuzunluk": 15827,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "88A",
+  "hatadi": "SULTANGAZİ PERON-YENİKAPI",
+  "hatuzunluk": 18969,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "89",
+  "hatadi": "K.S.S. HASTANESİ/ATAKENT-AKSARAY",
+  "hatuzunluk": 33642,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "89A",
+  "hatadi": "K.S.S. HASTANESİ - ZEYTİNBURNU",
+  "hatuzunluk": 27855,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "89B",
+  "hatadi": "KÜÇÜKÇEKMECE - AKSARAY",
+  "hatuzunluk": 18577,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "89BS",
+  "hatadi": "BEZİRGANBAHÇE TOKİ-SEFAKÖY METROBÜS",
+  "hatuzunluk": 4935,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "89C",
+  "hatadi": "İETT İKİTELLİ GARAJI-TAKSİM",
+  "hatuzunluk": 24471,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "89F",
+  "hatadi": "KÜÇÜKÇEKMECE-İSTOÇ",
+  "hatuzunluk": 18491,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "89K",
+  "hatadi": "K.S.S. HASTANESİ - AKSARAY",
+  "hatuzunluk": 26185,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "89M",
+  "hatadi": "MEHMET AKİF MAHALLESİ - ZEYTİNBURNU",
+  "hatuzunluk": 20262,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "89S",
+  "hatadi": "SÖĞÜTLÜÇEŞME - ZEYTİNBURNU",
+  "hatuzunluk": 11985,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "89T",
+  "hatadi": "K.S.S. HASTANESİ/ATAKENT-TAKSİM",
+  "hatuzunluk": 37022,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "89YB",
+  "hatadi": "K.S.S. HASTANESİ/ATAKENT - BAKIRKÖY",
+  "hatuzunluk": 27625,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "8A",
+  "hatadi": "BATI ATAŞEHİR / FİKİRTEPE - KADIKÖY",
+  "hatuzunluk": 10818,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "8E",
+  "hatadi": "ESENEVLER - KADIKÖY",
+  "hatuzunluk": 11692,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "8K",
+  "hatadi": "TEPEÜSTÜ - ATAŞEHİR / KOZYATAĞI METRO",
+  "hatuzunluk": 34202,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "8Y",
+  "hatadi": "SOYAK YENİŞEHİR - YENİSAHRA METRO",
+  "hatuzunluk": 9089,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "90",
+  "hatadi": "DRAMAN - EMİNÖNÜ",
+  "hatuzunluk": 5875,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "90B",
+  "hatadi": "DRAMAN - AKSARAY",
+  "hatuzunluk": 3772,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "91E",
+  "hatadi": "GÖZTEPE MAHALLESİ - AKSARAY",
+  "hatuzunluk": 11995,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "91M",
+  "hatadi": "FATİH MAHALLESİ YANYOL- MECİDİYEKÖY METROBÜS",
+  "hatuzunluk": 15302,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "92",
+  "hatadi": "YENİ MAHALLE METRO - EMİNÖNÜ",
+  "hatuzunluk": 21010,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "92B",
+  "hatadi": "YENİ MAHALLE METRO / ATEŞTUĞLA - AKSARAY",
+  "hatuzunluk": 15006,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "92C",
+  "hatadi": "HAZNEDAR - EMİNÖNÜ",
+  "hatuzunluk": 16418,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Güngören"
+ },
+ {
+  "HATKODU": "92K",
+  "hatadi": "YENİ MAHALLE METRO / KİRAZLI - AKSARAY",
+  "hatuzunluk": 16248,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "92M",
+  "hatadi": "BAĞCILAR DEVLET HASTANESİ - MECİDİYEKÖY",
+  "hatuzunluk": 21511,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "92T",
+  "hatadi": "BAĞCILAR DEVLET HASTANESİ - TAKSİM",
+  "hatuzunluk": 20224,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "92Ş",
+  "hatadi": "YENİ MAHALLE METRO - MECİDİYEKÖY",
+  "hatuzunluk": 20799,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "93",
+  "hatadi": "ZEYTİNBURNU - EMİNÖNÜ",
+  "hatuzunluk": 16895,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Zeytinburnu"
+ },
+ {
+  "HATKODU": "93M",
+  "hatadi": "ZEYTİNBURNU - MECİDİYEKÖY",
+  "hatuzunluk": 20281,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Zeytinburnu"
+ },
+ {
+  "HATKODU": "93T",
+  "hatadi": "ZEYTİNBURNU - TAKSİM",
+  "hatuzunluk": 18761,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Zeytinburnu"
+ },
+ {
+  "HATKODU": "94A",
+  "hatadi": "BAKIRKÖY - AKSARAY",
+  "hatuzunluk": 9631,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bakırköy"
+ },
+ {
+  "HATKODU": "97",
+  "hatadi": "15 TEMMUZ MAHALLESİ - AKSARAY",
+  "hatuzunluk": 18438,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "97A",
+  "hatadi": "BASINSİTESİ - EMİNÖNÜ",
+  "hatuzunluk": 15051,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bahçelievler"
+ },
+ {
+  "HATKODU": "97BT",
+  "hatadi": "KOCASİNAN İTFAİYE-TAKSİM",
+  "hatuzunluk": 19281,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "97E",
+  "hatadi": "MAHMUTBEY - KAZLIÇEŞME",
+  "hatuzunluk": 21310,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "97G",
+  "hatadi": "YENİ MAHALLE METRO - AKSARAY",
+  "hatuzunluk": 16102,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "97GE",
+  "hatadi": "15 TEMMUZ MAHALLESİ - EMİNÖNÜ",
+  "hatuzunluk": 21866,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "97KZ",
+  "hatadi": "KOCASİNAN - ZEYTİNBURNU",
+  "hatuzunluk": 14406,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bahçelievler"
+ },
+ {
+  "HATKODU": "97M",
+  "hatadi": "15 TEMMUZ MAHALLESİ - MECİDİYEKÖY",
+  "hatuzunluk": 22191,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "97T",
+  "hatadi": "BASINSİTESİ - TAKSİM",
+  "hatuzunluk": 17576,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bahçelievler"
+ },
+ {
+  "HATKODU": "98",
+  "hatadi": "FENERTEPE/BAŞAKŞEHİR - BAKIRKÖY",
+  "hatuzunluk": 33634,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "98A",
+  "hatadi": "GÖZTEPE MAHALLESİ - BAKIRKÖY",
+  "hatuzunluk": 17074,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "98AB",
+  "hatadi": "ATAKENT/HALKALI - BAKIRKÖY",
+  "hatuzunluk": 20183,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "98B",
+  "hatadi": "KUYUMCUKENT - BAKIRKÖY",
+  "hatuzunluk": 11234,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bahçelievler"
+ },
+ {
+  "HATKODU": "98D",
+  "hatadi": "YENİ MAHALLE METRO - BAKIRKÖY",
+  "hatuzunluk": 10393,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "98E",
+  "hatadi": "GÜNEŞLİ BASIN TESİSLERİ - BAKIRKÖY",
+  "hatuzunluk": 14033,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "98G",
+  "hatadi": "GİYİMKENT / TURGUTREİS - BAKIRKÖY",
+  "hatuzunluk": 19027,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Esenler"
+ },
+ {
+  "HATKODU": "98H",
+  "hatadi": "METROKENT - BAKIRKÖY",
+  "hatuzunluk": 31582,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "98KM",
+  "hatadi": "FENERTEPE - SEFAKÖY METROBÜS",
+  "hatuzunluk": 28275,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "98M",
+  "hatadi": "İSTOÇ - BAKIRKÖY",
+  "hatuzunluk": 17756,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "98MB",
+  "hatadi": "MEHMET AKİF MAHALLESİ - BAKIRKÖY",
+  "hatuzunluk": 20337,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "98S",
+  "hatadi": "K.S.S. HASTANESİ - BAKIRKÖY",
+  "hatuzunluk": 20035,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "98T",
+  "hatadi": "K.S.S. HASTANESİ/ATAKENT-BAKIRKÖY",
+  "hatuzunluk": 30315,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "98TB",
+  "hatadi": "FATİH MAHALLESİ - BAKIRKÖY",
+  "hatuzunluk": 15057,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "98Y",
+  "hatadi": "GİYİMKENT / YÜZYIL MAHALLESİ - BAKIRKÖY",
+  "hatuzunluk": 16731,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Esenler"
+ },
+ {
+  "HATKODU": "99A",
+  "hatadi": "GAZİOSMANPAŞA - EMİNÖNÜ",
+  "hatuzunluk": 8806,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Gaziosmanpaşa"
+ },
+ {
+  "HATKODU": "9A",
+  "hatadi": "ATAKENT - ÜMRANİYE METRO",
+  "hatuzunluk": 10310,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "9H",
+  "hatadi": "CUMHURİYETKÖY / HÜSEYİNLİ - ÇEKMEKÖY",
+  "hatuzunluk": 39137,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "9K",
+  "hatadi": "ATATÜRK MAH./ TAŞDELEN - KADIKÖY",
+  "hatuzunluk": 31431,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "9KS",
+  "hatadi": "KASABA EVLERİ/ ÖMERLİ - NECİP FAZIL METRO",
+  "hatuzunluk": 30368,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "9S",
+  "hatadi": "YEŞILTEPE/ÇEKMEKÖY METRO-ATATÜRK MAH.",
+  "hatuzunluk": 12291,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "9T",
+  "hatadi": "ŞAHİNBEY - ALTUNİZADE METROBÜS",
+  "hatuzunluk": 16587,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "9ÇN",
+  "hatadi": "ÇEKMEKÖY - NİŞANTEPE / ÖZYEĞİN ÜNİVERSİTESİ",
+  "hatuzunluk": 25532,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "AND1A",
+  "hatadi": "ANADOLU1 / ANADOLU",
+  "hatuzunluk": 192,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "AND1Ş",
+  "hatadi": "ANADOLU1 DEPAR / ŞAHİNKAYA",
+  "hatuzunluk": 17,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "AND2K",
+  "hatadi": "ANADOLU2 DEPAR/ KURTKÖY",
+  "hatuzunluk": 160,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "AND2S",
+  "hatadi": "ANADOLU2 DEPAR / SARIGAZİ",
+  "hatuzunluk": 209,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "AND2Y",
+  "hatadi": "ANADOLU2 DEPAR / YUNUS",
+  "hatuzunluk": 217,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Kartal"
+ },
+ {
+  "HATKODU": "ARN1",
+  "hatadi": "BOĞAZKÖY - ARNAVUTKÖY",
+  "hatuzunluk": 8795,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "AVR1",
+  "hatadi": "AVRUPA 1 DEPAR / İKİTELLİ",
+  "hatuzunluk": 1030,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "AVR2",
+  "hatadi": "AVRUPA 2 DEPAR / TOPKAPI",
+  "hatuzunluk": 0,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "AVR3",
+  "hatadi": "AVRUPA3 DEPAR",
+  "hatuzunluk": 53,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Şişli"
+ },
+ {
+  "HATKODU": "AVR3K",
+  "hatadi": "AVRUPA3 DEPAR / KAĞITHANE",
+  "hatuzunluk": 44021,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "BA-1",
+  "hatadi": "ÇARŞI-TEPEKÖY-KADIYORAN",
+  "hatuzunluk": 2629,
+  "hatcinsi": "ELEKTRİKLİ",
+  "hatgaraji": "ADALAR",
+  "hatilce": "ADALAR"
+ },
+ {
+  "HATKODU": "BA-2",
+  "hatadi": "ÇARŞI-LUNAPARK",
+  "hatuzunluk": 3341,
+  "hatcinsi": "ELEKTRİKLİ",
+  "hatgaraji": "ADALAR",
+  "hatilce": "ADALAR"
+ },
+ {
+  "HATKODU": "BA-4",
+  "hatadi": "ÇINAR-KUMSAL-MADEN",
+  "hatuzunluk": 5513,
+  "hatcinsi": "ELEKTRİKLİ",
+  "hatgaraji": "ADALAR",
+  "hatilce": "ADALAR"
+ },
+ {
+  "HATKODU": "BA-5",
+  "hatadi": "ÇARŞI-NİZAM",
+  "hatuzunluk": 5943,
+  "hatcinsi": "ELEKTRİKLİ",
+  "hatgaraji": "ADALAR",
+  "hatilce": "ADALAR"
+ },
+ {
+  "HATKODU": "BA-7",
+  "hatadi": "BÜYÜKADA TAKSİ",
+  "hatuzunluk": 5751,
+  "hatcinsi": "ELEKTRİKLİ",
+  "hatgaraji": "ADALAR",
+  "hatilce": "ADALAR"
+ },
+ {
+  "HATKODU": "BM4",
+  "hatadi": "KAVAKLI - HARAMİDERE METROBÜS",
+  "hatuzunluk": 14124,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Beylikdüzü"
+ },
+ {
+  "HATKODU": "BM5",
+  "hatadi": "SAHİL MAH./ KAVAKLI - HARAMİDERE",
+  "hatuzunluk": 9510,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Beylikdüzü"
+ },
+ {
+  "HATKODU": "BM6",
+  "hatadi": "BEYLİKDÜZÜ - HARAMİDERE",
+  "hatuzunluk": 22769,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Beylikdüzü"
+ },
+ {
+  "HATKODU": "BM7",
+  "hatadi": "HARAMİDERE - YAKUPLU - BEYLİKDÜZÜ",
+  "hatuzunluk": 16706,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Beylikdüzü"
+ },
+ {
+  "HATKODU": "BM8",
+  "hatadi": "GÜRPINAR- A.KAHVECİ MAH. - CUMHURİYET MAH. METROBÜS",
+  "hatuzunluk": 8744,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Beylikdüzü"
+ },
+ {
+  "HATKODU": "BN1",
+  "hatadi": "HALKALI - EMİNÖNÜ",
+  "hatuzunluk": 34940,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "BU-1",
+  "hatadi": "ÇARŞI-KALPAZANKAYA",
+  "hatuzunluk": 4853,
+  "hatcinsi": "ELEKTRİKLİ",
+  "hatgaraji": "ADALAR",
+  "hatilce": "ADALAR"
+ },
+ {
+  "HATKODU": "BU-7",
+  "hatadi": "BURGAZADA TAKSİ",
+  "hatuzunluk": 4836,
+  "hatcinsi": "ELEKTRİKLİ",
+  "hatgaraji": "ADALAR",
+  "hatilce": "ADALAR"
+ },
+ {
+  "HATKODU": "D1",
+  "hatadi": "TEPEÜSTÜ - POLONEZKÖY / CUMHURİYET KÖYÜ",
+  "hatuzunluk": 30486,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "D2",
+  "hatadi": "BEŞİKTAŞ - BELGRAD ORMANI",
+  "hatuzunluk": 31717,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "DS1",
+  "hatadi": "DUDULLU ORGANİZE SANAYİ BÖLGESİ - DUDULLU METRO",
+  "hatuzunluk": 10349,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "DS2",
+  "hatadi": "DUDULLU ORGANİZE SANAYİ BÖLGESİ - DUDULLU METRO",
+  "hatuzunluk": 10159,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "DT1",
+  "hatadi": "ORTAKÖY - TAKSİM",
+  "hatuzunluk": 18226,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "DT2",
+  "hatadi": "ORTAKÖY - TAKSİM",
+  "hatuzunluk": 18128,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "E-10",
+  "hatadi": "SABİHA GÖKÇEN HAVALİMANI / KURTKÖY - KADIKÖY",
+  "hatuzunluk": 35777,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "E-3",
+  "hatadi": "SABİHA GÖKÇEN HAVALİMANI - 4.LEVENT METRO",
+  "hatuzunluk": 49915,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "E-56",
+  "hatadi": "ISPARTAKULE - TAKSİM",
+  "hatuzunluk": 33176,
+  "hatcinsi": "ÖÇK",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "E-57",
+  "hatadi": "ESENKENT BAHÇEŞEHİR - BAKIRKÖY",
+  "hatuzunluk": 37296,
+  "hatcinsi": "ÖÇK",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Esenyurt"
+ },
+ {
+  "HATKODU": "E-58",
+  "hatadi": "ESENKENT BAHÇEŞEHİR - MECİDİYEKÖY",
+  "hatuzunluk": 39606,
+  "hatcinsi": "ÖÇK",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Esenyurt"
+ },
+ {
+  "HATKODU": "E-59",
+  "hatadi": "BOĞAZKÖY / BAHÇEŞEHİR - TAKSİM",
+  "hatuzunluk": 40368,
+  "hatcinsi": "ÖÇK",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "EL2",
+  "hatadi": "EMİRGAN - 4.LEVENT METRO",
+  "hatuzunluk": 6616,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "EM1",
+  "hatadi": "EMİNÖNÜ - KULAKSIZ",
+  "hatuzunluk": 15240,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "EM2",
+  "hatadi": "EMİNÖNÜ - KULAKSIZ",
+  "hatuzunluk": 13334,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "ER1",
+  "hatadi": "KADIKÖY - ERENKÖY",
+  "hatuzunluk": 14312,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Kadıköy"
+ },
+ {
+  "HATKODU": "ER2",
+  "hatadi": "KADIKÖY - ERENKÖY",
+  "hatuzunluk": 13849,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Kadıköy"
+ },
+ {
+  "HATKODU": "ES1",
+  "hatadi": "ESENYURT BELEDİYESİ - BEYLİKDÜZÜ DEVLET HASTANESİ/BEYKENT",
+  "hatuzunluk": 17444,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Esenyurt"
+ },
+ {
+  "HATKODU": "ES2",
+  "hatadi": "TÜYAP / KIRAÇ - AKÇABURGAZ",
+  "hatuzunluk": 17401,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Büyükçekmece"
+ },
+ {
+  "HATKODU": "ES3",
+  "hatadi": "ESENYURT DEVLET HASTANESİ - HARAMİDERE",
+  "hatuzunluk": 13177,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Esenyurt"
+ },
+ {
+  "HATKODU": "ES4",
+  "hatadi": "ESENYURT KİPTAŞ 4. ETAP-HARAMİDERE",
+  "hatuzunluk": 14934,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Esenyurt"
+ },
+ {
+  "HATKODU": "FB1",
+  "hatadi": "KADIKÖY - FENERBAHÇE",
+  "hatuzunluk": 10845,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Kadıköy"
+ },
+ {
+  "HATKODU": "FB2",
+  "hatadi": "KADIKÖY - FENERBAHÇE",
+  "hatuzunluk": 9445,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Kadıköy"
+ },
+ {
+  "HATKODU": "GZ1",
+  "hatadi": "KADIKÖY - GÖZTEPE",
+  "hatuzunluk": 11536,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Kadıköy"
+ },
+ {
+  "HATKODU": "H-1",
+  "hatadi": "MAHMUTBEY METRO - İSTANBUL HAVALİMANI",
+  "hatuzunluk": 40451,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "H-2",
+  "hatadi": "MECİDİYEKÖY - İSTANBUL HAVALİMANI",
+  "hatuzunluk": 41213,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Şişli"
+ },
+ {
+  "HATKODU": "H-3",
+  "hatadi": "HALKALI MARMARAY - İSTANBUL HAVALİMANI",
+  "hatuzunluk": 44312,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "H-6",
+  "hatadi": "YUNUS EMRE MAHALLESİ-İSTANBUL HAVALİMANI",
+  "hatuzunluk": 39780,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "H-8",
+  "hatadi": "HACIOSMAN METRO-İSTANBUL HAVALİMANI",
+  "hatuzunluk": 48331,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "HA-1",
+  "hatadi": "ÇARŞI-AKÇAKOCA-İTFAİYE",
+  "hatuzunluk": 4331,
+  "hatcinsi": "ELEKTRİKLİ",
+  "hatgaraji": "ADALAR",
+  "hatilce": "ADALAR"
+ },
+ {
+  "HATKODU": "HA-2",
+  "hatadi": "ÇARŞI-ÇAM LİMANI",
+  "hatuzunluk": 7117,
+  "hatcinsi": "ELEKTRİKLİ",
+  "hatgaraji": "ADALAR",
+  "hatilce": "ADALAR"
+ },
+ {
+  "HATKODU": "HA-3",
+  "hatadi": "ÇARŞI-DEĞİRMENBURNU-KÜÇÜKTUR",
+  "hatuzunluk": 2532,
+  "hatcinsi": "ELEKTRİKLİ",
+  "hatgaraji": "ADALAR",
+  "hatilce": "ADALAR"
+ },
+ {
+  "HATKODU": "HA-7",
+  "hatadi": "HEYBELİADA TAKSİ",
+  "hatuzunluk": 3490,
+  "hatcinsi": "ELEKTRİKLİ",
+  "hatgaraji": "ADALAR",
+  "hatilce": "ADALAR"
+ },
+ {
+  "HATKODU": "HM1",
+  "hatadi": "HACIOSMAN METRO - KOCATAŞ",
+  "hatuzunluk": 14820,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "HM2",
+  "hatadi": "KONAKLAR MAHALLESİ - 4.LEVENT METRO",
+  "hatuzunluk": 2481,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "HM3",
+  "hatadi": "HÜRRİYET MAHALLESİ - ŞİŞLİ",
+  "hatuzunluk": 5288,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "HM4",
+  "hatadi": "LEVENT BASIN SİTESİ - ŞİŞLİ",
+  "hatuzunluk": 6319,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "HS2",
+  "hatadi": "AVCILAR METROBÜS - ŞEHİR HASTANESİ",
+  "hatuzunluk": 25730,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "HS3",
+  "hatadi": "SEFAKÖY METROBÜS-ŞEHİR HASTANESİ",
+  "hatuzunluk": 16798,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "HT1",
+  "hatadi": "K.S.S. HASTANESİ - ÜÇYÜZLÜ METRO",
+  "hatuzunluk": 21239,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "HT10",
+  "hatadi": "BATIŞEHİR - YENİBOSNA METRO",
+  "hatuzunluk": 15353,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "HT11",
+  "hatadi": "GİYİMKENT - KUYUMCUKENT",
+  "hatuzunluk": 17834,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Esenler"
+ },
+ {
+  "HATKODU": "HT12",
+  "hatadi": "GÜNEŞLİ BASIN TESİSLERİ - YENİBOSNA METRO",
+  "hatuzunluk": 8649,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "HT13",
+  "hatadi": "YENİ MAHALLE METRO - ZEYTİNBURNU",
+  "hatuzunluk": 11231,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "HT18",
+  "hatadi": "HADIMKÖY/İ.Ü. CERRAHPAŞA KAMPÜSÜ - TÜYAP",
+  "hatuzunluk": 25072,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "HT19",
+  "hatadi": "İ.Ü.CERRAHPAŞA KAMPÜSÜ - TÜYAP METROBÜS",
+  "hatuzunluk": 12239,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Büyükçekmece"
+ },
+ {
+  "HATKODU": "HT20",
+  "hatadi": "ŞAHİNTEPE İGTOT - YENİBOSNA METRO",
+  "hatuzunluk": 19369,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "HT29",
+  "hatadi": "KIRAÇ YOLU - AVCILAR METROBÜS",
+  "hatuzunluk": 17162,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Esenyurt"
+ },
+ {
+  "HATKODU": "HT48",
+  "hatadi": "AREL ÜNİVERSİTESİ -TEPEKENT - AVCILAR METROBÜS",
+  "hatuzunluk": 32609,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Büyükçekmece"
+ },
+ {
+  "HATKODU": "HT5",
+  "hatadi": "KOCATEPE METRO-NUR SİTESİ",
+  "hatuzunluk": 10782,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Gaziosmanpaşa"
+ },
+ {
+  "HATKODU": "HT6",
+  "hatadi": "BATIŞEHİR-KOCATEPE METRO",
+  "hatuzunluk": 10618,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "K1",
+  "hatadi": "KAĞITHANE-SEYRANTEPE HAMİDİYE ETFAL HASTANESİ",
+  "hatuzunluk": 14154,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "K2",
+  "hatadi": "KAĞITHANE-SEYRANTEPE HAMİDİYE ETFAL HASTANESİ",
+  "hatuzunluk": 14882,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "K3",
+  "hatadi": "KAĞITHANE GARAJI-VADİ İSTANBUL",
+  "hatuzunluk": 5950,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "KA-1",
+  "hatadi": "ÇARŞI-NARÇİÇEĞİ",
+  "hatuzunluk": 5019,
+  "hatcinsi": "ELEKTRİKLİ",
+  "hatgaraji": "ADALAR",
+  "hatilce": "ADALAR"
+ },
+ {
+  "HATKODU": "KA-2",
+  "hatadi": "TEKİNAY-PLAJLAR-BÜYÜK TUR",
+  "hatuzunluk": 4750,
+  "hatcinsi": "ELEKTRİKLİ",
+  "hatgaraji": "ADALAR",
+  "hatilce": "ADALAR"
+ },
+ {
+  "HATKODU": "KA-7",
+  "hatadi": "KINALIADA TAKSİ",
+  "hatuzunluk": 5969,
+  "hatcinsi": "ELEKTRİKLİ",
+  "hatgaraji": "ADALAR",
+  "hatilce": "ADALAR"
+ },
+ {
+  "HATKODU": "KM10",
+  "hatadi": "AYDINLI TOKİ / İÇMELER - PENDİK METRO/YHT - KARTAL",
+  "hatuzunluk": 20541,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "KM11",
+  "hatadi": "AYDINLI TOKİ / A.YESEVİ - PENDİK KÖPRÜSÜ",
+  "hatuzunluk": 12574,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "KM12",
+  "hatadi": "TUZLA DENİZ HARP OKULU - KARTAL METRO",
+  "hatuzunluk": 22530,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "KM13",
+  "hatadi": "TUZLA - PENDİK METRO/ YHT / PENDİK",
+  "hatuzunluk": 23034,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "KM14",
+  "hatadi": "AHMET YESEVİ - TAVŞANTEPE METRO/ YENİŞEHİR",
+  "hatuzunluk": 28287,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "KM15",
+  "hatadi": "YENİŞEHİR-PENDİK METRO",
+  "hatuzunluk": 17249,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "KM17",
+  "hatadi": "TUZLA EMLAK KONUTLARI-TAVŞANTEPE METRO",
+  "hatuzunluk": 9260,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "KM18",
+  "hatadi": "SABANCI ÜNİ./MEDENİYET ÜNİ. - KURTKÖY METRO",
+  "hatuzunluk": 14028,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "KM2",
+  "hatadi": "KAVAKPINAR-TAVŞANTEPE METRO",
+  "hatuzunluk": 12112,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "KM21",
+  "hatadi": "HİLAL KONUTLARI - KARTAL METRO / CEVİZLİ",
+  "hatuzunluk": 17471,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "KM23",
+  "hatadi": "KAVAKPINAR / MARMARA HST. - KARTAL METRO / CEVİZLİ",
+  "hatuzunluk": 17944,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "KM24",
+  "hatadi": "KAVAKPINAR - PENDİK METRO/YHT/PENDİK",
+  "hatuzunluk": 13282,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "KM25",
+  "hatadi": "YENİŞEHİR - KARTAL METRO / CEVİZLİ",
+  "hatuzunluk": 24675,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "KM26",
+  "hatadi": "ÇAMLIK MAHALLESİ - PENDİK METRO/ YHT / PENDİK",
+  "hatuzunluk": 19187,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "KM27",
+  "hatadi": "YENİŞEHİR - PENDİK METRO/ YHT / PENDİK",
+  "hatuzunluk": 20912,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "KM28",
+  "hatadi": "OKAN ÜNİVERSİTESİ - KURTKÖY  METRO",
+  "hatuzunluk": 15228,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "KM29",
+  "hatadi": "YENİŞEHİR/MARMARA Ü. HAST. - KARTAL METRO/CEVİZLİ",
+  "hatuzunluk": 22713,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "KM3",
+  "hatadi": "UĞURMUMCU-YAKACIK METRO/ PENDİK",
+  "hatuzunluk": 14835,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Kartal"
+ },
+ {
+  "HATKODU": "KM30",
+  "hatadi": "KARTAL / ATALAR - ESENKENT METRO",
+  "hatuzunluk": 8240,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Kartal"
+ },
+ {
+  "HATKODU": "KM31",
+  "hatadi": "UĞURMUMCU - KARTAL",
+  "hatuzunluk": 11305,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Kartal"
+ },
+ {
+  "HATKODU": "KM32",
+  "hatadi": "KURFALI - KARTAL METRO / KARTAL",
+  "hatuzunluk": 9352,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Kartal"
+ },
+ {
+  "HATKODU": "KM33",
+  "hatadi": "PENDİK SAHİL/ YHT - ESENKENT METRO",
+  "hatuzunluk": 15407,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "KM34",
+  "hatadi": "KARTAL METRO-TOPSELVİ/GÜLSUYU METRO",
+  "hatuzunluk": 15061,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Kartal"
+ },
+ {
+  "HATKODU": "KM35",
+  "hatadi": "UĞURMUMCU-CEVİZLİ",
+  "hatuzunluk": 12485,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Kartal"
+ },
+ {
+  "HATKODU": "KM36",
+  "hatadi": "KURFALI MAHALLESİ-CEVİZLİ",
+  "hatuzunluk": 9790,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Kartal"
+ },
+ {
+  "HATKODU": "KM37",
+  "hatadi": "HİLAL KONUTLARI-PENDİK METRO/YHT/PENDİK",
+  "hatuzunluk": 17644,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "KM41",
+  "hatadi": "MARMARA ÜNİVERSİTESİ-KÜÇÜKYALI METRO-BAŞIBÜYÜK SAĞLIK KAMPÜSÜ",
+  "hatuzunluk": 12607,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Maltepe"
+ },
+ {
+  "HATKODU": "KM42",
+  "hatadi": "BAŞIBÜYÜK - SÜREYYAPAŞA HASTANESİ/ MALTEPE",
+  "hatuzunluk": 6615,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Maltepe"
+ },
+ {
+  "HATKODU": "KM43",
+  "hatadi": "ZÜMRÜTEVLER - MALTEPE METRO",
+  "hatuzunluk": 2792,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Maltepe"
+ },
+ {
+  "HATKODU": "KM44",
+  "hatadi": "MALTEPE ÜNİVERSİTESİ - SİTELER - MALTEPE",
+  "hatuzunluk": 12514,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Maltepe"
+ },
+ {
+  "HATKODU": "KM45",
+  "hatadi": "MARMARA ÜNİVERSİTESİ / KÜÇÜKYALI METRO - MİMAR SİNAN ÖĞRENCİ YURDU",
+  "hatuzunluk": 21184,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Maltepe"
+ },
+ {
+  "HATKODU": "KM46",
+  "hatadi": "BATI ATAŞEHİR - KOZYATAĞI METRO",
+  "hatuzunluk": 21832,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "KM47",
+  "hatadi": "GÜLENSU MAHALLESİ-HUZUREVİ METRO",
+  "hatuzunluk": 9305,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Maltepe"
+ },
+ {
+  "HATKODU": "KM48",
+  "hatadi": "ESENKENT-HUZUREVİ METRO",
+  "hatuzunluk": 11906,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Maltepe"
+ },
+ {
+  "HATKODU": "KM60",
+  "hatadi": "VEYSEL KARANİ - KARTAL METRO / CEVİZLİ",
+  "hatuzunluk": 16699,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "KM61",
+  "hatadi": "PAŞAKÖY / SAMANDIRA - KARTAL",
+  "hatuzunluk": 23813,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "KM70",
+  "hatadi": "SULTANBEYLİ/PETROL YOLU CADDESI - KARTAL METRO / CEVİZLİ",
+  "hatuzunluk": 24221,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "KM71",
+  "hatadi": "YENİDOĞAN PERONLAR/ ADİL MAH. - CEVİZLİ",
+  "hatuzunluk": 27819,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "KM72",
+  "hatadi": "PENDİK/PENDİK METRO/ YHT - SULTANBEYLİ DEVLET HAST.",
+  "hatuzunluk": 25051,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "KRB3",
+  "hatadi": "PENDİK YHT - KURNAKÖY KURBAN PAZARI",
+  "hatuzunluk": 21414,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "KÇ2",
+  "hatadi": "K.S.S.HASTANESİ - YENİBOSNA METRO",
+  "hatuzunluk": 16204,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "MK11",
+  "hatadi": "OLİMPİYATKÖY METRO - KAYAŞEHİR - GÜVERCİNTEPE",
+  "hatuzunluk": 19808,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "MK12",
+  "hatadi": "OLİMPİYATKÖY METRO - GÜVERCİNTEPE - KAYAŞEHİR",
+  "hatuzunluk": 19026,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "MK13",
+  "hatadi": "ŞAHİNTEPE İGTOT - OLİMPİYATKÖY METRO",
+  "hatuzunluk": 10397,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "MK14",
+  "hatadi": "KİPTAŞ VADİTEPE - OLİMPİYATKÖY METRO",
+  "hatuzunluk": 19204,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "MK15",
+  "hatadi": "BOĞAZKÖY / BAHÇEŞEHİR - OLİMPİYATKÖY METRO",
+  "hatuzunluk": 20648,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "MK16",
+  "hatadi": "OLİMPİYATKÖY METRO - K.ÇEKMECE METROBÜS",
+  "hatuzunluk": 20493,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "MK19",
+  "hatadi": "AYAZMA SİTELERİ-ARENAPARK",
+  "hatuzunluk": 5292,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "MK2",
+  "hatadi": "OLİMPİYATKÖY METRO - ŞEHİR HASTANESİ",
+  "hatuzunluk": 8430,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "MK22",
+  "hatadi": "TAŞOLUK PERON - ŞEHİR HASTANESİ",
+  "hatuzunluk": 20345,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Arnavutköy"
+ },
+ {
+  "HATKODU": "MK31",
+  "hatadi": "K.S.S HASTANESİ-BAŞAKŞEHİR/FENERTEPE PERON",
+  "hatuzunluk": 28121,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "MK42",
+  "hatadi": "15 TEMMUZ MAHALLESİ - KİRAZLI METRO",
+  "hatuzunluk": 3507,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bağcılar"
+ },
+ {
+  "HATKODU": "MK49",
+  "hatadi": "SULTANGAZİ PERON - KAZIM KARABEKİR METRO",
+  "hatuzunluk": 8165,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "MK50",
+  "hatadi": "SULTANGAZİ PERON-KAZIM KARABEKİR METRO",
+  "hatuzunluk": 8617,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "MK53",
+  "hatadi": "SULTANGAZİ PERON-TEKSTİLKENT METRO",
+  "hatuzunluk": 12150,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "MK97",
+  "hatadi": "ÇAVUŞPAŞA-ZEYTİNBURNU",
+  "hatuzunluk": 9096,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bahçelievler"
+ },
+ {
+  "HATKODU": "MR10",
+  "hatadi": "ZEYTİNBURNU - KAZLIÇEŞME",
+  "hatuzunluk": 5278,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Zeytinburnu"
+ },
+ {
+  "HATKODU": "MR11",
+  "hatadi": "KAZLIÇEŞME - TOPKAPI",
+  "hatuzunluk": 7058,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Zeytinburnu"
+ },
+ {
+  "HATKODU": "MR20",
+  "hatadi": "YENİBOSNA METRO - KAZLIÇEŞME",
+  "hatuzunluk": 9871,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Bakırköy"
+ },
+ {
+  "HATKODU": "MR40",
+  "hatadi": "K.S.S. HASTANESİ - ATAKENT - HALKALI MARMARAY",
+  "hatuzunluk": 13435,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "MR42",
+  "hatadi": "HALKALI MARMARAY / İNÖNÜ MAH. - SEFAKÖY METROBÜS",
+  "hatuzunluk": 7707,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "MR50",
+  "hatadi": "HALKALI MARMARAY - ŞEHİR HASTANESİ",
+  "hatuzunluk": 16215,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Başakşehir"
+ },
+ {
+  "HATKODU": "MR51",
+  "hatadi": "İ.Ü. CERRAHPAŞA KAMPÜSÜ/BAHÇEŞEHİR - HALKALI MARMARAY",
+  "hatuzunluk": 31967,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Büyükçekmece"
+ },
+ {
+  "HATKODU": "MR52",
+  "hatadi": "SÖĞÜTLÜÇEŞME - HALKALI MARMARAY - ŞEHİR HASTANESİ",
+  "hatuzunluk": 17112,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "MR54",
+  "hatadi": "IGTOT-HALKALI MARMARAY",
+  "hatuzunluk": 21480,
+  "hatcinsi": "İETT",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Avcılar"
+ },
+ {
+  "HATKODU": "MR60",
+  "hatadi": "PENDİK/PENDİK YHT-SABİHA GÖKÇEN HAVALİMANI",
+  "hatuzunluk": 21015,
+  "hatcinsi": "OAŞ",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "MR61",
+  "hatadi": "GÜZELYALI-TUZLA DEVLET HASTANESİ",
+  "hatuzunluk": 8000,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Tuzla"
+ },
+ {
+  "HATKODU": "MR9",
+  "hatadi": "ATATÜRK MAH. / ÇAMLIK - AYRILIKÇEŞME",
+  "hatuzunluk": 26133,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "PD1",
+  "hatadi": "YENİKAPI - BEYAZIT",
+  "hatuzunluk": 3391,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "SG-1",
+  "hatadi": "KADIKÖY - SABİHA GÖKÇEN HAVALİMANI",
+  "hatuzunluk": 34805,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "SG-2",
+  "hatadi": "TAKSİM - SABİHA GÖKÇEN HAVALİMANI",
+  "hatuzunluk": 42761,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "SM1",
+  "hatadi": "SULTANBEYLI - SAMANDIRA MERKEZ METRO",
+  "hatuzunluk": 9543,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "SM12",
+  "hatadi": "MALTEPE MYO - SAMANDIRA MERKEZ METRO",
+  "hatuzunluk": 10945,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Maltepe"
+ },
+ {
+  "HATKODU": "SM13",
+  "hatadi": "YENIDOĞAN/UFUK CADDESI - SANCAKTEPE METRO",
+  "hatuzunluk": 7437,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "SM14",
+  "hatadi": "AYAZMA YAŞAM VADISI-SANCAKTEPE METRO",
+  "hatuzunluk": 7046,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "SM2",
+  "hatadi": "AHMET YESEVI MAHALLESI - SANCAKTEPE METRO",
+  "hatuzunluk": 8843,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "SM3",
+  "hatadi": "MIMAR SINAN MAHALLESI - PROF.DR.FERIHA ÖZ HAST.",
+  "hatuzunluk": 15800,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "SM4",
+  "hatadi": "KURTKÖY METRO / HILAL KONUTLARI - SAMANDIRA MERKEZ METRO",
+  "hatuzunluk": 13921,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Pendik"
+ },
+ {
+  "HATKODU": "SM5",
+  "hatadi": "SULTANBEYLI ORMAN CADDESI - SAMANDIRA MERKEZ METRO",
+  "hatuzunluk": 9431,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "SM6",
+  "hatadi": "SULTANBEYLİ DEVLET HASTANESİ - SAMANDIRA MERKEZ METRO",
+  "hatuzunluk": 11533,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "SM7",
+  "hatadi": "YENIDOĞAN - SAMANDIRA MERKEZ METRO",
+  "hatuzunluk": 8388,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "SM9",
+  "hatadi": "KARTAL METRO - SAMANDIRA MERKEZ METRO",
+  "hatuzunluk": 18587,
+  "hatcinsi": "İETT",
+  "hatgaraji": "Yunus (Park)",
+  "hatilce": "Kartal"
+ },
+ {
+  "HATKODU": "T2",
+  "hatadi": "TAKSİM - TÜNEL",
+  "hatuzunluk": 1823,
+  "hatcinsi": "ELEKTRİKLİ",
+  "hatgaraji": "EDIRNEKAPIGARAJI",
+  "hatilce": "Beyoğlu"
+ },
+ {
+  "HATKODU": "THSS10",
+  "hatadi": "TAHSİS EDİRNEKAPI",
+  "hatuzunluk": 0,
+  "hatcinsi": "TAHSİS",
+  "hatgaraji": "EDIRNEKAPIGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "THSS11",
+  "hatadi": "TAHSİS TOPKAPI",
+  "hatuzunluk": 0,
+  "hatcinsi": "TAHSİS",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Fatih"
+ },
+ {
+  "HATKODU": "THSS12",
+  "hatadi": "TAHSİS İKİTELLİ",
+  "hatuzunluk": 0,
+  "hatcinsi": "TAHSİS",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "THSS_1",
+  "hatadi": "TAHSİS ANADOLU",
+  "hatuzunluk": 0,
+  "hatcinsi": "TAHSİS",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ataşehir"
+ },
+ {
+  "HATKODU": "THSS_2",
+  "hatadi": "TAHSİS SARIGAZİ",
+  "hatuzunluk": 0,
+  "hatcinsi": "TAHSİS",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "THSS_3",
+  "hatadi": "TAHSİS ŞAHİNKAYA",
+  "hatuzunluk": 0,
+  "hatcinsi": "TAHSİS",
+  "hatgaraji": "SAHINKAYAGARAJI",
+  "hatilce": "Beykoz"
+ },
+ {
+  "HATKODU": "THSS_6",
+  "hatadi": "TAHSİS YUNUS",
+  "hatuzunluk": 0,
+  "hatcinsi": "TAHSİS",
+  "hatgaraji": "KARTALGARAJI",
+  "hatilce": "Kartal"
+ },
+ {
+  "HATKODU": "THSS_7",
+  "hatadi": "TAHSİS KAĞITHANE",
+  "hatuzunluk": 0,
+  "hatcinsi": "TAHSİS",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "THSS_8",
+  "hatadi": "TAHSİS SULTANGAZİ",
+  "hatuzunluk": 0,
+  "hatcinsi": "TAHSİS",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Sarıyer"
+ },
+ {
+  "HATKODU": "TM1",
+  "hatadi": "EMNİYETTEPE - ALİBEYKÖY",
+  "hatuzunluk": 3934,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "TM10",
+  "hatadi": "YEŞİLPINAR - ALİBEYKÖY",
+  "hatuzunluk": 6423,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "TM11",
+  "hatadi": "YEŞİLPINAR - ALİBEYKÖY",
+  "hatuzunluk": 7325,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "TM12",
+  "hatadi": "KARADOLAP - ALİBEYKÖY",
+  "hatuzunluk": 5737,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "TM13",
+  "hatadi": "EYÜPSULTAN - GOP - ALİBEYKÖY",
+  "hatuzunluk": 10033,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "TM14",
+  "hatadi": "YENİMAHALLE/SARIGÖL-ALİBEYKÖY",
+  "hatuzunluk": 13636,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Gaziosmanpaşa"
+ },
+ {
+  "HATKODU": "TM15",
+  "hatadi": "CEBECİ PERONLAR - ALİBEYKÖY",
+  "hatuzunluk": 15430,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Gaziosmanpaşa"
+ },
+ {
+  "HATKODU": "TM16",
+  "hatadi": "YENİMAHALLE - GOP - ALİBEYKÖY",
+  "hatuzunluk": 9352,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Gaziosmanpaşa"
+ },
+ {
+  "HATKODU": "TM17",
+  "hatadi": "SULTANGAZİ - GAZİ - ALİBEYKÖY",
+  "hatuzunluk": 10166,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "TM18",
+  "hatadi": "MESCİD İ SELAM - ALİBEYKÖY",
+  "hatuzunluk": 15411,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "TM19",
+  "hatadi": "ZÜBEYDE HANIM - ALİBEYKÖY",
+  "hatuzunluk": 11861,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Sultangazi"
+ },
+ {
+  "HATKODU": "TM2",
+  "hatadi": "HAMİDİYE - GÜZELTEPE - ALİBEYKÖY",
+  "hatuzunluk": 8838,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "TM3",
+  "hatadi": "HAMİDİYE - KAĞITHANE - ALİBEYKÖY",
+  "hatuzunluk": 9523,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "TM4",
+  "hatadi": "GÖKTÜRK- ALİBEYKÖY",
+  "hatuzunluk": 16606,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Kağıthane"
+ },
+ {
+  "HATKODU": "TM5",
+  "hatadi": "ALİBEYKÖY - 5.LEVENT",
+  "hatuzunluk": 7188,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "TM6",
+  "hatadi": "MEVLANA - ALİBEYKÖY",
+  "hatuzunluk": 6260,
+  "hatcinsi": "İETT",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Gaziosmanpaşa"
+ },
+ {
+  "HATKODU": "TM7",
+  "hatadi": "ÇIRÇIR METRO - ALİBEYKÖY",
+  "hatuzunluk": 6852,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "TM8",
+  "hatadi": "AKŞEMSETTİN - ALİBEYKÖY",
+  "hatuzunluk": 6079,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "KAGITHANEGARAJI",
+  "hatilce": "Eyüpsultan"
+ },
+ {
+  "HATKODU": "TM9",
+  "hatadi": "YENİMAHALLE - K.KARABEKİR - ALİBEYKÖY",
+  "hatuzunluk": 10093,
+  "hatcinsi": "KARMA",
+  "hatgaraji": "TOPKAPI(TT)",
+  "hatilce": "Gaziosmanpaşa"
+ },
+ {
+  "HATKODU": "U1",
+  "hatadi": "BEŞİKTAŞ-ULUS",
+  "hatuzunluk": 10905,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "U2",
+  "hatadi": "BEŞİKTAŞ-ULUS",
+  "hatuzunluk": 10538,
+  "hatcinsi": "ÖHO",
+  "hatgaraji": "SULTANGAZİ GARAJI",
+  "hatilce": "Beşiktaş"
+ },
+ {
+  "HATKODU": "UM11",
+  "hatadi": "KİRAZLITEPE-KISIKLI METRO-ESATPAŞA",
+  "hatuzunluk": 8498,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "UM13",
+  "hatadi": "KÜÇÜKSU / YAVUZTÜRK MAHALLESİ - ÜMRANİYE EĞT.ARŞ.HST.",
+  "hatuzunluk": 11153,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Üsküdar"
+ },
+ {
+  "HATKODU": "UM36",
+  "hatadi": "ESENEVLER - BULGURLU METRO",
+  "hatuzunluk": 4986,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Ümraniye"
+ },
+ {
+  "HATKODU": "UM40",
+  "hatadi": "ATATÜRK MAH./ TAŞDELEN - NECİP FAZIL METRO",
+  "hatuzunluk": 11665,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "UM60",
+  "hatadi": "SANCAKTEPE - NECİP FAZIL METRO",
+  "hatuzunluk": 14816,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "UM61",
+  "hatadi": "PAŞAKÖY/YENİDOĞAN-NECİP FAZIL METRO",
+  "hatuzunluk": 11092,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "UM62",
+  "hatadi": "YENİDOĞAN/TAŞDELEN-NECİP FAZIL METRO",
+  "hatuzunluk": 14057,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Sancaktepe"
+ },
+ {
+  "HATKODU": "UM73",
+  "hatadi": "SABİHA GÖKÇEN H.L./ SULTANBEYLİ - SAMANDIRA MERKEZ METRO",
+  "hatuzunluk": 17446,
+  "hatcinsi": "İETT",
+  "hatgaraji": "KURTKOYGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "UM74",
+  "hatadi": "SULTANBEYLİ DEVLET HAST./ NECİP FAZIL METRO - DUDULLU OSB",
+  "hatuzunluk": 22752,
+  "hatcinsi": "İETT",
+  "hatgaraji": "ANADOLUGARAJI",
+  "hatilce": "Sultanbeyli"
+ },
+ {
+  "HATKODU": "YDK",
+  "hatadi": "FILO YEDEK",
+  "hatuzunluk": 0,
+  "hatcinsi": "TAHSİS",
+  "hatgaraji": "IKITELLIGARAJI",
+  "hatilce": "Küçükçekmece"
+ },
+ {
+  "HATKODU": "ÇM41",
+  "hatadi": "ÇEKMEKÖY-NECİP FAZIL METRO",
+  "hatuzunluk": 8682,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "ÇM42",
+  "hatadi": "ŞAHİNBEY - ÇEKMEKÖY METRO/ EMEK MAH.",
+  "hatuzunluk": 7054,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "ÇM43",
+  "hatadi": "ATATÜRK MAHALLESİ-NECİP FAZIL METRO",
+  "hatuzunluk": 9762,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ },
+ {
+  "HATKODU": "ÇM44",
+  "hatadi": "ÖZYEĞİN ÜNİ./NİŞANTEPE-ÇEKMEKÖY METRO/PROF. DR. FERİHA ÖZ HAST.",
+  "hatuzunluk": 21335,
+  "hatcinsi": "İETT",
+  "hatgaraji": "SARIGAZIGARAJI",
+  "hatilce": "Çekmeköy"
+ }
+]
