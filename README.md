@@ -99,7 +99,7 @@ gruplanır. ⚠️ Gerçek İstanbulkart entegrasyonu **yok**, veriler temsilîd
 
 ---
 
-## Öne çıkan üç şey
+## Öne çıkan dört şey
 
 **1. Güvenilirlik skoru gerçekten ayırt ediyor.**
 
@@ -122,6 +122,87 @@ seferin 37'si tamamlandı, araç aralığı sapması 0,62.*
 verisinden (356.979 L ÷ 1.042.413 araç-km = 918 gCO₂/araç-km), araç tipine
 göre solo/körüklü ayrıştırıldı; filo kompozisyonuyla harmanlandığında
 ölçülen değeri **%0,16** farkla yeniden üretiyor.
+
+**4. Geri bildirim ölçülebilir sinyale dönüşüyor.** Yolcunun zaten yaptığı
+yolculuk veri kaynağı olur: tek dokunuşla kapanır, sorun varsa yapılandırılmış
+gelir, aynı araç için 3 ayrı sinyal birikince kurum tarafında **inceleme adayı**
+üretir. Ayrıntısı aşağıda.
+
+---
+
+## Geri bildirim döngüsü — projenin asıl amacı
+
+Uygulamanın çıkış noktası "güzel bir rota bulucu" değildi. Toplu taşımadaki
+eksiklikler kurum tarafında **görünmüyor**: bir otobüsün kliması iki haftadır
+bozuksa bunu yalnızca o hatta binen yolcu bilir, sistemde hiçbir iz bırakmaz.
+Şikâyet hatları ise tekil, doğrulanamaz ve önceliklendirilemez.
+
+Bu proje o boşluğu kapatmayı deniyor: **yolcunun zaten yaptığı yolculuğu
+veri kaynağına çevirmek.**
+
+### Nasıl işliyor
+
+**1 · Yolculuk kendiliğinden düşer.** Kart geçmişinden yolculuk profile
+gelir; yolcunun ayrıca "şunu kullandım" demesine gerek yok. Bariyer ne kadar
+düşükse geri bildirim o kadar çok gelir.
+
+**2 · Tek dokunuşla kapanır.** Sorun yaşanmadıysa yolcu tek düğmeye basar.
+Geri bildirimin çoğu "sorun yok"tur ve bu da veridir — yalnızca şikâyet
+toplayan sistem, hattın ne zaman iyi çalıştığını asla öğrenemez.
+
+**3 · Sorun varsa yapılandırılmış gelir.** Serbest metin değil: önce **nerede**
+(araç içinde / durakta / hat genelinde), sonra **ne** (ısıtma-klima, temizlik,
+yoğunluk, erişilebilirlik, bekleme süresi, ekipman arızası…), sonra kısa
+açıklama. Böylece bildirim gruplanabilir hâle gelir.
+
+**4 · Aynı sinyal tekrarlanınca inceleme adayı olur.** Tek şikâyet gürültü
+olabilir; aynı araç için **3 ayrı yolcudan aynı konu** gelirse bu artık
+desendir. Eşik `TEKRAR_ESIGI = 3` (`profil.py:18`).
+
+**5 · Kurum tarafına anonim düşer.** Kişisel metin gösterilmez; yalnızca
+araç/durak/hat bazında sayılan tekrarlar.
+
+### Kurum görünümü — gerçek çıktı
+
+`/api/profil/kurum_rapor` ucunun temsilî veriyle ürettiği rapor:
+
+```
+tamamlanan yolculuk : 20        sorunlu : 4        sorun oranı : %20
+─────────────────────────────────────────────────────────────────────
+GRUPLANAN SİNYAL
+  araç M7912 · Isıtma / klima · 3 bildirim   → İNCELEME ADAYI
+
+ÜRETİLEN İŞ MADDESİ
+  "M7912 için araç inceleme adayı"
+  Isıtma / klima — 3 bildirim; saha doğrulaması gerekir
+```
+
+Dikkat edin: çıktı **iş emri değil, aday**. Sistem "bu aracı tamir et" demiyor,
+"burada tekrarlayan bir sinyal var, saha doğrulaması gerekiyor" diyor. Kararı
+kurum verir.
+
+### Erişilebilirlik ayağı
+
+Şebekedeki durakların yalnızca **%5,6'sı** erişilebilir ve ilçeler arası fark
+30 kattan fazla. Engelli kart tipindeki kullanıcılardan aynı durak için gelen
+sinyaller ayrıca işaretlenir — böylece "hangi durak önce yenilenmeli" sorusu
+tahminle değil, o durağı gerçekten kullanamayan insanların sayısıyla yanıtlanır.
+
+### Ödül ve kötüye kullanım
+
+Geçerli değerlendirme sayısı ödüle bağlanabilir (konseptte 10 değerlendirme =
+1 ücretsiz biniş). Bu, ödül avcılığını davet ettiği için bir **geçerlilik
+kontrolü** var: soruların en az yarısı yanıtlanmalı, hepsine aynı puan
+verilmişse ayrım yok sayılır, düşük puana kısa da olsa gerekçe beklenir.
+Reddedilen geri bildirim **yine kaydedilir** — yalnızca ödül sayacına girmez.
+Amaç yorumu sansürlemek değil, sayacı korumak.
+
+> ⚠️ **Bu katman konsepttir.** Gerçek İstanbulkart entegrasyonu yok, veriler
+> temsilîdir. Amaç ürün mantığının çalışır hâlini göstermek; kişisel veri
+> toplanmıyor, hiçbir yere gönderilmiyor.
+
+Arayüzdeki hâli için yukarıdaki [Yolculuklarım](#yolculuklarım-konsept)
+ekran görüntüsüne bakın.
 
 ---
 
