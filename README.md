@@ -48,6 +48,57 @@ python app.py
 
 ---
 
+## Ekrandan
+
+### Canlı harita — hat aramak
+
+`34G` yazıp **Hat Ara**'ya basınca hattın güzergâhı çizilir ve o an yolda olan
+araçlar yön oklarıyla haritaya düşer. Sağdaki panel her aracın hızını, plakasını
+ve bağlı olduğu garajı gösterir; **gidiş ve dönüş ayrı listelenir**. Sağ alttaki
+rozet verinin yaşını dürüstçe yazar (`canlı · 55 araç`); servis yanıt vermezse
+"12 dk önceki veri" der, canlı gibi göstermez.
+
+![Canlı harita](docs/gorsel/01-canli-harita.jpg)
+
+### Rota planlamak — süre ve karbon birlikte
+
+**Rota planla** panelinden nereden/nereye girilir. Sonuç yalnızca süre değil:
+her mod için tahmini CO₂ da hesaplanır ve en temiz seçenek işaretlenir.
+Aşağıdaki örnekte Bakırköy → Üsküdar için toplu taşıma **34 dk / 345 g**,
+hibrit (araç + toplu taşıma) **31 dk / 1,15 kg** çıkıyor — hibrit 3 dakika
+hızlı ama karbonu 3 kat fazla, ve bu açıkça yazılıyor.
+
+![Rota ve karbon karşılaştırması](docs/gorsel/02-rota-karbon.jpg)
+
+### Adım adım yol tarifi
+
+Bir mod seçilince panel yürüme, bekleme ve seyahat sürelerini ayrıştırır,
+güzergâhı kendi haritasına çizer. Canlı araç varsa **CANLI** rozetiyle kaç
+dakikaya geleceğini, yoksa **PLAN** rozetiyle planlı sefer saatini gösterir —
+ikisi hiçbir zaman karıştırılmaz.
+
+![Adım adım yol tarifi](docs/gorsel/03-adim-adim.jpg)
+
+### Hat karnesi
+
+Her hat, geçmiş sefer arşivinden 100 üzerinden puanlanır. Puanın nereden
+geldiği gizlenmez: üç bileşenin kırılımı, ham değerler ve düz Türkçe bir
+gerekçe gösterilir. Aşağıda 34G metrobüs süre tutarlılığında 43,8/45 alıyor
+ama düzenlilikte 5,4/25 — araçlar kümeleniyor, sistem bunu yakalıyor.
+
+![Hat karnesi](docs/gorsel/04-hat-karnesi.jpg)
+
+### Yolculuklarım *(konsept)*
+
+Temsilî İstanbulkart geçmişinden yolculuk seçilir; sorun yaşanmadıysa tek
+dokunuşla tamamlanır, yaşandıysa konum + başlık + açıklamayla bildirilir.
+Kurum görünümünde aynı araç/durak/hat için gelen bildirimler anonim olarak
+gruplanır. ⚠️ Gerçek İstanbulkart entegrasyonu **yok**, veriler temsilîdir.
+
+![Yolculuklarım](docs/gorsel/05-yolculuklarim.jpg)
+
+---
+
 ## Öne çıkan üç şey
 
 **1. Güvenilirlik skoru gerçekten ayırt ediyor.**

@@ -1,4 +1,4 @@
-# Erişilebilir İstanbul — Yol Haritası
+# İBB Yolculuk Kararı — Yol Haritası
 
 > Sunum: 1 Ağustos 2026 Cumartesi
 > Ürün tanımı ve kararlar için: `INTENT.md`

@@ -2689,7 +2689,7 @@ def build_memory_db():
     global MEMORY_DB, IS_DB_READY
 
     # ONEMLI: _HERE ile mutlak yol. Bare 'memory_db.json' CALISMA DIZININE
-    # baglidir; sunucu proje disindan (C:/Users/asus) baslatildigi icin
+    # baglidir; sunucu proje klasoru DISINDAN baslatildigi icin
     # uygulama proje klasorundekini degil ORADAKI dosyayi okuyup yaziyordu.
     # Iki ayri veri seti olusmustu (13.356 vs 13.215 durak) ve bu uzun sure
     # 'grafik kararsiz yeniden kuruluyor' sanildi. Kararsizlik yoktu.

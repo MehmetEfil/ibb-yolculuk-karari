@@ -1,4 +1,4 @@
-# Erişilebilir İstanbul — Claude için proje notları
+# İBB Yolculuk Kararı — Claude için proje notları
 
 İETT'nin vatandaş uygulaması konsepti. Tech İstanbul İnovasyon Yaz Kampı
 projesi, sunum **1 Ağustos 2026**. Flask + jinja + vanilla JS + Leaflet,
@@ -521,7 +521,8 @@ Açık kalanlar: **kavşak katmanı** uçtan geliyor ama haritaya çizilmiyor ·
 
 ## ♿ Erişilebilirlik uyarısı — kart tipine bağlı
 
-Ürünün adı **Erişilebilir İstanbul** ve şebekede durakların yalnızca
+Erişilebilirlik ürünün kurucu gerekçesiydi (ilk adı *Erişilebilir
+İstanbul* idi) — şebekede durakların yalnızca
 **%5,6'sı** (853/15.112) erişilebilir. İlçeler arası uçurum: Fatih %18,6 ·
 Beylikdüzü %17,7 ↔ Sultanbeyli %1,4 · Çekmeköy %0,6 · Adalar %0.
 

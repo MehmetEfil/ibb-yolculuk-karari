@@ -1,4 +1,4 @@
-# Erişilebilir İstanbul — İlk Ürün Notları
+# İBB Yolculuk Kararı — İlk Ürün Notları
 
 > **Arşiv notu:** Bu dosya ilk fikirleri ve geçmiş kararları korur. Kart
 > türünden engellilik çıkarımı, otomatik iş emri ve biniş ödülü güncel üründen
@@ -459,7 +459,7 @@ gösteriyor, yol haritası net" demekten daha az ikna edici.
 
 | Soru | Karar |
 |---|---|
-| Ürün adı | **Erişilebilir İstanbul** |
+| Ürün adı | **İBB Yolculuk Kararı** (ilk ad: *Erişilebilir İstanbul*) |
 | Ürünün muhatabı | İETT'nin resmî vatandaş uygulaması |
 | Engelli tanıma | İstanbulkart **kart tipinden** — beyan istenmez |
 | Erişilemez durak | **Uyarı verilir, rotadan çıkarılmaz** |
