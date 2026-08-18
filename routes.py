@@ -2229,7 +2229,7 @@ def register_routes(app, db):
         with _lock:
             # `IS_DB_READY` ICE AKTARILMAZ — services.py onu `global` ile
             # YENIDEN ATIYOR, dolayisiyla `from services import IS_DB_READY`
-            # ile alinan ad sonsuza dek False kalir. Bu, CLAUDE.md'de
+            # ile alinan ad sonsuza dek False kalir. Bu, MUHENDISLIK_NOTLARI.md'de
             # belgelenen HAT_KAPASITE tuzaginin aynisiydi: DB dolu olsa bile
             # olmayan durak sorgusu "yok" yerine "bekle" donuyordu
             # (canli dogrulandi: 13.388 durak varken bile "bekle").

@@ -1,4 +1,8 @@
-# İBB Yolculuk Kararı — Claude için proje notları
+# İBB Yolculuk Kararı — Mühendislik Notları
+
+Bu dosya projedeki her düzeltmenin **neden** yapıldığını ve hangi ölçüme
+dayandığını tutar. Projede birkaç varsayım veriyle çürüdü; gerekçeler
+burada kayıt altında ki aynı hata tekrar yapılmasın.
 
 İETT'nin vatandaş uygulaması konsepti. Tech İstanbul İnovasyon Yaz Kampı
 projesi, sunum **1 Ağustos 2026**. Flask + jinja + vanilla JS + Leaflet,

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Rota ve yön — geçmişte en çok hata bu alandan çıktı, hepsi burada kilitli.
 
-Korunan düzeltmeler (CLAUDE.md "Rota planlayıcı — düzeltilmiş 4 hata"):
+Korunan düzeltmeler (MUHENDISLIK_NOTLARI.md "Rota planlayıcı — düzeltilmiş 4 hata"):
   1. Kapalı tur mesafesi — hatların %45,6'sında G kolu gidiş+dönüşü birlikte
      tutuyor; tek "en yakın köşe" yaklaşımı 0,18 km'lik mesafeyi 29,96 km
      hesaplıyordu.

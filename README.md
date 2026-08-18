@@ -223,7 +223,7 @@ ekran görüntüsüne bakın.
 | `hat_durak_sira.json` | 837 hat için YÖN + SIRANO durak sırası |
 | `panel_data/` | 841 güzergâh çizgisi, hat listesi, kapasite, araç bakım kaydı |
 
-Teknik ayrıntı ve her düzeltmenin **gerekçesi** için `CLAUDE.md`,
+Teknik ayrıntı ve her düzeltmenin **gerekçesi** için `MUHENDISLIK_NOTLARI.md`,
 güncel ürün kararları için `docs/URUN_MANTIGI.md`.
 
 ---

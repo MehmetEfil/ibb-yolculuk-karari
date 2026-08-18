@@ -46,7 +46,7 @@ Cumartesi  1  SUNUM
 ### ✅ Tamamlandı — araç yönü saha testi
 - **31 Tem 2026'da yapıldı**: 4 hat, 87 araç, 130 sn arayla iki ölçüm.
   `guzergahkodu`'ndan okunan yön araçların `SIRANO` ilerlemesiyle **86/87**
-  uyumlu. Detay: `CLAUDE.md` → "Araç yönü — SAHA TESTİ YAPILDI".
+  uyumlu. Detay: `MUHENDISLIK_NOTLARI.md` → "Araç yönü — SAHA TESTİ YAPILDI".
 
 ### ✅ Demoya alınan ürün katmanı
 - **Hat performansı** — açıklanabilir skor ve hat detayı
