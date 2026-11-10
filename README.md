@@ -5,9 +5,6 @@ kurumun iyileştirme süreciyle buluşturan İBB ulaşım konsepti.
 
 Tech İstanbul İnovasyon Yaz Kampı · sunum **1 Ağustos 2026**
 
-`Desktop/iett staj/iett_panel` klasörünün kopyasından türetildi.
-**Orijinale dokunulmadı.**
-
 ---
 
 ## Kurulum
